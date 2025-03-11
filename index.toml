@@ -34,7 +34,7 @@ hash = "5fdf0c4bce8cf1cfaae1205fcc7eb086d95cd6341533d60431e420ac7d23f2ef"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "0930ce742454c0394e806e10dc6ed559e92ea02e97b66ea476029d832228b523"
+hash = "5ac449f082a3ca4766a499681419f74c29eac0d7aa2f813eca1da9fcd5136800"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -63,6 +63,18 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 [[files]]
 file = "config/sidebar_buttons.json"
 hash = "e32c6fff835600bb4e5c7cdbfc89e1b33c95a2bdae0ec5a7947d059b8ce21527"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "2af85daa0eba4f9febba8c01e50d7f6dc5a05dde5011074e702b74811e8f0e22"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "dce1fcb78edf327427ec7a368f12b65f126e681ff07af22959113287b074c1fe"
+
+[[files]]
+file = "icon.png"
+hash = "02b29d71d8f51400e119125d4cea3d79ac1105b7428a61a8f4018590314e85ed"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1502,7 +1514,7 @@ hash = "19fc086597a99a5542c2e40c5b3556ad3e6f292bd235c25b6ecabd9d49089279"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing_rebirth.js"
-hash = "af09c5d2b3b815ffe29fee5a61c2622a1da6e3be72e0a363547adcf19d5fbe21"
+hash = "b32978e0b2c548d1d126c428aba165e7079a001be450ce8b1de612cb5675135e"
 
 [[files]]
 file = "kubejs/server_scripts/tag/rebirth.js"
@@ -1519,10 +1531,6 @@ hash = "06a5256e2af226880b37f0aa945cce4496c9b577e4937a98b58d3c803b532ce9"
 [[files]]
 file = "kubejs/startup_scripts/constdef.js"
 hash = "ae58c38758e75beed626c52f252c1a28ce40d0b8e78ba10f9129486490a1ec6a"
-
-[[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "kubejs/startup_scripts/modify/armor.js"
@@ -1593,24 +1601,20 @@ file = "mods/XpObelisk-0.5.0+1.20.1.jar"
 hash = "2a20228e30934e7ea410cd1821d3e29417bce7483d936d4f1b86f7e1a18a7d16"
 
 [[files]]
-file = "mods/[IR3-Only]InfinityCore-1.0.jar"
+file = "mods/[IR3Only]InfinityCore-1.0.jar"
 hash = "c68fb9c7ea719744a036309631cd4ab4ff776c5a3345cd205996cc1fe1fce096"
 
 [[files]]
-file = "mods/[IR3-Only]X-Enchantment-1.20.1-1.0.10-SNAPSHOT.jar"
+file = "mods/[IR3Only]X-Enchantment-1.20.1-1.0.10-SNAPSHOT.jar"
 hash = "435b89e8ead250ea1fb3771f228c70fcb9b580c7e60dc41b6d9f5642105a90cf"
 
 [[files]]
-file = "mods/[IR3-Only]gate-of-babylon-1.8.0+1.20.1.jar"
+file = "mods/[IR3Only]gate-of-babylon-1.8.0+1.20.1.jar"
 hash = "59103c5a679b4b4410e1f2b0b061184572a89e8f6965855494513977f2489034"
 
 [[files]]
-file = "mods/[IR3-Only]tiered-1.3.3.jar"
+file = "mods/[IR3Only]tiered-1.3.3.jar"
 hash = "69050367f6e48ad6b80b939983f16e7794d045a22ce90292d600730003adcc25"
-
-[[files]]
-file = "mods/[IR3-Only]villagerquests-1.1.2.jar"
-hash = "0dd0f4c6186b62416df3f570678b36e66fab9686a555856d10abb483875cb017"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
@@ -2705,6 +2709,10 @@ hash = "eab96b0bfb4f642b7e3de9dea7116b422e63a82b35068cbc9f4edffa5999f6d3"
 metafile = true
 
 [[files]]
+file = "mods/villagerquests-1.1.2.jar"
+hash = "0dd0f4c6186b62416df3f570678b36e66fab9686a555856d10abb483875cb017"
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
 metafile = true
@@ -2818,6 +2826,10 @@ metafile = true
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "f237eba4f9a8fd48002f4f0de579059ac339605f3de85d10e563bcbe00c23782"
 
 [[files]]
 file = "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"
