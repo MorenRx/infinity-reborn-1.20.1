@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/asteorbar.json5"
+hash = "7a3cc5657297f70fc836204bdee1f5a27908ddc8386e36485eb2d00374056f70"
+
+[[files]]
+file = "config/combatroll/client.json5"
+hash = "f0e0d55676670ce9dcebb01bd1dc1b479fbede6e709ae8df0432c3949b01e1b5"
+
+[[files]]
+file = "config/combatroll/hud_config.json"
+hash = "770ba75decc51675805e614f9379e476e8ed256d23a0bc09f9d401235359af78"
+
+[[files]]
+file = "config/customcursormod.json"
+hash = "9fac6c6b4debc986258d9af151227420b65b53e288921a3fd28eaa647b2c8cf9"
+
+[[files]]
+file = "config/eldritch_mobs.json5"
+hash = "5e7161eeffefcb4b121ec8bf90e147e52c15b3fbdf3925a5a43eb4fde0ba747c"
+
+[[files]]
+file = "config/emi.css"
+hash = "bf191c776680244c0678a7ba18a04b3ca25449a9239f05b122e0d709b7babf1d"
+
+[[files]]
 file = "config/fancymenu/assets/background_loading.png"
 hash = "351f6846ebb9934af1e0057d50e176f1fa6706ec09ce4d0a3a762fb08256a381"
 
@@ -61,8 +85,24 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/ingameime.json"
+hash = "a691efb5262d0b4f56be1a537066f198f55cdfcc61b5fac14d3550e846f89ece"
+
+[[files]]
+file = "config/inventoryhud.json"
+hash = "9236edb81e905d87dca9230170c1b19965564563b7422fafaaf5e6dc8f6706ac"
+
+[[files]]
+file = "config/itemborders-common.toml"
+hash = "901f5111556d622ff765d29e82be72bf7432a3986746ba9607b5c1be4d3ea725"
+
+[[files]]
+file = "config/shouldersurfing-client.toml"
+hash = "2922dce2933183493e0aae1a9453b498df18f32ba06b15b446f27b0fe41d53b2"
+
+[[files]]
 file = "config/sidebar_buttons.json"
-hash = "e32c6fff835600bb4e5c7cdbfc89e1b33c95a2bdae0ec5a7947d059b8ce21527"
+hash = "d7b3dd26f91f1950f4dc0477aa23be08440b496a77d5d5b5c4542f30a3a0ec95"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -71,6 +111,34 @@ hash = "2af85daa0eba4f9febba8c01e50d7f6dc5a05dde5011074e702b74811e8f0e22"
 [[files]]
 file = "config/sodium-options.json"
 hash = "dce1fcb78edf327427ec7a368f12b65f126e681ff07af22959113287b074c1fe"
+
+[[files]]
+file = "config/title.json"
+hash = "25f31abb3064fe476733bf55cecd211e999b012e58a735f2166613252a7ea837"
+
+[[files]]
+file = "config/trashslot-common.toml"
+hash = "f2786f3b8ed8572c0eeac5081d421ee7d29ca415b333545ffc21a9dcfccf2e03"
+
+[[files]]
+file = "config/tslatentitystatus.json"
+hash = "83ae35c27dc4bb023165a07289db0260360549605fcebd38d6789161f61035df"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "b8f21fcd5f2376b0c742f75e8962d237b41a44d8847b975016ae42736affc089"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "af3db5229d91ecd6e09c18d355b66959984e41d6b6e6e85074afae993fe50bea"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "icon.png"
@@ -205,6 +273,10 @@ file = "kubejs/assets/botania/textures/item/terra_sword.png"
 hash = "7262da076f9993179c41e3366872df32bfb9c7ec68e838119da419b59e22ce8e"
 
 [[files]]
+file = "kubejs/assets/customportalapi/lang/zh_cn.json"
+hash = "9de8b002f639c968684ad323a6c715e18b9fc14aa2fa947e3b000c772ff71239"
+
+[[files]]
 file = "kubejs/assets/ftbquests/lang/zh_cn.json"
 hash = "42f1c84f5bed4184d54f631f1659adb34d1fc6d193bde5b9a5bbb09d7095819b"
 
@@ -214,7 +286,7 @@ hash = "79ab966c20ed519462d89930f241e9ec0eab0dd5edf8f44d28a2adc7d3dcad53"
 
 [[files]]
 file = "kubejs/assets/infinity_reborn/lang/zh_cn.json"
-hash = "a7ee65ef570faafa53915f4e4277a687fab484fb9aecf05b8aee57807c33eb76"
+hash = "3c3b11040885505704a6badbe336a5ca210b6e53e2d314accb13a83ffcd37eed"
 
 [[files]]
 file = "kubejs/assets/infinity_reborn/models/item/crystal_bow.json"
@@ -330,7 +402,11 @@ hash = "d8fdee7eeec27f0c60ee61e04a0f1a514bd96fe6e3adfaa8513c9fadcd55c065"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/zh_cn.json"
-hash = "249dcf716bb9509d438a0e9f99701a38bfcf8f748d182cf8d0c58fd56c29f94e"
+hash = "846f83f9e3921b87344dc9d2f79ebd180a5c8359cccbe1f6e6609c7a8c88ecb7"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/special_obsidian.json"
+hash = "65107872db408ef88f273a18a1b48f1c149523d78208ee55292fa1addab88a1e"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/ailinghan.json"
@@ -353,6 +429,10 @@ file = "kubejs/assets/kubejs/models/item/model_katana.json"
 hash = "51caac101c51fa4e4580e2724cde540488cd5a73db11514637d7d8866f56a2fe"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/item/special_obsidian.json"
+hash = "9d2b78c20c0770873c5d5a8da2f4b75bc6e581165ad158e4699a173bb6ee4d89"
+
+[[files]]
 file = "kubejs/assets/kubejs/sounds.json"
 hash = "1ae7256db22636a3979bf687192ab048cff2a3b9f0c78d306f6acbe6ec36e72b"
 
@@ -371,6 +451,10 @@ hash = "ef81dfc7f4cc6758dc57d41cdcc007a0f42ce2d4cd9684d85dd28bd3e1d7cb15"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/adamantite_brick.png"
 hash = "1bb4582856c46f2a8bd77f49f93a213a11a55aa0f7bb503640f33d28d3ed4dd1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/special_obsidian.png"
+hash = "d8fc3574f22c2553257c6e71c9b0ed07905050d950b9bb448a024523cb63c61e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/ftbq/10.png"
@@ -891,14 +975,6 @@ hash = "23f03b53ea78fe3d21a28a5c0cc9faf382d9d78cc7006e17005c4483d306a0f0"
 [[files]]
 file = "kubejs/assets/legendarytooltips/textures/gui/tooltip_borders.png"
 hash = "78b3762715d83fee80efe5080384bbc3905dbdf7054f062f9a56e4e53170a8e4"
-
-[[files]]
-file = "kubejs/assets/majobroom/models/item/stocking.json"
-hash = "61cd47052b60a974bb814971f868c233c2a4c56266c6ab1759e243f30cc5fec9"
-
-[[files]]
-file = "kubejs/assets/majobroom/textures/item/stocking.png"
-hash = "366512ae746426f3b27fc99fd4e01cbf116b2a6ed41322ed911c0b91da4245bf"
 
 [[files]]
 file = "kubejs/assets/mcdw/models/item/dagger_the_beginning.json"
@@ -1505,6 +1581,10 @@ file = "kubejs/config/probejs.json"
 hash = "eb0bfaed60482e4e159ff4e2452cc098de57689f7cc82b4c9d9f112548173da6"
 
 [[files]]
+file = "kubejs/data/custom/portals/nether.json"
+hash = "ce5d920ae06b0c74acd927e081fa9d294f1f7b349989199ce5818a1719e782c8"
+
+[[files]]
 file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
@@ -1558,7 +1638,7 @@ hash = "82ad3c3e593f36eae7c53e5111c25bf636272cb0aa3f38d207ca663c8be5a5fc"
 
 [[files]]
 file = "kubejs/startup_scripts/register/block.js"
-hash = "9b840e7c33538421f2482c96a89551885a17bfb8d6912c4b1834277c22e5ed5c"
+hash = "de2c8ac129157836a39451a2525adbf0d0cd3e3b951341cf67aa45712bb8a282"
 
 [[files]]
 file = "kubejs/startup_scripts/register/easter_egg.js"
@@ -1593,16 +1673,12 @@ file = "kubejs/startup_scripts/utils/attribute_utils.js"
 hash = "92990f89a342a1a3fdcf1401a97c233b2fb8780add819b8aabb1bd3fb18ca4c6"
 
 [[files]]
-file = "mods/RandomTitleReborn-1.0.jar"
-hash = "e4fb0bbe53cd7d8a676d9769bfc430718c52b553ec3c923a15aad46e674b6af1"
-
-[[files]]
 file = "mods/XpObelisk-0.5.0+1.20.1.jar"
 hash = "2a20228e30934e7ea410cd1821d3e29417bce7483d936d4f1b86f7e1a18a7d16"
 
 [[files]]
-file = "mods/[IR3Only]InfinityCore-1.0.jar"
-hash = "c68fb9c7ea719744a036309631cd4ab4ff776c5a3345cd205996cc1fe1fce096"
+file = "mods/[IR3Only]InfinityCore-1.1.jar"
+hash = "e02c6404bf9ca9fd478284880268cf97b964003a3258ad15f572d86aa4e2cc75"
 
 [[files]]
 file = "mods/[IR3Only]X-Enchantment-1.20.1-1.0.10-SNAPSHOT.jar"
@@ -1877,11 +1953,6 @@ hash = "51cc547e006f342b91b7c4df3298f237f4ad52c533f117be8e0e3ef5d8a465b1"
 metafile = true
 
 [[files]]
-file = "mods/data-attributes-directors-cut.pw.toml"
-hash = "f4e4b52de23c6babbc99f2412205c347d79a932a847e5112e7b2471d7557c7f3"
-metafile = true
-
-[[files]]
 file = "mods/datapack-portals.pw.toml"
 hash = "0fee17fd9e5d172d9e2ba1fae779416c2ebd6d830a45773160eeb60738c9ad6f"
 metafile = true
@@ -2050,10 +2121,6 @@ metafile = true
 file = "mods/fabric-shield-lib.pw.toml"
 hash = "e2af8517252c666e1b4203cdcf6a493a157cf1985e1c776b6a9a72ca68f36d9e"
 metafile = true
-
-[[files]]
-file = "mods/fabric-yaml-configuration-1.0.0.jar"
-hash = "2926421dce010e8121d87f13d1df7889fae3bdca9715067199c1abeba61af127"
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
@@ -2271,7 +2338,7 @@ metafile = true
 
 [[files]]
 file = "mods/majobroom-1.2.5.jar"
-hash = "e315871560de1ede4901c5c6ab14186be0e602a0990efaab7e50254ed2735788"
+hash = "2e3ea997de9244a9238a2bcd996dfbdfb4e6c1b88a3adbcb0db5408ff87a98f3"
 
 [[files]]
 file = "mods/mariums-soulslike-weaponry.pw.toml"
@@ -2448,11 +2515,6 @@ hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
 
 [[files]]
-file = "mods/playerex-directors-cut.pw.toml"
-hash = "c010b43d3d677c3aa4f0e752bd6657e1b41f085adb33fbfdd721f59946a2bd60"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "22517018388c911b457143b3934634cc6d0b4bfbf26a39fee2a50785892955af"
 metafile = true
@@ -2535,11 +2597,6 @@ metafile = true
 [[files]]
 file = "mods/simple-emerald-tools-fabric.pw.toml"
 hash = "614566f5ee0e337913a772de71ad734d20bf0f75cabe04d95409b9a3bcfb255c"
-metafile = true
-
-[[files]]
-file = "mods/simple-quiver.pw.toml"
-hash = "fe98a568ae1aea3a473083ec1642fb6b1a452d2745b635ea75ac8e6b67afc917"
 metafile = true
 
 [[files]]
@@ -2834,7 +2891,3 @@ hash = "f237eba4f9a8fd48002f4f0de579059ac339605f3de85d10e563bcbe00c23782"
 [[files]]
 file = "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"
 hash = "66162b3018654e91b0611e7d31eb0ccc7e8255f09004bcb4f6340ce75cdd4bec"
-
-[[files]]
-file = "title.yml"
-hash = "2049ed937d387024a76488a3a1a23d74106d6ca52a97698dcb62fb2da0d6d584"
