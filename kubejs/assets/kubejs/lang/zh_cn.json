@@ -1,0 +1,402 @@
+{
+	"item.kubejs.huan_lin_ying": "18星海龟壳",
+	"item.kubejs.huan_lin_ying.tooltip.1": "诺华觉得，穿上这个帽子的人，跟大聪明没区别",
+	"item.kubejs.huan_lin_ying.tooltip.2": "无限重生三群管理员:宫上诺华留",
+	"item.kubejs.huan_lin_ying.tooltip.3": "--来自赞助者宫上诺华",
+	
+	"item.kubejs.baigei_boots": "§6白给靴",
+	"item.kubejs.baigei_boots.tooltip.1": "§7感知",
+	"item.kubejs.baigei_boots.tooltip.2": "§7生命恢复III",
+	"item.kubejs.baigei_boots.tooltip.3": "§7速度II",
+	"item.kubejs.baigei_boots.tooltip.4": "§7抗性提升Ⅳ",
+	"item.kubejs.baigei_boots.tooltip.5": "§6@极限生存挑战通关者-huasuia",
+	
+	
+	"item.kubejs.jing__xin": "镜心的头",
+    "item.kubejs.jing__xin.tooltip.1": "右键有惊喜",
+    "item.kubejs.jing__xin.tooltip.2": "--来自赞助者Jing__Xin",
+
+    "item.kubejs.x_nuohua": "§4琉§6璃§e星§a夜§b溯§3流§d光",
+    "item.kubejs.x_nuohua.tooltip.1": "右键召唤流星",
+    "item.kubejs.x_nuohua.tooltip.2": "--来自赞助者X_nuohua",
+
+    "item.kubejs.paolude_xiaxin": "§4夏新",
+    "item.kubejs.paolude_xiaxin.tooltip.1": "§4夏新的头",
+
+    "item.kubejs.paolude_zhanji": "§4天稽阁主-斩稽",
+    "item.kubejs.paolude_zhanji.tooltip.1": "§4斩稽的头",
+
+    "item.kubejs.paolude_jy": "§b跟着凑热闹的Jy",
+    "item.kubejs.paolude_jy.tooltip.1": "§bJy.的头",
+    "item.kubejs.paolude_jy.tooltip.2": "§a右键获得隐藏奖励",
+
+    "item.kubejs.guguji": "§b咕咕稽",
+    "item.kubejs.guguji.tooltip.1": "这是个鸽子",
+
+    "item.kubejs.nightbreak": "破夜的头",
+    "item.kubejs.nightbreak.tooltip.1": "无限一代整合包作者",
+
+    "item.kubejs.shashen": "§4Dream_Promise",
+    "item.kubejs.shashen.tooltip.1": "§4服务器首个完成击杀100凋零任务群友",
+
+    "item.kubejs.gandi": "§4he will return",
+    "item.kubejs.gandi.tooltip.1": "§4服务器首个完成全部挖矿任务群友",
+
+    "item.kubejs.tu_kuai": "很脏的块",
+    "item.kubejs.tu_kuai.tooltip.1": "一个不一样的泥土",
+
+    "item.kubejs.shi_kuai": "坚硬的圆石",
+    "item.kubejs.shi_kuai.tooltip.1": "比较坚韧的圆石",
+
+    "item.kubejs.shi_shen_kuai": "脆弱的深板岩",
+    "item.kubejs.shi_shen_kuai.tooltip.1": "这块深板岩看起来很脆弱",
+
+    "item.kubejs.xiajie_kuai": "奇怪的地狱岩",
+    "item.kubejs.xiajie_kuai.tooltip.1": "他貌似有些奇怪?",
+
+    "item.kubejs.modi_kuai": "普通的末地石",
+    "item.kubejs.modi_kuai.tooltip.1": "这只是个末地石",
+
+    "item.kubejs.yuan_mu": "原木",
+    "item.kubejs.yuan_mu.tooltip.1": "普通的木头",
+
+    "item.kubejs.mu_ban": "木板",
+    "item.kubejs.mu_ban.tooltip.1": "普通的木板",
+
+    "item.kubejs.zhongzi": "§c中子灭杀",
+    "item.kubejs.zhongzi.tooltip.1": "§7我们将其称为高效",
+    "item.kubejs.zhongzi.tooltip.2": "@moyuguguji",
+	
+	
+    "item.kubejs.ametrine_crystal": "§5助锻紫晶",
+	"item.kubejs.ametrine_crystal.tooltip.1": "§5品质改造不可少的催化剂",
+	"item.kubejs.ametrine_crystal.tooltip.2": "§5放在右侧插槽",
+	
+    "item.kubejs.crystal_tiered": "§6神铸晶",
+	"item.kubejs.crystal_tiered.tooltip.1": "§6某些不可修复装备的品质改造材料",
+	"item.kubejs.crystal_tiered.tooltip.2": "§6放在左侧插槽",
+	"item.kubejs.crystal_tiered.tooltip.3": "§6不是所有装备都可以使用！",
+	"item.kubejs.crystal_tiered.tooltip.4": "§6盾、弓、弩都需要这个锻造品质！",
+	
+    "item.kubejs.shenqi_shard": "§6神器碎片",
+	"item.kubejs.shenqi_shard.tooltip.1": "§7收集散落的神器碎片来打造神器",
+	
+	"item.kubejs.shenqi_ingot": "§6神器零件",
+	"item.kubejs.shenqi_ingot.tooltip.1": "§7收集散落的神器零件来打造神器",
+	
+    "item.kubejs.sheng_jin": "§6神金",
+    "item.kubejs.sheng_jin.tooltip.1": "圣金",
+	
+	"item.kubejs.shining_star": "§6闪耀之星",
+	
+	"item.kubejs.infinity_sword_a": "§9无限支配之剑剑柄",
+	"item.kubejs.infinity_sword_a.tooltip.1": "无限支配之剑的部件之一",
+    "item.kubejs.infinity_sword_a.tooltip.2": "但哪怕是一个部件也有非常恐怖的力量。",
+	
+	"item.kubejs.infinity_sword_b": "§9无限支配之剑剑身",
+    "item.kubejs.infinity_sword_b.tooltip.1": "无限支配之剑的部件之一",
+    "item.kubejs.infinity_sword_b.tooltip.2": "没有剑柄的剑刃似乎无法空手掌握，不然会被其上附着的力量轻易反噬。",
+	
+    "item.kubejs.jiushu_heart_shard": "救赎之心碎片",
+	
+    "item.kubejs.jiushu_heart": "§4救赎之心",
+    "item.kubejs.jiushu_heart.tooltip.1": "使用减少2点难度",
+	
+	"item.kubejs.disintegration_tablet": "§e崩解牌",
+    "item.kubejs.disintegration_tablet.tooltip.1": "这并不是一次性用品",
+	
+	"item.kubejs.spectral_silt": "§b幽冥尘",
+	
+    "item.kubejs.strong_fossil": "天赋强化石",
+    "item.kubejs.strong_fossil.tooltip.1": "仅对已有天赋的装备强化",
+    "item.kubejs.strong_fossil.tooltip.2": "很大概率失败",
+	
+	"item.kubejs.bloody_tear": "§4血泪",
+    "item.kubejs.bloody_tear.tooltip.1": "§4右键召唤超级血夜",
+	
+	"item.kubejs.soul_bone": "灵魂之骨",
+    "item.kubejs.soul_bone.tooltip.1": "鹿之精魂的力量来源",
+	
+	"item.kubejs.skill_bottle": "§9技能之瓶",
+    "item.kubejs.skill_bottle.tooltip.1": "右键使用来返还一点属性点",
+	
+    "item.kubejs.shi_lian": "十连抽卡券",
+    "item.kubejs.shi_lian.tooltip.1": "§e§l右键抽一次十连",
+	
+    "item.kubejs.boss_rush": "远古之魂",
+    "item.kubejs.boss_rush.tooltip.1": "§e§l右键召唤所有boss",
+    "item.kubejs.boss_rush.tooltip.2": "§4后果自负!",
+	
+    "item.kubejs.yan_qiu": "眼球召唤",
+    "item.kubejs.yan_qiu.tooltip.1": "右键在末地召唤眼球",
+	
+    "item.kubejs.hei_shi": "黑石傀儡召唤",
+    "item.kubejs.hei_shi.tooltip.1": "右键在地狱召唤黑石傀儡",
+	
+    "item.kubejs.xu_wu": "虚无之刺",
+    "item.kubejs.xu_wu.tooltip.1": "主手持有时攻击地狱之手将其秒杀",
+    "item.kubejs.xu_wu.tooltip.2": "不掉落难度额外物品",
+
+	"item.kubejs.difficulty_changer": "§6难度切换器",
+	"item.kubejs.difficulty_changer.tooltip.1": "§7右键使用以切换难度",
+	"item.kubejs.difficulty_changer.tooltip.2": "§c游戏id请勿使用中文名",
+	"item.kubejs.difficulty_changer.tooltip.3": "§c使用时请勿在副手持有物品",
+	"item.kubejs.difficulty_changer.tooltip.4": "§a旅途",
+	"item.kubejs.difficulty_changer.tooltip.5": "§7- 正常的生存",
+	"item.kubejs.difficulty_changer.tooltip.6": "§7- 更多具体详情请查看任务书",
+	"item.kubejs.difficulty_changer.tooltip.7": "§e经典",
+	"item.kubejs.difficulty_changer.tooltip.8": "§7- 怪物的攻击力增加10%",
+	"item.kubejs.difficulty_changer.tooltip.9": "§7- 生物受到的玩家伤害减少10%",
+	"item.kubejs.difficulty_changer.tooltip.10": "§7- 更多具体详情请查看任务书",
+	"item.kubejs.difficulty_changer.tooltip.11": "§c专家",
+	"item.kubejs.difficulty_changer.tooltip.12": "§7- 怪物的攻击力增加15%",
+	"item.kubejs.difficulty_changer.tooltip.13": "§7- 生物受到的玩家伤害减少20%",
+	"item.kubejs.difficulty_changer.tooltip.14": "§7- 更多具体详情请查看任务书",
+	"item.kubejs.difficulty_changer.tooltip.15": "§4大师",
+	"item.kubejs.difficulty_changer.tooltip.16": "§7- 怪物的攻击力增加50%",
+	"item.kubejs.difficulty_changer.tooltip.17": "§7- 生物受到的玩家伤害减少40%",
+	"item.kubejs.difficulty_changer.tooltip.18": "§7- 怪物护甲值不会低于5,boss护甲值不会低于10",
+	"item.kubejs.difficulty_changer.tooltip.19": "§4死亡",
+	"item.kubejs.difficulty_changer.tooltip.20": "§7- 怪物的攻击力增加150%",
+	"item.kubejs.difficulty_changer.tooltip.21": "§7- 生物受到的玩家伤害减少60%",
+	"item.kubejs.difficulty_changer.tooltip.22": "§7- 怪物护甲值不会低于15,boss护甲值不会低于20",
+	"item.kubejs.difficulty_changer.tooltip.23": "§7- 每次攻击boss会减少boss10%护甲值",
+	"item.kubejs.difficulty_changer.tooltip.24": "§7- 其余与大师难度一致,仅供挑战",
+	
+	"item.kubejs.yong_hen_star.name": "§b永恒之星",
+	"item.kubejs.yong_hen_star.tooltip.1": "右键切换永恒难度",
+	"item.kubejs.yong_hen_star.tooltip.2": "§4没脑子不要玩!",
+
+	"item.kubejs.red_packet": "§c红包",
+	"item.kubejs.red_packet.tooltip.1": "§7新年快乐!",
+
+	"item.kubejs.firecracker": "§c鞭炮",
+	"item.kubejs.firecracker.tooltip.1": "§7右键任意方块使用，建议不要在家里用",
+
+	"item.kubejs.chinese_dumpling": "饺子",
+	"item.kubejs.chinese_dumpling.tooltip.1": "§7好味道！",
+
+	"item.kubejs.sao_di": "§6清理扫帚",
+	"item.kubejs.sao_di.tooltip.1": "右键清理掉落物",
+	"item.kubejs.sao_di.tooltip.2": "§4需要作弊权限",
+
+	"item.kubejs.boss_compass1": "§6boss罗盘-夜巫妖",
+	"item.kubejs.boss_compass1.tooltip.1": "右键使用显示最近的boss建筑",
+
+	"item.kubejs.boss_compass2": "§6boss罗盘-地狱之手",
+	"item.kubejs.boss_compass2.tooltip.1": "右键使用显示最近的boss建筑",
+
+	"item.kubejs.boss_compass3": "§6boss罗盘-黑曜石之柱",
+	"item.kubejs.boss_compass3.tooltip.1": "右键使用显示最近的boss建筑",
+
+	"item.kubejs.boss_compass4": "§6boss罗盘-虚空之花",
+	"item.kubejs.boss_compass4.tooltip.1": "右键使用显示最近的boss建筑",
+
+	"item.kubejs.boss_compass5": "§6boss罗盘-远古英雄",
+	"item.kubejs.boss_compass5.tooltip.1": "右键使用显示最近的boss建筑",
+
+	"item.kubejs.boss_compass6": "§6boss罗盘-莫德凯撒",
+	"item.kubejs.boss_compass6.tooltip.1": "右键使用显示最近的boss建筑",
+
+	"item.kubejs.boss_compass7": "§6boss罗盘-亚托克斯",
+	"item.kubejs.boss_compass7.tooltip.1": "右键使用显示最近的boss建筑",
+
+	"item.kubejs.gu": "灵感菇",
+
+	"item.kubejs.gold_coin": "异界金币",
+	"item.kubejs.gold_coin.tooltip.1": "§6用于饰品重铸",
+	"item.kubejs.gold_coin.tooltip.2": "沟槽的哥布林还在追我",
+
+	"item.kubejs.miner_quests": "矿工任务奖励袋(初级)",
+
+	"item.kubejs.fisherman_quests": "渔夫任务奖励袋(初级)",
+
+	"item.kubejs.farmer_quests": "农民任务奖励袋(初级)",
+
+	"item.kubejs.starter_bag": "新手礼包",
+	"item.kubejs.starter_bag.tooltip.1": "右键使用",
+	
+	
+	"item.kubejs.upgrade_poison": "§2Ⅰ阶武器转生石-蚀骨",
+    "item.kubejs.upgrade_poison.tooltip.1": "§2仅限部分装备可用",
+    "item.kubejs.upgrade_poison.tooltip.2": "§2使用后重置武器一切效果",
+    "item.kubejs.upgrade_poison.tooltip.3": "§2新武器获得超限毒素天赋",
+
+    "item.kubejs.upgrade_frost": "§bⅠ阶武器转生石-凛冽",
+    "item.kubejs.upgrade_frost.tooltip.1": "§b仅限部分装备可用",
+    "item.kubejs.upgrade_frost.tooltip.2": "§b使用后重置武器一切效果",
+    "item.kubejs.upgrade_frost.tooltip.3": "§b新武器获得超限冰霜天赋",
+
+    "item.kubejs.upgrade_fire": "§cⅠ阶武器转生石-灼炎",
+    "item.kubejs.upgrade_fire.tooltip.1": "§c仅限部分装备可用",
+    "item.kubejs.upgrade_fire.tooltip.2": "§c使用后重置武器一切效果",
+    "item.kubejs.upgrade_fire.tooltip.3": "§c新武器获得超限烈焰天赋",
+
+    "item.kubejs.upgrade_yuan": "§eⅢ阶武器转生石-元素",
+    "item.kubejs.upgrade_yuan.tooltip.1": "§e仅限部分装备可用",
+    "item.kubejs.upgrade_yuan.tooltip.2": "§e使用后重置武器一切效果",
+    "item.kubejs.upgrade_yuan.tooltip.3": "§e新武器获得超限烈焰,毒素,冰霜天赋",
+
+    "item.kubejs.upgrade_crit": "§5Ⅱ阶武器转生石-强袭",
+    "item.kubejs.upgrade_crit.tooltip.1": "§5仅限部分装备可用",
+    "item.kubejs.upgrade_crit.tooltip.2": "§5使用后重置武器一切效果",
+    "item.kubejs.upgrade_crit.tooltip.3": "§5新武器获得超限重击天赋",
+
+    "item.kubejs.upgrade_lifesteal": "§4Ⅱ阶武器转生石-吸血",
+    "item.kubejs.upgrade_lifesteal.tooltip.1": "§4仅限部分装备可用",
+    "item.kubejs.upgrade_lifesteal.tooltip.2": "§4使用后重置武器一切效果",
+    "item.kubejs.upgrade_lifesteal.tooltip.3": "§4新武器获得超限吸血天赋",
+
+    "item.kubejs.upgrade_ren": "§4Ⅵ阶武器转生石-重刃",
+    "item.kubejs.upgrade_ren.tooltip.1": "§4仅限部分装备可用",
+    "item.kubejs.upgrade_ren.tooltip.2": "§4使用后重置武器一切效果",
+    "item.kubejs.upgrade_ren.tooltip.3": "§4新武器获得超限重击,吸血天赋",
+
+    "item.kubejs.upgrade_life": "§dⅠ阶护甲转生石-生命",
+    "item.kubejs.upgrade_life.tooltip.1": "§d仅限部分装备可用",
+    "item.kubejs.upgrade_life.tooltip.2": "§d使用后重置护甲一切效果",
+    "item.kubejs.upgrade_life.tooltip.3": "§d新护甲获得超限生命天赋",
+
+    "item.kubejs.upgrade_defence": "§eⅡ阶护甲转生石-护佑",
+    "item.kubejs.upgrade_defence.tooltip.1": "§e仅限部分装备可用",
+    "item.kubejs.upgrade_defence.tooltip.2": "§e使用后重置护甲一切效果",
+    "item.kubejs.upgrade_defence.tooltip.3": "§e新护甲获得超限抗性天赋",
+	
+	"item.kubejs.upgrade_liuren": "§b重塑核心",
+    "item.kubejs.upgrade_liuren.tooltip.1": "§b仅限部分装备可用！",
+    "item.kubejs.upgrade_liuren.tooltip.2": "§b使用后重置武器一切效果",
+    "item.kubejs.upgrade_liuren.tooltip.3": "§b新武器获得超限重击,吸血,烈焰,毒素,冰霜天赋",
+	
+	"item.kubejs.upgrade_nami": "§e纳米核心",
+    "item.kubejs.upgrade_nami.tooltip.1": "§e仅限部分装备可用！",
+    "item.kubejs.upgrade_nami.tooltip.2": "§e使用后重置护甲一切效果",
+    "item.kubejs.upgrade_nami.tooltip.3": "§e新护甲获得超限抗性,生命天赋",
+	
+	
+	"item.kubejs.crude_pickaxe": "燧石镐",
+		
+	"item.kubejs.crude_axe": "燧石斧",
+	
+	"item.kubejs.crude_spade": "燧石铲",
+	
+	"item.kubejs.kreska": "§f直镐",
+    "item.kubejs.kreska.tooltip.1": "§f压迫点 Prime：+165%近战攻击伤害",
+    "item.kubejs.kreska.tooltip.2": "§f剑风 Prime：+3攻击范围",
+    "item.kubejs.kreska.tooltip.3": "§2热病打击 Prime：+165%毒素伤害",
+    "item.kubejs.kreska.tooltip.4": "§c熔岩冲击：+90%火焰伤害",
+    "item.kubejs.kreska.tooltip.5": "§b北风：+90%冰冻伤害",
+    "item.kubejs.kreska.tooltip.6": "§a治愈归复：攻击时有概率回血",
+    "item.kubejs.kreska.tooltip.7": "§f你给路达哟：右键传送到10米外并给予速度效果 冷却5秒",
+    "item.kubejs.kreska.tooltip.8": "§f忘关就是开？：赋予透视生物效果",
+    "item.kubejs.kreska.tooltip.9": "§e点石成“金”：挖掘矿物有概率掉落神话矿粒",
+
+    "item.kubejs.nature_spirit": "§a自然之灵",
+    "item.kubejs.nature_spirit.tooltip.1": "§d寄生之种：击中后对敌方造成持续伤害，持续3秒",
+    "item.kubejs.nature_spirit.tooltip.2": "§3藤蔓缠绕：击中后敌方被藤蔓缠绕无法移动，持续2秒",
+    "item.kubejs.nature_spirit.tooltip.3": "§6元素庇护：挖掘方块时回复少量饱和度和生命值",
+    "item.kubejs.nature_spirit.tooltip.4": "§b丛林祝福：手持时获得夜视和急迫效果",
+    "item.kubejs.nature_spirit.tooltip.5": "§c精灵之力：加持元素精灵的祝福，获得额外攻击加成",
+    "item.kubejs.nature_spirit.tooltip.6": "§a自然恩赐：采集任何矿物时有概率额外获得难得素，与精准采集不兼容",
+    "item.kubejs.nature_spirit.tooltip.7": "§7游玩周目最多玩家@Shu_Zhix",
+	
+	
+	"item.kubejs.mu_jian_seven": "木剑+7",
+    "item.kubejs.mu_jian_seven.tooltip.1": "§7隐藏武器",
+    "item.kubejs.mu_jian_seven.tooltip.2": "§8剑意:攻击额外造成生物护甲值25%的伤害",
+
+    "item.kubejs.mu_jian": "§c木剑+13",
+    "item.kubejs.mu_jian.tooltip.1": "§8剑意:攻击额外造成生物护甲值50%的伤害",
+
+    "item.kubejs.yuan_mu_jian_one": "原木剑",
+    "item.kubejs.yuan_mu_jian_one.tooltip.1": "§8剑意:攻击额外造成生物护甲值50%的伤害",
+
+    "item.kubejs.yuan_mu_jian_seven": "原木剑+7",
+    "item.kubejs.yuan_mu_jian_seven.tooltip.1": "§8剑意:攻击额外造成生物护甲值100%的伤害",
+
+    "item.kubejs.yuan_mu_jian": "§c原木剑+13",
+    "item.kubejs.yuan_mu_jian.tooltip.1": "§8剑意:攻击额外造成生物护甲值200%的伤害",
+
+	"item.kubejs.qixing_sword": "§6七星剑",
+    "item.kubejs.qixing_sword.tooltip.1": "§7天枢●贪狼：使用该武器杀死敌人时获得伤害吸收4",
+    "item.kubejs.qixing_sword.tooltip.2": "§7天璇●巨门：手持该武器时获得速度加成",
+    "item.kubejs.qixing_sword.tooltip.3": "§7天玑●禄存：赋予了该武器额外的幸运(概率斩首)",
+    "item.kubejs.qixing_sword.tooltip.4": "§7天权●文曲：赋予了该武器额外的吸血",
+    "item.kubejs.qixing_sword.tooltip.5": "§7玉衡●廉贞：赋予了该武器额外的攻击速度",
+    "item.kubejs.qixing_sword.tooltip.6": "§7开阳●武曲：赋予了该武器额外的攻击范围",
+    "item.kubejs.qixing_sword.tooltip.7": "§7摇光●破军：手持该武器时获得坚韧加成",
+
+	"item.kubejs.ruoshui_sword": "§b上善若水",
+    "item.kubejs.ruoshui_sword.tooltip.1": "§1海之屏障  §7潜行时获得抗性提升2",
+    "item.kubejs.ruoshui_sword.tooltip.2": "§9冰之霜寒  §7战斗时冻结攻击你的目标",
+    "item.kubejs.ruoshui_sword.tooltip.3": "§a水之净化  §7立刻熄灭你身上的火焰",
+    "item.kubejs.ruoshui_sword.tooltip.4": "§3河之湍急  §7处于战斗状态时获得速度效果",
+    "item.kubejs.ruoshui_sword.tooltip.5": "§c泉之治愈  §7潜行使用恢复最大生命值的一半，冷却时间15秒",
+    "item.kubejs.ruoshui_sword.tooltip.6": "§e汽之呼吸  §7右键使用获得15秒水下呼吸，冷却时间20秒",
+    "item.kubejs.ruoshui_sword.tooltip.7": "§7感谢 @doo 的贡献",
+    "item.kubejs.ruoshui_sword.tooltip.8": "该武器来自第一代Infinity整合包",
+
+	"item.kubejs.yecao_sword": "§2野草",
+    "item.kubejs.yecao_sword.tooltip.1": "§7春风：右键获得2秒抗性提升5和5秒生命回复5，冷却10秒",
+    "item.kubejs.yecao_sword.tooltip.2": "§7蔓延：在草方块上时获得速度4",
+    "item.kubejs.yecao_sword.tooltip.3": "§7星火：获得抗火效果",
+    "item.kubejs.yecao_sword.tooltip.4": "§7润物：潜行时获得饱食度",
+    "item.kubejs.yecao_sword.tooltip.5": "该武器来自第一代Infinity整合包",
+
+    "item.kubejs.putong_stone_sword": "石剑？",
+    "item.kubejs.putong_stone_sword.tooltip.1": "§8怎么看都是一把普通的石剑，好像又有些不太寻常",
+
+	"item.kubejs.sixiang_kaitian": "§4四§b相§a开§f天",
+    "item.kubejs.sixiang_kaitian.tooltip.1": "§a青龙:右键在周围召唤天雷",
+    "item.kubejs.sixiang_kaitian.tooltip.2": "§c朱雀:攻击时获得生命回复2和力量5",
+    "item.kubejs.sixiang_kaitian.tooltip.3": "§b玄武:生命值一半以上时获得抗性2",
+    "item.kubejs.sixiang_kaitian.tooltip.4": "白虎:对生物造成额外的百分比伤害",
+    "item.kubejs.sixiang_kaitian.tooltip.5": "--来自四人组aolanya,ZYanHua,HuanLu,NanNiang_001",
+
+    "item.kubejs.lce_tang": "§4凝血巨镰",
+    "item.kubejs.lce_tang.tooltip.1": "§c沸血：潜行右键消耗5生命值获得力量3和速度2",
+    "item.kubejs.lce_tang.tooltip.2": "§c嗜血：攻击带有吸血",
+    "item.kubejs.lce_tang.tooltip.3": "§c凝血：右键获得10秒生命恢复2",
+    "item.kubejs.lce_tang.tooltip.4": "§c控血：攻击造成5秒虚弱2缓慢2",
+    "item.kubejs.lce_tang.tooltip.5": "§c血之恶魔：生命低于50%时获得迅捷3",
+    "item.kubejs.lce_tang.tooltip.6": "--来自赞助者lce_Tang",
+	
+	"item.kubejs.ailinghan": "§6护摩之杖",
+    "item.kubejs.ailinghan.tooltip.1": "每一点血量上限增加0.1攻击力",
+    "item.kubejs.ailinghan.tooltip.2": "右键扣除30%生命值获得力量10，持续9秒，CD16秒",
+
+    "item.kubejs.jian_li": "§klisj145246§3之剑",
+    "item.kubejs.jian_li.tooltip.1": "§c✦✦✦✦✦✦·§klis",
+    "item.kubejs.jian_li.tooltip.2": "§9故土剑术：战斗时获得力量2与迅捷2",
+    "item.kubejs.jian_li.tooltip.3": "§e§l弑主妖剑: 攻击额外造成50%伤害, 每次攻击减少自身10%生命值(不致死)",
+    "item.kubejs.jian_li.tooltip.4": "§c舍吾皮肉: 当生命与护甲值小于10点时, 额外造成200%的伤害",
+    "item.kubejs.jian_li.tooltip.5": "§3断汝筋骨：当舍吾皮肉触发时, 攻击造成5秒虚弱10缓慢10, 攻击后获得1秒迅捷10",
+    "item.kubejs.jian_li.tooltip.6": "§c--一把来自异界的武器",
+
+	"item.kubejs.infinity_sword": "§1§l§ka§r§9无限支配之剑§1§l§ka§r",
+    "item.kubejs.infinity_sword.tooltip.1": "§7游戏结束",
+    "item.kubejs.infinity_sword.tooltip.2": "§e潜行使用 /kill 攻击",
+
+    "item.kubejs.snowstormcane": "§b风雪手杖",
+    "item.kubejs.snowstormcane.tooltip.1": "§b尽管这十余年来我得到了很多，但我却再也没能够找回我那朦胧的过去与记忆",
+    "item.kubejs.snowstormcane.tooltip.2": "-[OA]风雪的遗孤",
+    "item.kubejs.snowstormcane.tooltip.3": "§5归乡",
+    "item.kubejs.snowstormcane.tooltip.4": "-手持时获得速度3",
+	
+	
+    "block.kubejs.adamantite_brick": "精金锻炉砖",
+	
+	
+	"text.infinity.book.name": "§b无限之书",
+	"text.infinity.book.description": "这是 Infinity 模组包的指南书。",
+	"text.infinity.book.tooltip": "《无限》整合包的指南书",
+	"item.kubejs.nether_unlocker": "§4下界解锁器",
+	"item.kubejs.skill_book": "§e技能之书",
+	"item.majobroom.stocking": "魔女的长靴",
+	"item.kubejs.death_heart": "§4命定之死",
+	"block.kubejs.glowing_obsidian": "特殊处理的黑曜石",
+	"block.customportalapi.customportal": "自定义传送门",
+	"item.inmis.creative_backpack": "§6创造背包",
+	"subtitles.kubejs.gu": "灵感菇:企鹅",
+	"subtitles.kubejs.v_gu": "灵感菇:村民",
+	"subtitles.kubejs.cat": "灵感菇:猫"
+}

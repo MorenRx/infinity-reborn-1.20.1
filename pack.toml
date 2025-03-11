@@ -1,0 +1,13 @@
+name = "InfinityReborn"
+author = "MorenRx"
+version = "3.0-Alpha3(1.20.1)"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5e0f8178b813a47bf6e0a2fa8f67bbc394d1991738cf73921343b55166b9a58a"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

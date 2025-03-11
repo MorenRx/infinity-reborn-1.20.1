@@ -1,2 +1,0 @@
-scoreboard objectives remove MobAITick
-scoreboard objectives remove MobAIOther

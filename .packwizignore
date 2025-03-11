@@ -1,0 +1,8 @@
+/.*
+/client/*
+/common/*
+/LICENSE*
+/README.md
+/*.bat
+/*.zip
+/*.iml

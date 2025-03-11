@@ -1,0 +1,2828 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/assets/background_loading.png"
+hash = "351f6846ebb9934af1e0057d50e176f1fa6706ec09ce4d0a3a762fb08256a381"
+
+[[files]]
+file = "config/fancymenu/assets/icon_16.png"
+hash = "5e73e6aeb8ff3cd9d8a60d2bed8db117516237252cd70e1cdabaf3b60d1f7a05"
+
+[[files]]
+file = "config/fancymenu/assets/icon_32.png"
+hash = "50e7e3a2baffc644e7a34c23ff81aa554f903ceed03f82dd61012a65fe0e2905"
+
+[[files]]
+file = "config/fancymenu/assets/icon_mac.icns"
+hash = "9f8218496905a60cee64ff6bc43248d06aadfce7e1aeda87a21f22dc0d485044"
+
+[[files]]
+file = "config/fancymenu/assets/title.png"
+hash = "03d74a845db29e4ae8726878fa29ac12d3a01ad222b44cfd27b3abc3c2a953d9"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "5fdf0c4bce8cf1cfaae1205fcc7eb086d95cd6341533d60431e420ac7d23f2ef"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "0930ce742454c0394e806e10dc6ed559e92ea02e97b66ea476029d832228b523"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "1e8a1e166872a3942d27725518c0162d9e2ad2149d6c7edd59e6aeb70a258d3e"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "e32c6fff835600bb4e5c7cdbfc89e1b33c95a2bdae0ec5a7947d059b8ce21527"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/advancementplaques/textures/gui/plaques.png"
+hash = "7370fa6d2ef4bb5a9a163c8b90660e45053b0e400862c60bd04f4a7380b3b2b6"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/dual_handed_downspin.json"
+hash = "f0a3b2f34ad957dba4d0185f08a01a5d3ffc957132b97d19745ce600de5ec553"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/dual_handed_slam.json"
+hash = "1d7641187a942159fcfa242afd993265373fa371ae566530dc1fabfd20f9e65c"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/dual_handed_slash_uncross.json"
+hash = "a5c3a06251bf01b9e26b91cb8bbebbb9eff2532b2c1e4f7464e5bd596744da65"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/dual_handed_spin.json"
+hash = "ec2ac7c2f533a1d8282d422692f5ecc8ca2b3e1cd535a0fcbb151ecf6b3d12eb"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/dual_handed_spin2.json"
+hash = "b0669ad432824f5e5eca4837ab65de18e17207ad0c36d5b97570badad54de6a5"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/dual_handed_strike_cross.json"
+hash = "862872fbe5a62e1789ed9f81d95dac90386289cdc810b0c4a45ab431e672e53b"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/dual_handed_swipe_cross.json"
+hash = "484335a17092c586141170bb8d58f55aa811d123c897701f5ce5246ff5570479"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/halberd_stab_right.json"
+hash = "edc26b17d7d4c67289763ef3776d2dbf06fc76c50285e21e9bdd3b7d19428787"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/one_handed_slash_downcut_left.json"
+hash = "d8dacd592867353839391e0b09ca81cf90f6de48a54d99e33e7ca1020a7a8367"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/one_handed_slash_downcut_right.json"
+hash = "3130bf0e29d66a141f1eab8524613742d228f0470cd42df9c12b3c947e496970"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/one_handed_slash_fly_left.json"
+hash = "2eb3fdcc4e89dd0691fb5943c852a9db3ff6fed5cd0027f0d1d9121e3a9d5b8c"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/one_handed_slash_fly_right.json"
+hash = "05375c8c3b4e2cfd1ba1c6787b3e15f9880cde48ece40632f9f069aaeba86f21"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/one_handed_stab_mounted.json"
+hash = "a794dbca5dc6f7e4c4b9d765c2ae663795b09541a308d50f7ba0f2fab1f365c2"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/one_handed_strike.json"
+hash = "130c9a9f54d43ec40849a76a18670bdd206d32e3409d41c1ac8fdd83ebd085bb"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/one_handed_strike_down.json"
+hash = "be23f82c3bd31eb07219be1af15b77dcb94c10432d8929ef15f9bece27f565d0"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/one_handed_strike_left.json"
+hash = "b68c505c0f13d16489050cd6edaab22eec19949ab8f492fdc4f7b892d1568524"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/one_handed_super_punch.json"
+hash = "68b49c08f2b21016081d06951b7486b850d76180103f6bdc89e66348836946f0"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/one_handed_throw.json"
+hash = "b7af8da41fbf00e67628864ef1116fedaf19e598fdfba86acae625dabc236d11"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/pose_dual_handed_backwards_daggers.json"
+hash = "40bdeee1395ad27d4be9fba33f7b33812a5d8592a2989f864c8591029d29f73b"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/pose_dual_handed_sword.json"
+hash = "0b07c1807718bb8e77e44f14b435b3d28ee5f508382f0c8dd0de8a9ea991ae04"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/pose_greatsword.json"
+hash = "36ddbe6b32d4f12a5e1424ac4df789b3a0185fd531db8afb869557cede9045d7"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/pose_two_handed_flysword.json"
+hash = "6fcb07d279b719ef6d44729000b34c560a26acebcd8f4d337fd99f3274fb322f"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/two_handed_slash_downcut_left.json"
+hash = "70551010a5dce99cf5ccbed7896b2d0e97e5ffdda16ad2b86b5d47af6127c58f"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/two_handed_slash_downcut_right.json"
+hash = "0a49753a7e5795ff2c566087b900e7cfd02ca095df99360893aa0aed0fc21a84"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/two_handed_slash_draw.json"
+hash = "6a1059f21006e01f287ca7631d6420ce0f1b86848c7323efba24c6be0e62c560"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/two_handed_slash_vertical_left2.json"
+hash = "1f57fabc25b13f0a371ae8549f33e45b960e78387a890ece4969dfacd49c87d8"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/two_handed_slash_vertical_right2.json"
+hash = "6a37fb79ca55547cb127bd61f19bebe5623269d6d8b39b534c8212809f0e6efb"
+
+[[files]]
+file = "kubejs/assets/bettercombat/attack_animations/two_handed_spear_stab_right.json"
+hash = "19ce34ef4e8437e52335e8e048d667e14102a03ed39ea83b6a1201a7492e3d26"
+
+[[files]]
+file = "kubejs/assets/botania/models/item/crystal_bow.json"
+hash = "0bc0a6e99ebc09bc8f3c9cc4d4116ce4df65d24686a52103def39b0b5c4b5766"
+
+[[files]]
+file = "kubejs/assets/botania/textures/item/terra_sword.png"
+hash = "7262da076f9993179c41e3366872df32bfb9c7ec68e838119da419b59e22ce8e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/lang/zh_cn.json"
+hash = "42f1c84f5bed4184d54f631f1659adb34d1fc6d193bde5b9a5bbb09d7095819b"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/item/book.png"
+hash = "79ab966c20ed519462d89930f241e9ec0eab0dd5edf8f44d28a2adc7d3dcad53"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/lang/zh_cn.json"
+hash = "a7ee65ef570faafa53915f4e4277a687fab484fb9aecf05b8aee57807c33eb76"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/models/item/crystal_bow.json"
+hash = "a8e4a4fbbee7be9522bc4e21d7db787800ef2949aa0f54b880cf972d48bbdcaa"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/models/item/crystal_bow_pulling_1.json"
+hash = "e827db7779dc7c1e825a56a8426331f65584c71acdcacdaa1b67b35000e39119"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/models/item/crystal_bow_pulling_2.json"
+hash = "6a7cf2fb5afdd9ebfaaf2a64621c97050881bbdb8380e954c2ab6370b39b435c"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/models/item/crystal_bow_pulling_3.json"
+hash = "dab21224825767154e6630157e9e5a0ce5d78c832482cd3bff997db218999b03"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/models/item/crystal_bow_pulling_4.json"
+hash = "520bc7c9e0fce92ae9a48197f0e233bb66c100c181cf074bf7e73d0c8fef36be"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/models/item/crystal_bow_pulling_5.json"
+hash = "a39fd273cb5ad6f3f8c5d0fbce06424064beb6fe6dc94cf48c836d6f310a314c"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/textures/item/crystal_bow.png"
+hash = "17b7d1580f9a750bda17dff47840ad9096cc456e6a6be553e0213fb0716617b0"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/textures/item/crystal_bow_pulling_1.png"
+hash = "17b7d1580f9a750bda17dff47840ad9096cc456e6a6be553e0213fb0716617b0"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/textures/item/crystal_bow_pulling_2.png"
+hash = "17b7d1580f9a750bda17dff47840ad9096cc456e6a6be553e0213fb0716617b0"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/textures/item/crystal_bow_pulling_3.png"
+hash = "17b7d1580f9a750bda17dff47840ad9096cc456e6a6be553e0213fb0716617b0"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/textures/item/crystal_bow_pulling_4.png"
+hash = "17b7d1580f9a750bda17dff47840ad9096cc456e6a6be553e0213fb0716617b0"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/textures/item/crystal_bow_pulling_5.png"
+hash = "17b7d1580f9a750bda17dff47840ad9096cc456e6a6be553e0213fb0716617b0"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/textures/item/green_bow_pulling_1.png"
+hash = "17b7d1580f9a750bda17dff47840ad9096cc456e6a6be553e0213fb0716617b0"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/textures/item/green_bow_pulling_2.png"
+hash = "17b7d1580f9a750bda17dff47840ad9096cc456e6a6be553e0213fb0716617b0"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips1.json"
+hash = "a1a4cc36498c85d46a7027f8621814093e3a0fa186926d884c614a89074cf056"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips10.json"
+hash = "89ba5670306ce0daea033be8deafaa41f1b01b7703ef0226a82d6769b61cc45a"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips11.json"
+hash = "12fdd800798a7bd55f22bf417d28ceb021b62c96ab08e31f801f04d00f7f333a"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips12.json"
+hash = "a13628d6ad38fb9c7e6237c32ed8b8589323654d34fce6b001546d9920c9797a"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips13.json"
+hash = "27c0c40e6df34c8c4e08f7df7f28e2c474cd6e1cf4f3d70202fb3fee84698980"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips2.json"
+hash = "5e6b39a1ef14dbc8ff1e582d42822bf87e55dc9db4ff4bf2264f38a2e1f6e8a9"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips3.json"
+hash = "9554927243cacf115df5d75eb5bd130e6fb0664f2664ecb7562563116d555088"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips4.json"
+hash = "7ff9f9edb98d6fbda91b99d75b3b6178943d496705c9f9737005918e58bb8eca"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips5.json"
+hash = "74eabc153024537ce8f672686568f5460dea457b1e3071d6ade4ce9f57e9ef7b"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips6.json"
+hash = "f401632a2b7a98fb86f24f871bb96653323135720560000b2f67d3437671e3dc"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips7.json"
+hash = "9c1647e4e2a9f7b8b9feec4ed5c17e20f1c40c5ec5fd72fbbf848b354dcefe43"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips8.json"
+hash = "991bbbdd76d1f4436e4d400da7a888623ff150243d1c8771b3d85a984ca0c7dc"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn/tips/tips9.json"
+hash = "8847251129f17f933c645ab236b9f7c6b2c19cbc32963abc4f63a76669d95054"
+
+[[files]]
+file = "kubejs/assets/infinity_reborn_ftb/lang/zh_ch.json"
+hash = "d8fdee7eeec27f0c60ee61e04a0f1a514bd96fe6e3adfaa8513c9fadcd55c065"
+
+[[files]]
+file = "kubejs/assets/kubejs/lang/zh_cn.json"
+hash = "249dcf716bb9509d438a0e9f99701a38bfcf8f748d182cf8d0c58fd56c29f94e"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/ailinghan.json"
+hash = "569d68627d780020a47bafd0e0c1f2ebd8e73af576594c43e384c5bdbb0c15d4"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/ailinghan_model.json"
+hash = "9273fa9f2e1c9cf153c16ffdc60de46b6b56c14657fb5439d7a4a988f957dca6"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/jian_li.json"
+hash = "f529f60ab8ee65e43b6f9aa6078ef6718d31d313195eae2218e63579881de3f5"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/kreska.json"
+hash = "5c1ba5db5d5283ce73f839c4519c8fc9443d4fd3deb5bdbef5e5b5aa5b99c848"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/model_katana.json"
+hash = "51caac101c51fa4e4580e2724cde540488cd5a73db11514637d7d8866f56a2fe"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds.json"
+hash = "1ae7256db22636a3979bf687192ab048cff2a3b9f0c78d306f6acbe6ec36e72b"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds/cat.ogg"
+hash = "a3852d3a228ae43fd7e9607a7a20e6f0f9f2c4f51e628174df14f32a95c97ee4"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds/gu.ogg"
+hash = "2856875a927f1f18fd7022956f320efee2f522cc816cd4a26b0d3f9d9c6acd1a"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds/v_gu.ogg"
+hash = "ef81dfc7f4cc6758dc57d41cdcc007a0f42ce2d4cd9684d85dd28bd3e1d7cb15"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/adamantite_brick.png"
+hash = "1bb4582856c46f2a8bd77f49f93a213a11a55aa0f7bb503640f33d28d3ed4dd1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/10.png"
+hash = "c0ae22e9d7ec8283aee67ccccc8a62bb13a1d2d6756569d534f993c0553410e2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/2022-08-18_15.18.30.png"
+hash = "1524fb3c20764dca04007ba9799341e0e83a27d94f2b21760ba3fcb628ad7bd5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/2023-07-28_19.57.46.png"
+hash = "174a4715b9e4593c52e7ea0178c68bd8685db3332c3012e06a7e3017452652de"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/bcj.png"
+hash = "592471c98841502d77d457cb71b61872d85eb2bf7559d59b47f688de1f776b51"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/fuhuomoyinglong.png"
+hash = "8b9f036494adcd7c6baf0da60cd3fb81b5d610655451d3564e071ea2f4b8268d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/fumo.png"
+hash = "88690e1cca1f47554706279179dcc1e7ccec76b40dbd970a7e3e73e2e12c31ee"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/gaiya.png"
+hash = "1ed5e1b1345f50a3a92a8e92098e58bde02fe69a23a1a68167ad218c51e055ff"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/guangpushijie.png"
+hash = "3c1c26329711f2fec9d41d0bf9e703556d5f9fdfe41199d872d1a1cdb1a79f19"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/jiyan.png"
+hash = "5062e73c10fac7b16d06a19304fb60ab54d50da82d2126b09bcf13ec14479bd1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/kibe.png"
+hash = "5925ff1bc6ac47003166e5290a95594d459f7b5a426b65782169a70c3d340f6b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/linghunmofa.png"
+hash = "ee67cd66130827b82610c3e7af3cb9de27f9beea0ab17e744839b26b0c39e75e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/map.png"
+hash = "2889c3590078a8b2321cbb348ee4f60620d0d979c40fd9b935af99872891c2c5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/map2.png"
+hash = "f308ba485801b949f7443f6b18205df12ef1b456b785a9e08d6cd494f5d1c6c1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/modi.png"
+hash = "655ce70325b7f1f33319f5e63de6f77793460c890f592ba6273b96a1afcf9e90"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/moon.png"
+hash = "fee5a97c74ed64e31bc9655ecb31c0313e9aa56ee6c9bf42e1086397eec6e975"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/musesenlin.png"
+hash = "7ea713ca854fadf7b8ba1f6ccea23c7f9f3b08aa8fa9bd808a3d4681da379db1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/netherportal.png"
+hash = "0fa2cc1b4e01e11b4a6360660d926bf4fdbbde9878333feaf5e0bf45e9f47041"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/overworld.png"
+hash = "d38d5c0d9ed5f51bbf90abedee7a40042290bfdddfeabebd30009be67bd3ac55"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/root.png"
+hash = "20fa8a53a34ed5d710ef3ed03dd62a84e8085d03fc77944ec1f73f176a6d12f4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/spectrum_relic.png"
+hash = "81cb7ef751a6e1263a692799010ace16f1c7f30e5fa214858bdb2ec658e83e66"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/tiaose.png"
+hash = "2446e2c618df3b3d92ea33d5840814314910b82c54acf8215914bfbde247b583"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/tiezhen.png"
+hash = "a42c485bc1f55e428c9ddabec8709aa68c271b3739de1512a9dfb40ff9b5ba3a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/toms_storage.png"
+hash = "99f8fd3ff6d4d7f4970bac4c8574d3009538698c053281dbc7d1deee34fdb178"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/tw.png"
+hash = "e95c4b08d0b34944f5995289392943a9ae50c8d3a490fcb64fcd0d3df6373d10"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/twilight.png"
+hash = "e3d9540153196b6811bb151743d46ef0a27a7317443b9f127a3f9b59de90bbcb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/unicode1.png"
+hash = "d6a392c99e1193f2fd43760b107ef0cecf6ca1614953d6ad0609ed90c0ac854c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/unicode2.png"
+hash = "425f1cbcaed01854b2dee0c554762153335f5f63073680a3abff7f68a0331e82"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/void.png"
+hash = "34d9154b88c0123064b028df0b0f55d8647466990550f244c0f7ae430892e92b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/xiajie.png"
+hash = "cad802429bb846a9c852f6a0c2e4253cda0e3fbb95aaa4cf6f59ae3cea237504"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/xingkong.png"
+hash = "19be5b59dfb6d98f628adfa005bb721e6db6c5488b16d328935a6541d22adc67"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/ftbq/zhiwumofa.png"
+hash = "d4ccc20818ce5092c647c9d2d3803a38ceab1bb2ca1544d5de4ce820d76d9091"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ailinghan.png"
+hash = "a750a299070ded9bf8d5734d4bd6ba6b4e52a7d99848a6c1b5a2ddf73b79a40f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ametrine_crystal.png"
+hash = "35c2451e8d6bb7f26a6dff25d8b8239bdf019f245778653c5a580fdcd475ca7f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/baigei_boots.png"
+hash = "4b7571b2b480059c0b8845858258913468f57921a150d42f90774af077bf21ba"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/bloody_tear.png"
+hash = "a1c265d411a3873555bb2b03735937992cb00b08e9d80d35665525c5feb42d09"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/boss_compass1.png"
+hash = "551fd194caf6d59362f07488ffd7dc2b19ed8f18537c7b940c561f8a773baa34"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/boss_compass2.png"
+hash = "a8287d4429342fabab45e686cf2684154b5f9db7ae7b236aabb8c2baff1feb70"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/boss_compass3.png"
+hash = "616c35b5784793922dbb5cab2969472283253aaed94ca4fad254377d7475bf33"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/boss_compass4.png"
+hash = "95c8ac629d082d1d73483b26bc039261c2db03cd55eb3ae8456746f5cda43855"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/boss_compass5.png"
+hash = "806a2d85589806852b7bacb44e5684692dfb0edeb851d0df6f5875da4bea1a02"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/boss_compass6.png"
+hash = "a54bcc8d2f2e382d83355e6079d63869d56160ff41423be7fd2b52ba560872a0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/boss_compass7.png"
+hash = "a2cb3c4fe4f36abf49cd24e6c565ff5fefba3c07363a6b88c37ca6cca5f716ae"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/boss_rush.png"
+hash = "6725acf039e4ec35918840683c109ca70aed03de15765b74e28fe0b744697d0c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/boss_rush.png.mcmeta"
+hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/chinese_dumpling.png"
+hash = "b787bc8542c10aef0acc7188232c52d33f58d3e8305df4108407e5606c8e158d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/crude_axe.png"
+hash = "881b40f68edcfa00656731d714dc5ae6f30d06b5fc56ac1d594dfdaea15ec835"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/crude_pickaxe.png"
+hash = "1c166bc4b2ece3227577a19d74b84ba0f6d337a86c47fa511f502430bdb081e3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/crude_spade.png"
+hash = "51d6ff12cfeb830675b6ca63d69f0e5fee39b54d511443bde70a8166062d8734"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/crystal_tiered.png"
+hash = "cfb697992cbd1233cf45bda7df63edd7614e3249f8ec37c193b40d6652667f52"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/difficulty_changer.png"
+hash = "430bbb773b317964c93a4230430d568854467f6e6ff65e82279522b12330027d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disintegration_tablet.png"
+hash = "6aa424c97c62b2203727c8076f5952a9a33895943055285c7e2c13dd8bd2ccfb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/firecracker.png"
+hash = "842d1b01d3f549fd37bff840b036a8e030571d5479d649d9399bbd8b6bc566b4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gandi.png"
+hash = "f9b08117a21ddbc46fccae6dbb94c701f78a36d4665f3447a90a6449e4ec6465"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gobber_katana.png"
+hash = "27b481e228af82823d080aa9decf58bf9bc01a623fea01c1086586d8fa87f42e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gobber_katana_end.png"
+hash = "29376f90db3d729439dbe7b57a7bd2b79968c4945ea4a0a1485d2d1063796756"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gobber_katana_nether.png"
+hash = "a47ac83985e59943fadba2fe27eb3993cd8e3a4c9b14898f8604ea8406318ced"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gobber_katana_terra.png"
+hash = "fcdd905ec604a5f01cac32b94443f07ff1d0565a6f72f4dec322ba12e42c64b3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gobber_rapier.png"
+hash = "608f41eb478dcf812535e390955b1a46f0ec97f6530fe89501705fa622c6936f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gobber_rapier_end.png"
+hash = "15d1d56be9d7f40cf37ee8742577c1659a1115673def39b0634f3fc774f8d1f9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gobber_rapier_nether.png"
+hash = "20a0ca2941ab92d67e0ef42c323bcd53a0564a4f7911484341583f321d71014f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gobber_rapier_terra.png"
+hash = "3d3ec0196902e85e3409a93210cd5a9d393a259f4d16cc816c5e84d50c977dfd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gold_coin.png"
+hash = "9e03b045c67f5237645e5ccb206d7df57aa22a480cd3016d916d252c99c111a0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gu.png"
+hash = "abeb8b575f4217b5eefc058b9de14252ca07a8667da1d446f0c02bc7343e4350"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/guguji.png"
+hash = "3e193941fc291f634564ef6b294e1c0d247868e1f750c39c7f9ddffabe38e37e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/hei_shi.png"
+hash = "624914d24e827367b83bf1385a2e6d3de0a973df6e8e3f5ffd4703eabeea775e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/huan_lin_ying.png"
+hash = "75acd1724d33a9e14edda17cd3a7e96686ba651c2a5a69c2742aee0ceff68dc9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/infinity_sword.png"
+hash = "a746d59b2cece01b1caf8006a317f2d7ae2c0eb4bb09bd25585eb761ed2cfe75"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/infinity_sword_a.png"
+hash = "dbf5d5fee7d56e3f7d9b7ab6e69567b3bc61ece664d4b4179d266fa851be420b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/infinity_sword_b.png"
+hash = "f2e593c36b3f82e050b49f15c071933151e1a6ac4fc1188f77e8dfab53077444"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/jian_li.png"
+hash = "5a7f4a12000bf4b5b3cadb93277b95d4a8e9015289faf2c7a29bb77cdfd774bc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/jing__xin.png"
+hash = "369a717b9860b9007eacaf7e63f2a7523937bef41e018d308b24b1d935495ba7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/jiushu_heart.png"
+hash = "dcb75cba320afa6c76e1efb37403873171a8aab3966ed95486f0591e8c6baabe"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/jiushu_heart_shard.png"
+hash = "8bc153748d8a3d7733f36dafcf9c4bb7081d4fc59f3a78d39370ef7e0f2c9197"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/kreska.png"
+hash = "de6fc8b6a19940bd1b253692efb7d6dd35545833a3e4c484166bd638fb2d871b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/lce_tang.png"
+hash = "83bdea6faea16f20b6e8932105c011790e400ca17e54d142c46354c7dd7cb84b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/modi_kuai.png"
+hash = "ff8d784da6bb185a95a7e17e55bf69f80c0ba6855284b79c1af8e946a9e4850c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/mu_ban.png"
+hash = "d23dba3ac3ecc869a8389e10dfc3c585bcb39c793372269c0d804234ff6ade05"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/mu_jian.png"
+hash = "14c266562566d79eeaa19e8f0da171cf227b8906cd3470066ebfb2947ed4b2c0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/mu_jian_seven.png"
+hash = "14c266562566d79eeaa19e8f0da171cf227b8906cd3470066ebfb2947ed4b2c0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/nature_spirit.png"
+hash = "cfd0fd615cf2c78c28c11770c4fc8c2b76ae82d4bd76cc182beb3775f7438fb1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/nightbreak.png"
+hash = "4f1c236c22ee6316c8013882567fb1535c7602c8794cbf922b66c681416c53a4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/paolude_jy.png"
+hash = "a5b322294877fbfeb975a20ae2dfb9a94d90910d61ff77cb2e47364aac2c40ef"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/paolude_xiaxin.png"
+hash = "d0816808c265236edaff2d13debd996ba2ad002ae7c4cf61e4cff10d318cb10a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/paolude_zhanji.png"
+hash = "b5cd0c45ef761ae73cd11f91f63f94e6ea83a35c59902c2f1df777a669a31ede"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/putong_stone_sword.png"
+hash = "601de744fd7a269b7f1c652fb8aea218d5b3a4eeb9fe66cc0cdc1ff1c1d6fc2e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/putong_stone_sword.png.mcmeta"
+hash = "88d5de87f5fb129da769f38484a6c6a05b2d2499b777cecfdb5d071fed82b63e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/qixing_sword.png"
+hash = "fae2c9d78d1554b0b85defa2dbdae6a541517e63568a81c46b9c1f936d03a55e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/red_packet.png"
+hash = "b61ba19ed9c5223de55c9aa4bfcc247a21a092d6a34e12be9eb7fb38534bc0f6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ruoshui_sword.png"
+hash = "68698c2934301938c6a59f4cc230f9837bf612ce0b1354af8d135d1c20c6e13c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/sao_di.png"
+hash = "1a144c8638d8862eb981d0ffea851c59255837c111f2f889897012457858fc55"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shashen.png"
+hash = "caf5fef7c4a0364642acdec49a1d0b6e20a4169db76021b75e8d707710a14d17"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/sheng_jin.png"
+hash = "542cfbdc65fee549f00b958e94036b08d84b64f073292516e73efc3fed179d1e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shenqi_ingot.png"
+hash = "b1aa8f732eebf0fdf1210f52f1eb7dfe6cc7ddb39b8a8ea22a237be4e0572839"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shenqi_shard.png"
+hash = "005b3ddeaf3d9f86e55b234dbdc980e08266d307bf57c41a36e966d4df12d605"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shi_kuai.png"
+hash = "cde248cfde237955cd4f5a24adcde901ab1c385747b2c215fe5a00f39594012f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shi_lian.png"
+hash = "470099daadb1fb5155896bdc70e4e1411e42612112e24e471d58f44a7aab9e3d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shi_shen_kuai.png"
+hash = "81a1e0c6a045659cb02b44216eee3006a06b6ac1fd7325980d5da4f9bfdb061f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shining_star.png"
+hash = "d3f6a3959471203e7efe88e6b0071299da51fc766c274dc65c7f70305f588b6e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/sixiang_kaitian.png"
+hash = "09c57c5404bd2504b08a9dbbadb7a818b6c9b93daa255e585cbc3b7df99594bd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/skill_bottle.png"
+hash = "377aa61a0001ade4a2644ae113ef91f67402dda2781cbf3da5408ae4280ada63"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/soul_bone.png"
+hash = "2f83bb9bf80b3aa33a9acf2cc1e4e14b5648e9ea3aa615635c4c8fb5222be5b3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/spectral_silt.png"
+hash = "fd73a6729869270431d7b5ccf4eda600194ce9fb114ad7ed015b93c1725dd023"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/starter_bag.png"
+hash = "58c662e9d7c9751a935ad7e5fb9876c728524ea26130c94fd88e8cda017c3b75"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/strong_fossil.png"
+hash = "b54b2f51c54dfc3667e1e157777eec4718ae4a45607fef5b575851a642f9ccf8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/title.png"
+hash = "037e38ff89e73e919d76315a74e5fadef4f04fc75130e3359e263dfbb98a8f28"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tu_kuai.png"
+hash = "ff49bed4880fe5722599440ca2c3ee3ba8bc8c58c84b17c5637dbb95ef8f1447"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_crit.png"
+hash = "ce81ad75a4642964fc2cb8fc3aa6ca37a7e03269076c211e313a8dcd5678fa73"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_defence.png"
+hash = "355ef2eb1e98bae5b719feb62ee8c857b7cb932fa46711a6d4fd7e6af8729524"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_fire.png"
+hash = "d68a0959b4171a621e76a59f6f1bf908dcb0d84a52139012a454dfded1d9e040"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_frost.png"
+hash = "7dc1d918a90da5d238ae10d49bcb2cae35cdb03c5de72ad1da9ac041c55aed1c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_life.png"
+hash = "12f68fda35ef29413d6ca2517e94833515be35adbd77ee28a7391a9d7b935b9a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_lifesteal.png"
+hash = "170b16b6c1acfe2330539aff62de80c903d6d1fb88c7fec70fe1669bb22edeed"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_liuren.png"
+hash = "6b44856582e17faf415397560893d45c4bff7b6fb394c69b8c2bf5213ba5b8a6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_nami.png"
+hash = "68ed3f1f902452dc290ec0038b42de3b696d4a76fa3f3c11d4287cdecc5cbe5e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_poison.png"
+hash = "d22a2d70fb615685c19a712d4977f04bf98ac297d1cdece30cda428b2483e69f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_ren.png"
+hash = "aad6fd8d2c071a14b958591d7764a4b8cee5e69c0499d7c6c42d8f2dc64471ae"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/upgrade_yuan.png"
+hash = "1908039553ab0db882c1e6fa550e9c808794ec62f2c0e8af6f07e5284002dd75"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/x_nuohua.png"
+hash = "d1a2430f2c1861f0d31f03457657ddefbe2c83b7c92d78ab44852403eabea87d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/xiajie_kuai.png"
+hash = "a189d88b7233c59d6ec7bc89e876252da9e1a6e50868d2efb282e8c7aaaa7c6a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/xu_wu.png"
+hash = "c1e9ef2df84233f5a4be29065865ee35575419643a200df6e39ba8e6227bd807"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/yan_qiu.png"
+hash = "0ec4607a9a9370d3c3dc3491d7da4dfdb932dd8a036250234e9700b11778692e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/yecao_sword.png"
+hash = "76f333c364878071331667921898c3145df790e613d2504685e8709af05530c1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/yong_hen_star.png"
+hash = "28e734c160aa15746f6bf46c81ec9a5e4a1e0d07e59bc2a973e9288440fce42e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/yuan_mu.png"
+hash = "750b9fdb3fb21736c2841439fc917fe8ba7df688e8a927f6e136a887720e1d82"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/yuan_mu_jian.png"
+hash = "14c266562566d79eeaa19e8f0da171cf227b8906cd3470066ebfb2947ed4b2c0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/yuan_mu_jian_one.png"
+hash = "14c266562566d79eeaa19e8f0da171cf227b8906cd3470066ebfb2947ed4b2c0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/yuan_mu_jian_seven.png"
+hash = "14c266562566d79eeaa19e8f0da171cf227b8906cd3470066ebfb2947ed4b2c0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/zhongzi.png"
+hash = "ef396a12598484667b725fa3d6f4d359af75b39aea685c9582578cc7c6b59fc9"
+
+[[files]]
+file = "kubejs/assets/legendarytooltips/frame_definitions.json"
+hash = "23f03b53ea78fe3d21a28a5c0cc9faf382d9d78cc7006e17005c4483d306a0f0"
+
+[[files]]
+file = "kubejs/assets/legendarytooltips/textures/gui/tooltip_borders.png"
+hash = "78b3762715d83fee80efe5080384bbc3905dbdf7054f062f9a56e4e53170a8e4"
+
+[[files]]
+file = "kubejs/assets/majobroom/models/item/stocking.json"
+hash = "61cd47052b60a974bb814971f868c233c2a4c56266c6ab1759e243f30cc5fec9"
+
+[[files]]
+file = "kubejs/assets/majobroom/textures/item/stocking.png"
+hash = "366512ae746426f3b27fc99fd4e01cbf116b2a6ed41322ed911c0b91da4245bf"
+
+[[files]]
+file = "kubejs/assets/mcdw/models/item/dagger_the_beginning.json"
+hash = "d3681889f6f744cd3e814179becd3062450979633a2c5125cee7c7dd6162c67f"
+
+[[files]]
+file = "kubejs/assets/mcdw/models/item/dagger_the_end.json"
+hash = "d3681889f6f744cd3e814179becd3062450979633a2c5125cee7c7dd6162c67f"
+
+[[files]]
+file = "kubejs/assets/mcdw/models/item/dagger_void_touched_blade.json"
+hash = "5e8f2409dd7d4eb77fa5eba33288803678294cabad50dfb8f2f73c7ebb544d02"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/slider.png"
+hash = "d0aafa9a0390f5611fa026567672986b5c55ae1dd267e86e0ecd618d63f9e8a6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "c834a8015358da63347ac9ff2001c5dc8e003ad948999920ddc05c8c9d0e9115"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "abe6e6676aaba50b62cee66cf485674cb243858659596d5c5cdbf457d42beb56"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "38bcadc4ff9f8745889b26b52cbe9a50786123bfe8bcd429b4b08a463fd10c54"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "06b74e79ed01287c38a5f5ce7711e1586a1912356ee6aa3db59acc0c415a7f86"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "452a5c7dafd0e6425030f5c7ab1cdb834cf3eb0039fba4738a8569d878a6e96a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "efbf7f37d85466bd1af61ae9578cd3ee0a1052b30a44358641afbf52d26de79c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/widgets.png"
+hash = "fb82d875abd17a4c9af65712db24cbb3afe0b3f2578f2117a1568d64163e9873"
+
+[[files]]
+file = "kubejs/assets/patchouli/models/item/book_of_infinity.json"
+hash = "4138c78e4f37353f8702299ef0a4c7c2225e0570b713310337fe6a45e8178e7f"
+
+[[files]]
+file = "kubejs/assets/patchouli/textures/carrier.png"
+hash = "6cc3f456993004ffd4c9a38e4a4e9c6a037d95c4dcccf136908f585dd5df5d5c"
+
+[[files]]
+file = "kubejs/assets/patchouli/textures/grave.png"
+hash = "f52d2d60ece0cf5abcd905a6e5fafe34f2ee82c427870e2f5ed135b58af7fe24"
+
+[[files]]
+file = "kubejs/assets/patchouli/textures/items/book_of_infinity.png"
+hash = "79ab966c20ed519462d89930f241e9ec0eab0dd5edf8f44d28a2adc7d3dcad53"
+
+[[files]]
+file = "kubejs/assets/patchouli/textures/moon_blood.png"
+hash = "55328eb42e79ecb22343a57dde94e4d1dbf73b500cb487faaa19a7b70a4fe48f"
+
+[[files]]
+file = "kubejs/assets/patchouli/textures/moon_blue.png"
+hash = "af03b2ae29d82d9cf7f0a42954cb1bd1be3dc98804992df666a9f58c7a7f815d"
+
+[[files]]
+file = "kubejs/assets/patchouli/textures/moon_harvest.png"
+hash = "3cc2d57a339b59c85eeed34536f370fc7987f4366744a9ddc90714fe9901e682"
+
+[[files]]
+file = "kubejs/assets/patchouli/textures/reroll.png"
+hash = "1e420fe64bc19f762d5dba5a56927007c3f84309f021a42abc367e510c89dde9"
+
+[[files]]
+file = "kubejs/assets/patchouli/textures/trinket.png"
+hash = "a9aa52156833fef3657a57a7e6ab0a6841216ee184f0150f8243d645b146be79"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/amethyst_golem.json"
+hash = "74e5caee7306c574bbf48143d409e62cabdc6d892b21908a3a81ec4514f206ff"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/blaze_guardian.json"
+hash = "b22b6d6cdf25a1bf5b913f97a43718e9e6202b0711615f42fdefb701bdae6f01"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/brown_fungus.json"
+hash = "48b7b35fccf05a683002dde40c9147898f5be95e80f08f5e4a8012aba9aa7099"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/deer.json"
+hash = "7a97e936459a0c0719d20894f461c1f6b761565ead1bb797bb461a93cecc4465"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/desert_rhino.json"
+hash = "e9b47c560434711c39d4a5f5201bf41d014aaa62fbde5fc2129bc32120a07ad6"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/dragon.json"
+hash = "03789465e3c3aa888c355fc68aef02196c067da0c7b45fa2e5a4db13ed67bb60"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/ender_whale.json"
+hash = "46a7f62e9a28d4ba114f2b06538d1c98111500f4c045b72f0b7261cc56dbcb6d"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/enderwarthog.json"
+hash = "3e4f478c16dfb333db17d5f77aeaed6a7562866f53b7ca2bc08c5b2d7f4d40a7"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/iguana.json"
+hash = "f19d264c3ba8a591d53f2269a342c53c18f1dde16441cd1017928eab4896d33e"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/mammoth.json"
+hash = "a7a0b8e5f5e9f70e7af9df7fc8ab7907617af79f7c8d40e9ae8f5244b81ac2d4"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/necromancer.json"
+hash = "fb502b672bb25b9b00c9379957bcb9fca2784f148723e39371aa931d413ef2eb"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/orc.json"
+hash = "16cc0adb7fa93bff308bb11841212f68e07de0895242d3ded233a2ff7df8fc93"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/piglin_beast.json"
+hash = "ae9174958ba4cede2e74beabafc0d6a3fe82d96ad0736a5ca7eb2a824d801abb"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/red_fungus.json"
+hash = "f91aa4dad6859d520308bf22c91b6b4219fbed7003012ce9475735e628ec8f82"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/shaman.json"
+hash = "b5f97cd46ff01771ff58eba4b074109a2fa3c20cdcf18c2a985af1cbf679eadb"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/skeleton_vanguard.json"
+hash = "375bd5485b85812399893adaac140f2fa02fc3af955c62f4cae3e004b45fe141"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/small_stone_golem.json"
+hash = "5bf2603671195b9bac83665cdd80b7986de00609d322592257f74569e4548494"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/stone_golem.json"
+hash = "724956eb2ef903e285b78a2c9593313db8d51e8ae695071ee6722382245c6c1c"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/summoner.json"
+hash = "b619fb7dc77b0bb0b9b5c0f549b4eb2b6b0c2937b4645c1724032f1cac08d94f"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/the_eye.json"
+hash = "d02e40dd38f5cb257cedada768bc28b513c17897fc31b3ee115b29ef549ba5e5"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/void_fragment.json"
+hash = "dafcd531eea774129def5cf33606cc206642ebffd518b66330ba9f6ed0237457"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/void_shade.json"
+hash = "7d692fc48cb43940e18435980d0380d874ae17817327e905374ee7960bc43e3e"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/void_shadow.json"
+hash = "ca3c88b6faa17da496dc70c80583bc1b2c22ab4500c6b382d7cfcdfd422016de"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/artifacts/mimic.json"
+hash = "89d915c591b7ba2cff8a811eafdad5dbf143a4613f48d868e70078bd2869775e"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/betterend/cubozoa.json"
+hash = "8c5ba0012c25fe073d7c94e780d566666acb0d4e8e1b97226f18c05dd2797129"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/betterend/dragonfly.json"
+hash = "b25cd8363042623ef1c453a9df540e348c4345732fc057f1e4d5789035a011f0"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/betterend/end_fish.json"
+hash = "97de8a21382d38c85815035c36d0d9344f218904e51f48c99ee8b43ce73a33fc"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/betterend/end_slime.json"
+hash = "a39329eeadf4c70fa66be44738c3f64034edd71e74e691908b7493b9a8e46306"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/betterend/silk_moth.json"
+hash = "b9a52559d88ce4817460227456fdeba6f6d59c322ffd1f9349079f3129710051"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/bosses_of_mass_destruction/gauntlet.json"
+hash = "bdb9c18163cd02216156f2eecacdca9ec7b94d243038ef8989f90eaf67ec60c0"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/bosses_of_mass_destruction/obsidilith.json"
+hash = "6adfa92bb6b335a2d588599fc6a4052e13382ccf44439bd0a8036359a35b65e4"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/bosses_of_mass_destruction/void_blossom.json"
+hash = "b3f3ca5950a8a2e086a0cd19e289318b26e5d014cd0072ba451f8a594c423acc"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/minecraft/creeper.json"
+hash = "a7399f24b1e82b1fb6d67402dea38fed2cf3d79ad65d1c14719cd73bdb0fd602"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/minecraft/enderman.json"
+hash = "7bb57961785c76d48123ec8b3659ae37ffe23daf0199bb3f698c311c534fafb5"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/minecraft/piglin.json"
+hash = "cecf4f172ff3740cc4fcfd80e17a4958b61bcbb85ae82d7c1dc0011f94accf1c"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/minecraft/piglin_brute.json"
+hash = "46867c456424841a16bf685db9210bfba8b4714e9968d8032d16c3a833bce7ee"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/minecraft/zombified_piglin.json"
+hash = "46573d3fa6b2344e86142f65f3499af410b2d4dae5edcd916b8969d95c5812e2"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/adventurez/necromancer.png"
+hash = "475dd4e9df893f37ef13461a8c6bdbed00c8e9af26626e9ad3f457d1464591ae"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/adventurez/void_fragment.png"
+hash = "bcf7534a889ec12ecf000ddb24f2d17aef939772c7dcb94c2465b9740e23a628"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/adventurez/void_shade.png"
+hash = "4cabce27839604c6c489e29ae238bf9a2714d3694e3f85036bc550f1534e257d"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/adventurez/void_shadow.png"
+hash = "aafd7ddac21ebbd5cb53696fa814748185e1cab9fc440ed90a376b7b12d87dd8"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/beetle.png"
+hash = "3e180803d5c69fe01c18677a7350f84cd141e422bbe72668e83f9717c5a677e2"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/beetle_blue.png"
+hash = "b995705fd73334fcf39b9e162494c4974db093795a48ea14fb5c1cb9062e35f7"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/cubozoa/cubozoa.png"
+hash = "7eaff2ec07eb9acacb082b8e436c86d0f74a1440344d3801eb91abf52d240016"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/cubozoa/cubozoa_sulphur.png"
+hash = "225353e71b4361eda67ae01502c80def6421540fbbb22e1e3fb05b3c7df2b607"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/dragonfly.png"
+hash = "6b1b248f961743ca059a14800247193634cb5a51c8bc3868d206604f06ac7de9"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_0.png"
+hash = "b45aadbdcd89a053812492985b57a3a59627803e8649491c4c7450d1ea88b3c1"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_1.png"
+hash = "c3c6efe28198ce675e955bb3eb071fb63b1940a0ff0e371bf502f1ad3c6288fe"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_2.png"
+hash = "e8371bc77d0c48593c851ae576f8c06d0fefb13a59624b4daa222767f7cc62dd"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_3.png"
+hash = "e8fca1a8699f2818d40f0f369df979bc74c29ccf88e905c030f8c3d171203e9a"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_4.png"
+hash = "0bb1d16660e96b75edfcde0de32bf0a4711b380b7aa23f5eec162a4dc2520f1f"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_5.png"
+hash = "38f043ff227b8e6cae52beed5949f3bcddc44e3ebcec549519717e9485c3abe9"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_6.png"
+hash = "30ca1fee06166b7e2e9be1ab150d00cac93dee6bf89228b3191b80d9781c9cdc"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_7.png"
+hash = "de2747480f789a9952f01e1fa0d3e12a74b29bfaaf46d68bfef4934477df7c69"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_slime/end_slime.png"
+hash = "51177c39fe33d922aada997115c42ce49dd5d7bb41e13faf8b49910adc76c8b0"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_slime/end_slime_amber.png"
+hash = "45bd96cbb04b506937411a050d159ef85ba95508b7939bd36221e3c07ed89221"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_slime/end_slime_lake.png"
+hash = "57c33163356241fd1cfcff547569965263c551c330a4fcffe38e65808dd09fe9"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_slime/end_slime_mossy.png"
+hash = "685666d736912e46b4cf14fec32dc14585d7ac0c1df7166fdef405eb0834b308"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/silk_moth.png"
+hash = "d86050a5b19a6a3e6cf8b335d48ccb6675f5c47a79a58d9581645ceffd6d0afc"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/blank.png"
+hash = "ca4f36df22f506c59072ade5a8b96907ab04a587c0f52cf2155a21d16a446760"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/bosses_of_mass_destruction/gauntlet.png"
+hash = "990b1d0cdfea359c33a80182f7b024c15ae7e113ae5f34afc9b0ba2189e62a74"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/bosses_of_mass_destruction/gauntlet_hurt.png"
+hash = "098e63246b327669aa82a4a3105caecd65837cde12699095349119067943ccd4"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/bosses_of_mass_destruction/obsidilith.png"
+hash = "b77f3a944fc4f9a1ed9052866997db4a204d052d578cf7cb1ef181468e836aeb"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/bosses_of_mass_destruction/void_blossom.png"
+hash = "e16937acc8c93e66795f9c1ebcbf6df9507e0b2e7327506b6a604623ef3a2b19"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/deer.png"
+hash = "beed4d861b61689948f4b1597ad416345edd6f1881d61baed06b8b2e88185b73"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/dreadfish.png"
+hash = "32c45db6ea19584c8538a00eba9a523264ba9d85057278c1a8e6fbb7a1e828ee"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/flare.png"
+hash = "8a6a8ebcbbde806b2465f5f30de105ac058b656d1c21e4320dab3b631e114255"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/glow_squid.png"
+hash = "0bf11edf769462e75a0759cd77d1fddf6e0f6d9315bf0fba3589b7bc1c4a1001"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/falling_corpse.png"
+hash = "7ed023625aa28fb91b48ef5014c866ae53d5f6ff4fd1733700f2afb8ed1c8f32"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_1.png"
+hash = "107b25507d5d4adec20e15a2362bf4c3b03473c6d2b1fa3887ab803ac820f63b"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_2.png"
+hash = "431ec7770803a66d2c6de83f0179d05f516ea0eac0237aa927e3bffeeb94fc21"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_3.png"
+hash = "31d461ec3b3184acd90e4f5d704737ae88b3b9d9dda551fade754c4a9833f015"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_4.png"
+hash = "5d9225a81fa9da0feef0ed244d5fdcecfda8ff4f3034adcfc7542ee1a897ab73"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_5.png"
+hash = "a13be2611e4e086ae452f631a3e5aef535c1cedef511b4332e763421a393e5e1"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_6.png"
+hash = "1a7e126df722f7735cef80648242d06d82a07ad29340779705a26f06e3e67c63"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_7.png"
+hash = "19c7e0434f6b46dc5bc74f3cdffc9138fecf9e4bf1c9462866e4527d9ed76363"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_8.png"
+hash = "4b0123360fff8ecaf18dbfcc474ce1d3fa18644a888baa18250391256c0e0abc"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_9.png"
+hash = "c9b13c499b8b353324138cdc801615ed6b1eae6b385a3bc7a6574f1efc80d1f3"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghouling/1_ghouling.png"
+hash = "35414308aca9122afdf372d6e9ad029d1da73896c3c650855df41c4fae91ede0"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghouling/2_ghouling.png"
+hash = "3d0c0779aa17e3baec39089038dd448f393f58e480a03209a48dec573ea505e1"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghouling/3_ghouling.png"
+hash = "c570d2917ea08ac607246da0957f1c7196c17b3d96bc5549516e64d32d4cfdc9"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghouling/4_ghouling.png"
+hash = "0f912d7c207d27201dd43ba252ca94b751d6f6608b0027ae4af92ab072730b83"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghouling/5_ghouling.png"
+hash = "59e52d411c09f1b6e59ab187179e4c40379c6b82487bbec1344660d9f37f68b3"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/lich.png"
+hash = "c204995aa66dfc08a215f7e8c8d8adace5d2bb53838cf4640e07230c0050ee12"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/nameless_hanged.png"
+hash = "3c830567599b6df6a32b1fba45d577c4204c4dfc7d83a11a10a6cbd56c5f0735"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/nightmare.png"
+hash = "449f1a394b6d0be4c70a5978d822ff205ca768f5ec547b6f3aadf8f3ed4d90e2"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/reaper.png"
+hash = "edc8bf8be896f560f4c9eeb2da73ac97ff19ddd50bd48503ecb46ce29fdd5aac"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/revenant.png"
+hash = "ef52bebbd486892c313848c1a5ccaf967eda18a5e88f3d32c778606f89f85d69"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/wraith.png"
+hash = "31ccc15bd9c374299b8521b782a5249acf23be54362db5fac3477d82ad8271c0"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/wraith_opaque.png"
+hash = "ef673c2957de1cb70ff1a87cb13bb4f07a5ca3670e310d60bafd0e4a36d06eab"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/great_thrasher.png"
+hash = "3c38b6f84d347215fc3155bd11cc25e1853f730e55e419c001dd49d39f0bf340"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/hydra.png"
+hash = "162e38d52f348797c69341c6c6225059577a76deca419ae62110fcadbd846b49"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/igalaxy.png"
+hash = "56c673a2697d0cc0bbdd5d6d35fb40fa6c8c6690d8dc0d41337579ff7dc03837"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/lava_cat.png"
+hash = "eb3c7fa023aa7acd0586e208e5c7aafd052c0d798db90d44deecbb91cdf96569"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_lime.png"
+hash = "39b0bfcf2a82dd6204a01b66e61808f0b55af6745ddb9cff1beed2cb7dececbc"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_orange.png"
+hash = "a6d3b1117a81abbd1f2f09d03daab958e875e011d483f0095cb8ae2248e174ab"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_pink.png"
+hash = "7ef93f508d7faa3c4d12b050487a7a4cb980161c686955930f6501b2dc6cb0bb"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_turquoise.png"
+hash = "8e7c9c9d57eaa106cada40f9a603b59f40702af366892fbdeac9c0ada3746628"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_white.png"
+hash = "bc7a417a04ce1610b5560e39421db154732b5e7056b314a647b3cbe9af42a9ff"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_yellow.png"
+hash = "9e6d7831849e64481fdb47f565d49cd9f2a5791b90b8835100f6af81f7d476de"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/minecraft/creeper.png"
+hash = "a90ee1d26da822e845608f4b1a4bea32507f8f4cef09e948c78f3f550de88dac"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/minecraft/enderman.png"
+hash = "8cbf8ecea6f0c285ad357f2396e71a56d5ba0278016fdc5a96f1b6886902e84c"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/minecraft/piglin/piglin.png"
+hash = "fa745b5f57f30d854acb98870b3430156f408b1e4c32bd11031aa02593a00a70"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/minecraft/piglin/piglin_brute.png"
+hash = "8a15598006e530d889b633885a4df80b32778cc4fccb2173f89244208b9865b4"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/minecraft/piglin/zombified_piglin.png"
+hash = "385e9796d418dd01c2aa0f038792138cd3ea6fc01148a2b8d7bede5b9129fd76"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/mr_chocolate.png"
+hash = "be1f6b94c4e38f22013023c4c23776a57caa33ce30c174c252e0f67accb3c1b6"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/obsidian_cat.png"
+hash = "9227e989e6a39a0d023390d866e0b950a5b093d65e1f679622fbb611116e56c7"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/old_golem.png"
+hash = "ce40aca0fb2fce085403e0039c0e37c00f1d05c3c39c07f798c5aec709450b81"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/owl.png"
+hash = "06c04d6151f78e74ebe2db07f5020f1a7bcdca6544783466e840e70be3c9dc61"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/rudolph.png"
+hash = "1163a1887e262e5915d15634268c6296dcd2f5a691d639b1666050d5fd69bfa5"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/shockmicro.png"
+hash = "43de8f8dab2622fc7e3ca6aef337cdc5a7e65aab4dbd7de59c40e724c637f993"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/silver_fox.png"
+hash = "27f10741633711d84ff074df7e430d9d6b2e34875a163bc3aea967616e8dcd37"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/snow_guardian.png"
+hash = "1a6584cc36f3ede0fbd153a5b98034ee094263faff181984261e7d66ae1299e9"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/sprout_green.png"
+hash = "296fca87dc871865f6280c5f72a35945a91a25bf14c34fc148fe56f82655f7cd"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/sprout_hell.png"
+hash = "c775a67095dc524ee91a74d3c34af3b7864bf5e22e4d52b2e8eedea138829ae6"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/sprout_purple.png"
+hash = "f4ebe5c4e43b60e6a03c75cf0c6c2416d039429b86deb3726a0ad2574cf71933"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/sprout_red.png"
+hash = "9ad921f0e1edc3f54fc93cfae4232accea982ec455f5c445ad3581fdd01bb163"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/sprout_tan.png"
+hash = "f92ad87f351f125b6a9f1a07f8701c79bfd69a74127ba6b220c0342e88f365bc"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/strawgolem-dying.png"
+hash = "5f9ce82d276c70937fb47009f96e78f6e6c6096c8a397ef5f0b3e53a1963fdbe"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/strawgolem.png"
+hash = "b72258b95765fdd83d2268bd2a2d7664616fa6e76807eb998b89d51a85ceb217"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/thrasher.png"
+hash = "e291e94a8a7609317b23b79ded8c84fbc7547528929038e0de34bfdfc2008380"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/winter_golem.png"
+hash = "76f29a0fa579b6bf320d2b41393e300d51b20b932be71e9200b80402bf222f3b"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/wraith.png"
+hash = "30b334add221f13cf167e7e881608c75c7bcec486c7572dcab5a481c7e3f9ef0"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/yeti.png"
+hash = "0b627c23304c408759656e32cab871f91a4911fd8e0b0338a967820ec2a7cf64"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/zombie_brute.png"
+hash = "721605baa04d3a69e8866fee2d61cca623bc5a383cadff4c47be8144415fb4f0"
+
+[[files]]
+file = "kubejs/client_scripts/constdef.js"
+hash = "06ebdc9c5a6b730440d0da74f989739e1f985a650fdb5b000a718439b7a4062f"
+
+[[files]]
+file = "kubejs/client_scripts/item_tooltips.js"
+hash = "e8dd35bc16f6b12cfe5a30a38137c002a77c16ffb695e47b0cffbdc648633732"
+
+[[files]]
+file = "kubejs/client_scripts/utils.js"
+hash = "29af1c0b3e6a9e0bbc528888a1a77898d1adef4568d8f173bf4bf13e0926b02f"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "5e37ee847f534da76fb6e7c57fbc3532167d353d4cbbff6d5766424f4f7ac98a"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "73a5fdd9fd6a9bec28e46bb3cc2c9c0961f270cef76abd4b7d2bfd5cab139659"
+
+[[files]]
+file = "kubejs/config/probejs.json"
+hash = "eb0bfaed60482e4e159ff4e2452cc098de57689f7cc82b4c9d9f112548173da6"
+
+[[files]]
+file = "kubejs/jsconfig.json"
+hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
+
+[[files]]
+file = "kubejs/server_scripts/constdef.js"
+hash = "19fc086597a99a5542c2e40c5b3556ad3e6f292bd235c25b6ecabd9d49089279"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/smithing_rebirth.js"
+hash = "af09c5d2b3b815ffe29fee5a61c2622a1da6e3be72e0a363547adcf19d5fbe21"
+
+[[files]]
+file = "kubejs/server_scripts/tag/rebirth.js"
+hash = "16d88d1f5ee65b2947fdb4d33489123c44fb2702a1c0c2c1056f80daa133da41"
+
+[[files]]
+file = "kubejs/server_scripts/tag/tags.js"
+hash = "f54021b45e5481853ca9e90b4ef2e6f85b399438867c56a36f8f46ce926b88e9"
+
+[[files]]
+file = "kubejs/server_scripts/tag/tiered.js"
+hash = "06a5256e2af226880b37f0aa945cce4496c9b577e4937a98b58d3c803b532ce9"
+
+[[files]]
+file = "kubejs/startup_scripts/constdef.js"
+hash = "ae58c38758e75beed626c52f252c1a28ce40d0b8e78ba10f9129486490a1ec6a"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "kubejs/startup_scripts/modify/armor.js"
+hash = "0bc5daf33c7c78bd7937633ee700f2430af79e689fe60731b334ac03286c95bf"
+
+[[files]]
+file = "kubejs/startup_scripts/modify/block.js"
+hash = "371333c47ee14202e3b11772025190d72955664d2585e491096bb759b18def97"
+
+[[files]]
+file = "kubejs/startup_scripts/modify/durable.js"
+hash = "721959768fa6b5014707a7b3cb4021ed272c02e8490bd6a9c200e5a1967d71d6"
+
+[[files]]
+file = "kubejs/startup_scripts/modify/item.js"
+hash = "893eab90ade06fb6eef5fdfdec09a1bc9b815d569e576b26551b4e484ff24069"
+
+[[files]]
+file = "kubejs/startup_scripts/modify/weapon.js"
+hash = "37645c70bf6711aaf0a8f4a2bdcb65b04908910a1955837824045e0613cb7145"
+
+[[files]]
+file = "kubejs/startup_scripts/register/armor.js"
+hash = "82ad3c3e593f36eae7c53e5111c25bf636272cb0aa3f38d207ca663c8be5a5fc"
+
+[[files]]
+file = "kubejs/startup_scripts/register/block.js"
+hash = "9b840e7c33538421f2482c96a89551885a17bfb8d6912c4b1834277c22e5ed5c"
+
+[[files]]
+file = "kubejs/startup_scripts/register/easter_egg.js"
+hash = "fc4c1d6ae9e1517014d26f3fd8671931d533cc8f9bbb8ff628e17261587fdca3"
+
+[[files]]
+file = "kubejs/startup_scripts/register/item.js"
+hash = "72f47943513486c02e215d7dc04e330664566852e44657e71da842562e828bcf"
+
+[[files]]
+file = "kubejs/startup_scripts/register/music.js"
+hash = "6f54c71c3534294665b2a43487652a6494fe27812208b9e2eb14dfe924541205"
+
+[[files]]
+file = "kubejs/startup_scripts/register/rebirth_stone.js"
+hash = "2473f8267c39482dfe6bddb4472c152aa7dd8b92d60a501bde3676cb63e75d4a"
+
+[[files]]
+file = "kubejs/startup_scripts/register/tiers.js"
+hash = "80e34f5f3b7c69e30a835516a382a05116340aa6f9738332b6ed647c3c707dbc"
+
+[[files]]
+file = "kubejs/startup_scripts/register/tool.js"
+hash = "4aba2f532f00264999d2717b7fb306ccf7e05e08439057a57b6c1e0aec70e57e"
+
+[[files]]
+file = "kubejs/startup_scripts/register/weapon.js"
+hash = "e3a3d7094de7025af5a832093608d4674391f4aa3c43f802beb5b62cb5386585"
+
+[[files]]
+file = "kubejs/startup_scripts/utils/attribute_utils.js"
+hash = "92990f89a342a1a3fdcf1401a97c233b2fb8780add819b8aabb1bd3fb18ca4c6"
+
+[[files]]
+file = "mods/RandomTitleReborn-1.0.jar"
+hash = "e4fb0bbe53cd7d8a676d9769bfc430718c52b553ec3c923a15aad46e674b6af1"
+
+[[files]]
+file = "mods/XpObelisk-0.5.0+1.20.1.jar"
+hash = "2a20228e30934e7ea410cd1821d3e29417bce7483d936d4f1b86f7e1a18a7d16"
+
+[[files]]
+file = "mods/[IR3-Only]InfinityCore-1.0.jar"
+hash = "c68fb9c7ea719744a036309631cd4ab4ff776c5a3345cd205996cc1fe1fce096"
+
+[[files]]
+file = "mods/[IR3-Only]X-Enchantment-1.20.1-1.0.10-SNAPSHOT.jar"
+hash = "435b89e8ead250ea1fb3771f228c70fcb9b580c7e60dc41b6d9f5642105a90cf"
+
+[[files]]
+file = "mods/[IR3-Only]gate-of-babylon-1.8.0+1.20.1.jar"
+hash = "59103c5a679b4b4410e1f2b0b061184572a89e8f6965855494513977f2489034"
+
+[[files]]
+file = "mods/[IR3-Only]tiered-1.3.3.jar"
+hash = "69050367f6e48ad6b80b939983f16e7794d045a22ce90292d600730003adcc25"
+
+[[files]]
+file = "mods/[IR3-Only]villagerquests-1.1.2.jar"
+hash = "0dd0f4c6186b62416df3f570678b36e66fab9686a555856d10abb483875cb017"
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "d089bd1afa7fad1d3c8414b3f1765cdca030b20d974bdd1f8e232069286c26d0"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "720a9305a6d315fa231ef7885bdeb84cec70caee3768006f550ece23cc5219d5"
+metafile = true
+
+[[files]]
+file = "mods/additional-additions.pw.toml"
+hash = "8b6037f2a2030f911262099b9d22026429a9896d9409d615a04135c8406c6d89"
+metafile = true
+
+[[files]]
+file = "mods/advancement-plaques-fabric.pw.toml"
+hash = "1a9ac4888b6c071009a64b9e472716b937bda6545e334f3c3ba51b751bf1c7c3"
+metafile = true
+
+[[files]]
+file = "mods/adventurez.pw.toml"
+hash = "073d82755fce8e9fb28ab08327e0b062878c87ee727f9278793a0c297757e3d2"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "1bc328e5477ce87bb27110fd90258de8767f9ffef86434ae0c0c301292c29fb0"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "505f89da0af64879da1886bc0eb282ee13a4ae032aaa61a899a4a0a83f15dd6e"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+metafile = true
+
+[[files]]
+file = "mods/armor-set-bonuses-fabric.pw.toml"
+hash = "961d915e279d2132a146b6e92516d233035014058e164c6af872276c1559abd0"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "63470864e8511f28cb971475b8b209f37df57b348e3ac61b363f49707536260f"
+metafile = true
+
+[[files]]
+file = "mods/asteorbar.pw.toml"
+hash = "efaefef76e04e060b375987a85f4500c0dde2c61fc189f5873fbcc3dcca67e79"
+metafile = true
+
+[[files]]
+file = "mods/attribute-tooltip-fix.pw.toml"
+hash = "8a243b23eded5a51fed37a17c9530b9fd171b818b1d6592d4d6f9569fe651424"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "2ea3d87ffc2806e4bcb6ee9f5a35bdb4588b29030aba235dc7616d1833349d5b"
+metafile = true
+
+[[files]]
+file = "mods/autotag.pw.toml"
+hash = "b9a735d5fa8a449c3f177edee653043235a3af096bba1d91ac09d53987b2868a"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "b119f4da2d9f554860a8c8146a68123c4b0d191c73e7a1f62b3ec94f326ab5eb"
+metafile = true
+
+[[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "b91695a9291401b4e09a28d7365e26513e5a2359b5edd4def897e673cd582f6d"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "3c9575df506c2514c9c5e162c55dc5d5ff4a85bc50baf0c71ccbb5fe8a5105bc"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "e5739bf8e8668a5d94ae545f7ddabcffcdfec64b0e72d7d2d88d8f64f480977e"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "62a06523495d2fe4423080876dbcd631378cf805c20a64c63f3768027b4f8c15"
+metafile = true
+
+[[files]]
+file = "mods/botania-fabric.pw.toml"
+hash = "2795ee8ccc3908a260c267951c0364edc331eb5d50af68d096381027e67695f2"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "4a1cf029ab91e35bbea65fea79e30b2998ca8fa7d469a21ee72c8ab0988378c5"
+metafile = true
+
+[[files]]
+file = "mods/bygone-nether-fabric.pw.toml"
+hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "c652306fdcbb41d5acb22b625217b0ab31e4d8e36d61411ba74008c829046d11"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "41cbd529d0a8373a536f9b4550f96e5574c94d66029567b31d60cec32bf2604e"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "ed4aa1e4d4d474474e2a7df8ecfbab4c7606ddd778f0bac7be671b3b954ec51c"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "cc1a1f9624a95f68b6657143acb0ce03dc90c7cca95e308f4eb7f48b1709991a"
+metafile = true
+
+[[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "a2b5e1cfb8bdedd150af4d0c851479ac684265023fb31f40f52ef1e55cac9cf4"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "ccd8f9122da261c9b652ffae983fc5778550d34a241bd3df935632e51e696f56"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
+metafile = true
+
+[[files]]
+file = "mods/cloud-boots.pw.toml"
+hash = "03a9b24d28ca93b3bd39b4de223ba02d0ae44130ca032713d1b7e57633109fae"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
+metafile = true
+
+[[files]]
+file = "mods/collectors-album.pw.toml"
+hash = "0608ab347d3d508363cc03226f970e55978c9637a644c1576e44a17a150455eb"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "8a3432ac57fefabac2f33b482d56cb3f28af0242f4f18aa19156bd4f453e8e0b"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "1dd8248a051e4dcd597b2bce8a231d046173d2f9a18512704aa5a843c3034765"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "e1b1e7629e390f1c8b0fa6be0bd07fa54abc03522a1659259ca762b8e2f64faa"
+metafile = true
+
+[[files]]
+file = "mods/configuration.pw.toml"
+hash = "c31a2bb8643ae56dcee7138fb4da50ba101cda6b304508a33f7c4937aaea5432"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand-fabric.pw.toml"
+hash = "695173250662483f476c90011b99feaf1e0df0ce83fd20b8358c4e8d667afa04"
+metafile = true
+
+[[files]]
+file = "mods/contingameime.pw.toml"
+hash = "3bbfde622901cd24fa6b582f60613fe7f58e21bd8cfa5cc8bbfc48ce3a9b53a6"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "8459128658c0148ba1b89d87b4c86bd62f236c73cff860090eba0b08e49ae9ce"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
+metafile = true
+
+[[files]]
+file = "mods/cool-rain.pw.toml"
+hash = "45aec8eb0cbed351de75349ff5bd31c6aebeffafbf76be8b1ccd98fe546c9a1b"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "2e9f0cf136e33806f330dbbd3ae665cbc5796ae78d1061d3c8b6ecd48a30f4ed"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "17d588c49f6c3bf2ad659c6d3fe073704a6e15c34bf69f70109a6b762e6ea0c3"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
+metafile = true
+
+[[files]]
+file = "mods/cursery.pw.toml"
+hash = "2994e9f5cb4f258694f4704ef96eb1ebcf2b1799cd8d9361341c359660cb6744"
+metafile = true
+
+[[files]]
+file = "mods/cursor-mod-reload.pw.toml"
+hash = "5357a252cd78d604d4626f81be634c1860d3d48f93a37b6c1ee62b78efb0560d"
+metafile = true
+
+[[files]]
+file = "mods/dank-storage.pw.toml"
+hash = "dd6befe5d71e1586ab14a50288bb04ab1d1fcc839600d547b93a9b5e5d3ebf54"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "af6138553c19f3328aec95bb7a51c90dd12f24689be22a43ef3053531561bec2"
+metafile = true
+
+[[files]]
+file = "mods/darkbosses.pw.toml"
+hash = "51cc547e006f342b91b7c4df3298f237f4ad52c533f117be8e0e3ef5d8a465b1"
+metafile = true
+
+[[files]]
+file = "mods/data-attributes-directors-cut.pw.toml"
+hash = "f4e4b52de23c6babbc99f2412205c347d79a932a847e5112e7b2471d7557c7f3"
+metafile = true
+
+[[files]]
+file = "mods/datapack-portals.pw.toml"
+hash = "0fee17fd9e5d172d9e2ba1fae779416c2ebd6d830a45773160eeb60738c9ad6f"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-sync-fixes.pw.toml"
+hash = "bdebed2b58b45cce33dbe972bb33201247afbd5c9a56f2edbe441880c395a035"
+metafile = true
+
+[[files]]
+file = "mods/displaycase.pw.toml"
+hash = "9ca4479db87600826ebc8428992b165a77b9f361d0465a95d02cc77782d2fc89"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "d9bf0020f39ea4cea9c1350fdeefd5c651797ffaa01873ad91f6162fb0e210d4"
+metafile = true
+
+[[files]]
+file = "mods/dracomelette.pw.toml"
+hash = "c2ce54b4828e9c569604d03ea85765fe5009c76817d4568bfc03c29198a5c4c5"
+metafile = true
+
+[[files]]
+file = "mods/dragonloot.pw.toml"
+hash = "6357fceb13c6601bbfa5c30397ae8087a031d0ba7ab966a33e98bc358681eb33"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "e789d52ac4ddd36aa5157ac779811317f629bfe5d81bc90ac1d33181907057d4"
+metafile = true
+
+[[files]]
+file = "mods/dusk.pw.toml"
+hash = "9b94e9271d6c723d377f6d233066920262dc14543747834c99d1494b0da22688"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fire-overlay.pw.toml"
+hash = "a017a3437dd93e3d8c1c5e0343866ace4869efeed3f5e7217a95ed5147e9d010"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation-fabric.pw.toml"
+hash = "5c2480212de53b3e0fb0adb82ea1fa1774ee93a5d41f7a735a8ead101803339d"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
+metafile = true
+
+[[files]]
+file = "mods/eldritch-mobs.pw.toml"
+hash = "cf338104484c7ae9cded0829b3af0e660e7feb2f2bfb17f792b306fe9e90cf2b"
+metafile = true
+
+[[files]]
+file = "mods/elementalenchantments.pw.toml"
+hash = "4b15b50120d5b1c425a4372578d05c16f4d846481d2e4ef8a2cc7f6e4adc4c0b"
+metafile = true
+
+[[files]]
+file = "mods/elytra-physics.pw.toml"
+hash = "602af39257449aeed4b745c8229167f00613efbe1cb5fe3df4a16154f68a7118"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "fd2cdd28262f1ab902f8ae0aeb7ae5c543daddb916b936302df411f1a1910f7b"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "db142173a134c93c5daad4bf18ac9d213982e05d936d5a9b622fd346b538646e"
+metafile = true
+
+[[files]]
+file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
+hash = "cba9a89d5114ad8aaec8c4593851388bacf317cbe99428e347441c93ae9f8c1b"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "5b37989d32ad1ff9f26c6983e0e834c6b1bc68456680ac0e63541579ac4914d7"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-tooltips.pw.toml"
+hash = "27ed97a407fb06e702d66c00d34e678cb0c417504a00fa6c244f5c15d0083409"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-level-language-patch.pw.toml"
+hash = "a5b37f641c5c9591925d0281fab2b9cd3c4c63ba72076083d5e0757308df18ff"
+metafile = true
+
+[[files]]
+file = "mods/ender-dragon-egg-respawn-fabric.pw.toml"
+hash = "61d5500360a50ad6b716128127d932e43f6fec3e9db87ecbe16048f8ecb0d9cb"
+metafile = true
+
+[[files]]
+file = "mods/endremastered-fabric.pw.toml"
+hash = "4c1bb122bfbbe5b8a6522461e392cc7ec719ac1cd30e9fd14176ff1567e3ea75"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-fabric.pw.toml"
+hash = "7d523926feb744651125d7287a05908724f39d2dc0e2e08f1a78e7ad8424e927"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7888fafcdb02347e807cc5851cf5da6650ea7d60e6ef507c89a65810ffa1e774"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "9652798b0045301905be00b4bff8c4ded2e8e18c60bcc0bee7521d78f452d7ad"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "c2e938d1bdd1136e04b8be8c1378e2e33956ac23aa91d3a76003db6f2f75cbd1"
+metafile = true
+
+[[files]]
+file = "mods/extra-alchemy.pw.toml"
+hash = "037ac941deec03c013320f3b3120fa16bf9f7260d5d005be9a13f88e2bf6c605"
+metafile = true
+
+[[files]]
+file = "mods/extra-enchantments-and-curses.pw.toml"
+hash = "ca55187da2639d28e6f2e7e42bd85796c83ff0b3041a5088c7db0383683c78b2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-enchantments.pw.toml"
+hash = "b5cf85f32f1fb1c99b0f60f65a9e16a958d0ba19b81d50cdf6e2f09193290ec8"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "5b9d1e1ec60004c0bd38a134b7b8987583250200238abe84180b1f5bea839eae"
+metafile = true
+
+[[files]]
+file = "mods/fabric-progressive-bosses.pw.toml"
+hash = "81218a98f34d60fa15bbd8d12b12abf30e4358483475ef1460dc9e66ba107b50"
+metafile = true
+
+[[files]]
+file = "mods/fabric-rings-of-ascension.pw.toml"
+hash = "6b8df5bd25db182b6d96312cd82239633605e3996a08b2f5bfaef1a3297f443d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-shield-lib.pw.toml"
+hash = "e2af8517252c666e1b4203cdcf6a493a157cf1985e1c776b6a9a72ca68f36d9e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-yaml-configuration-1.0.0.jar"
+hash = "2926421dce010e8121d87f13d1df7889fae3bdca9715067199c1abeba61af127"
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "8bc654b98c2c8347c443bd4f966797b97907f436c8771891482a603e16f7e058"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "28649c624258849191a6c0b0a1ba5479870bf9c14748bd6cc08dafd3d42e110a"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "7d5bfb2d7dea6386110f2f1f364696f43b23afa969be6f41cebafa7e7e992335"
+metafile = true
+
+[[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "af167766cf972ba7f550e169cec17318a724edac20ac919959e3cf80e5d5f8c3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "0ecc01cccbeb605112e074ecccebbfc9d0ef16a34636bebafb982123f6bdc212"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "b075b2e48e20130ee1679aa511ccae269689e4e0084c7a58bcdb57b36d6cd270"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "8c16d26d5b9bb03da0982af0d7ff7e2aaba6b91e99ab39e5f5b49fc52b1159cf"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "dfa3b6fcff71eda68630dbadf8e23d28713e8ee45fd26a4b1df53a98c804575c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "5e705846974b110889772a144bfea048fd253f4186c42b59fe9e2b94d43c41ad"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "2eca18d0fe3e1ee32c6db2f89e99b9422ef1f931d3a9419ceb9d8f7cdfeb6eda"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "40bedfcd9fba9603087615ef8fff7cd32dbbb8df596602b06563b9cb5ae5f7ab"
+metafile = true
+
+[[files]]
+file = "mods/go-fish.pw.toml"
+hash = "d47b36a229668694e6697a97d8fb2fa70fcf9d3f6dcc4f3ab6cddaf5c541fa83"
+metafile = true
+
+[[files]]
+file = "mods/gobber-fabric.pw.toml"
+hash = "7a6ade7bfddfb33b5e8c0843f582b3654deacca74b1633c0676d19b82ecc30cd"
+metafile = true
+
+[[files]]
+file = "mods/goblintraders-fabric.pw.toml"
+hash = "32ee7a7170ed798a1e4d8b4bd98d3659566615f8c189f70ea58419a39dce1c42"
+metafile = true
+
+[[files]]
+file = "mods/hearty-trinkets.pw.toml"
+hash = "5486899bf74235c72d774b73bc72279e736f06fb26efc75bc58bd0eb1644dd52"
+metafile = true
+
+[[files]]
+file = "mods/hookshot.pw.toml"
+hash = "eb5db24fabc28408c93130d3dfa138360b623b3e5962dbc177f645aa23848ec3"
+metafile = true
+
+[[files]]
+file = "mods/icarus.pw.toml"
+hash = "9437d11f8b3c35d76b430f4f6337ab1344329be5ef157af3c045b73ea693e3f9"
+metafile = true
+
+[[files]]
+file = "mods/iceberg-fabric.pw.toml"
+hash = "2c1bac5d5bc9061449e91525e3564883743273cbe2eade645a2a70e8c38a9927"
+metafile = true
+
+[[files]]
+file = "mods/ilmusu-enchantments.pw.toml"
+hash = "674dba74562de9558d7d316b955297b07f145d54692c79ba2aeb69b74244d5dc"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "809c13f43e35f7792d420ba0d525fa2adb339886766b55c588ed52c0023e08af"
+metafile = true
+
+[[files]]
+file = "mods/improved-mobs-fabric.pw.toml"
+hash = "7c92a8d720544da8933a1b61a301b6445be1a8cad54df54785456c5db5d79026"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
+metafile = true
+
+[[files]]
+file = "mods/infusion_table-1.2.0-1.20-fabric.jar"
+hash = "92b1181222740fa8c586fa2885d3144a8354c4a129597fb255f538f620d1f84e"
+
+[[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "db8be814b3e4ca8f976d4595714aaaa5a236b1d473808fc85ea16c3272d217ed"
+metafile = true
+
+[[files]]
+file = "mods/item-borders-fabric.pw.toml"
+hash = "82172c8f35bb42c0ba674a2d13faeea87d611036c51b174eacd55a8b0a8dbb91"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "259b6e654e0bb7185d3c51f9b21a81e0e12e7d16c225b6788cf90ff92c1bd069"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "ee37d220e161bf87661d0047d00841005790e6feffb6f07e9eba3859fdfcdd8b"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-characters.pw.toml"
+hash = "bc44493391e97e7944007179ede8c9adb17108ced075f678c8c969571aa3b2f0"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "89e997ac208afad939b9d43b8b4e785dd6e6e405fc4a785d311a0af42821a656"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs-fabric.pw.toml"
+hash = "6e856e521416a1e6bc871b7583c20e369b270338161485119cea3d4768d3fa02"
+metafile = true
+
+[[files]]
+file = "mods/konkrete-fabric.pw.toml"
+hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "8e3536092375aecb58eff2d81714fab7a3272375c9e6e19481ea500e6fbd9726"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
+metafile = true
+
+[[files]]
+file = "mods/lan-server-properties.pw.toml"
+hash = "f047cf412c960a69d75157e8cd2ac8888a0b57fd201cc21894f3c53a6975a882"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips-fabric.pw.toml"
+hash = "455ebcd7078eddf6c4dd3bff09f70bb3d755d4fa1665ff9070e8c37077c54dce"
+metafile = true
+
+[[files]]
+file = "mods/libz.pw.toml"
+hash = "1549ddf6a28c530fe7e54d00a28149bf8bf1c3e66231a0aefb7b9185a827a2ae"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "39d1aa66bf641027827a4bfcfe2c088ad6506405b0ff603fd65b1a9828d40c94"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "1038b6a9b1af698bd31f90f742c5347143f8c41966013a3cee892854943440f1"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "0f0b7c4b1e6873150bd91749998934b82a76b4d6f11047103eeba369f4342d42"
+metafile = true
+
+[[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "e7f748c45bab5a2d9c6c34d99703b9c8aa09e0c5e8069938cad9de693a9965e1"
+metafile = true
+
+[[files]]
+file = "mods/lychee-fabric.pw.toml"
+hash = "96bd5caf13c9368b29d57c244b8ab6171f5cb88cb8f585b87ba87fb19353c7fd"
+metafile = true
+
+[[files]]
+file = "mods/majobroom-1.2.5.jar"
+hash = "e315871560de1ede4901c5c6ab14186be0e602a0990efaab7e50254ed2735788"
+
+[[files]]
+file = "mods/mariums-soulslike-weaponry.pw.toml"
+hash = "560175e99efdc1945de7bc1a68bfcc3fa19129e7c5a34343c9c8c29f01958c19"
+metafile = true
+
+[[files]]
+file = "mods/mcda.pw.toml"
+hash = "bb44141e288e15047926a6f27986b94534fbff50ebbc08999ff74954c31d0b5f"
+metafile = true
+
+[[files]]
+file = "mods/mcdar.pw.toml"
+hash = "cbb5eaf88808666f021138471f960673e0251b3abbb5e42ddbae9762ee4c9282"
+metafile = true
+
+[[files]]
+file = "mods/mcdw.pw.toml"
+hash = "0e3ba214541f37a2a7b79cc2e3d89783b7aa2ebd704c9a38e58a0b606cb71141"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "0bb09984bde1eccd9fe179a473d084316068840d93bf4b1ff38a8cd43fa85fc0"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "2af509457d13907cf0b48f2f0997750c07e0349f6522b87f8b4bcd1794aa2559"
+metafile = true
+
+[[files]]
+file = "mods/mini-effects-fabric.pw.toml"
+hash = "00da24801891351250a5f7d79c333a3d26ea8d97b31a7b908e386b70ff96ae88"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "e920635b586d1f7c9cc4680789e449fd0e8f4a955e1842f8275d3cef095896f7"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "e7764aeba006d8ccfb804198e382d6c21945bbcf72b86f9dba277641e5d03c45"
+metafile = true
+
+[[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "a06d3c4d3e5963e97183c930124b25c82c5a04de93086f3a60c12d36a38b39a1"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "de9bf155da273d9d703f5820c571939d595601585ea75d00d4303132ef493ddc"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f4136c4b7f9dd0a7fb4fc36292cfc21bb45762ba757210275682d6051ca74b29"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "adc8fd3abb94de7a1b65ec610bd5a082308af1d9edcb03a1c7f46aecfdf44d84"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "ad5c0d2e9bbf37e76d28467f50974c359dfc3a485d117e74b4ba925a9cca6139"
+metafile = true
+
+[[files]]
+file = "mods/moonphaseinfoplus-1.1.1.jar"
+hash = "95bbdf544f9544919996eb660c1a52a0c43758bca8e5baea2597e9eea13d56c3"
+
+[[files]]
+file = "mods/more-villagers-fabric.pw.toml"
+hash = "8d0412794abda3c9eaf4c673d96a45fe6a635142b1e853555d6574406af02b23"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "36ac9f1349d615741c917fb6d83f144117d0a9a0c898305b79bec05c108b42d4"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "682470f6e9dafbd6a55dbba1f8b214258a37fc7eff47b307508498daa653623b"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "ab34cef75a406dfa31de7c074886a7a7f85e54d0d2fd4b6e54956bb633a857a0"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "e3e89a045e3608fef1bb6c3e27dc290e793bad6ecb5c026305eea5b8742cc233"
+metafile = true
+
+[[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "946d1aa13a7ac2fc04d2b348a32f8a8f3106805a9caba6d6d3427446bfc55cf0"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "c60000f666a750416ccdec0184a9ad5db7a9637ee59626fd3d8e715c3c2c5f42"
+metafile = true
+
+[[files]]
+file = "mods/opack2reload.pw.toml"
+hash = "cb9ce1297e2392080f67e06a102ac58c4aa5c628279206891058e84c8e53282f"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "c773f320e4680f7a22e3eff36cd0dd27115b51ceb382f824d749eab6f89327e8"
+metafile = true
+
+[[files]]
+file = "mods/paginated-advancements.pw.toml"
+hash = "c5fb0b6a5be045f581c5b967253dc44800962c2ccaf464ef66c727177ef38e58"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "12216fa20f72f411ba04636f58a712e925f0ed8c219e140a977a1a95d7fd6ccf"
+metafile = true
+
+[[files]]
+file = "mods/piercingpaxels.pw.toml"
+hash = "0ddbfb3c0a0dec61c63d1e4e76f42832838630035dc546da2e3ea65fc36f5a04"
+metafile = true
+
+[[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "95d637adfbd0595a017c111e01c55ee4b1f7020ba279611ad364e6bdf881bbc8"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
+metafile = true
+
+[[files]]
+file = "mods/playerex-directors-cut.pw.toml"
+hash = "c010b43d3d677c3aa4f0e752bd6657e1b41f085adb33fbfdd721f59946a2bd60"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "22517018388c911b457143b3934634cc6d0b4bfbf26a39fee2a50785892955af"
+metafile = true
+
+[[files]]
+file = "mods/prism-fabric.pw.toml"
+hash = "0f4cbc95a3ba8b72b62fdae171933c59a6e4f87ec6e03b26e8d0dd2a0150f5ca"
+metafile = true
+
+[[files]]
+file = "mods/project-978068.pw.toml"
+hash = "488d90aa37b5a42d28dc658e0435fce17438b5407cff87347f5bea3ab4e3a260"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "2a4029d68de71092a9b9c7d22539760d531f1f7ad1d14ebf96f49dedbd9a42e2"
+metafile = true
+
+[[files]]
+file = "mods/quests-additions-fabric.pw.toml"
+hash = "44136ff02e06aef5861c9c672fb3932fe4a4c45fa03057d68d7f352e1d76cabf"
+metafile = true
+
+[[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "8a15fb81964fb21577ed2e81c6075489d63024dba1ef357ae5464865bae8052e"
+metafile = true
+
+[[files]]
+file = "mods/real-camera.pw.toml"
+hash = "2f54411de93c34bc2cb2e2e26fbfc2952d10d0f7aaca759e0703b09f13d41153"
+metafile = true
+
+[[files]]
+file = "mods/redirected.pw.toml"
+hash = "b2453d006a9d3ce4cf2bf9366217189512ebcddca6403ec555b1069e873c3c44"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "8c72cc6704cd3062268260d0760bfb6152f463ca00783f8f8872c7706e3eec30"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "c5aa125c73079c51dfeffa2cb5da8b0e4bb66227895f3457d0583d5542669583"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ac6f4641abc245146d5c56aa60b1131fb9d7d42ef43e675674b5fe7c30183394"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "f4e27dcb0732e442dc7cc6019e125e3e933baf405bd13e916d837089e80ab109"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "98739e44d0a6e97c0776861a551cf689d9190a215640210007dd28d3edad9107"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "30e758968fb6ae6b509776bd160ca987a0a93373cf9cf72796612575086d3376"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "bd7b218b74220f751a3834eac8cd38670406efb06be5d7609a50d5ab768021d7"
+metafile = true
+
+[[files]]
+file = "mods/simple-emerald-tools-fabric.pw.toml"
+hash = "614566f5ee0e337913a772de71ad734d20bf0f75cabe04d95409b9a3bcfb255c"
+metafile = true
+
+[[files]]
+file = "mods/simple-quiver.pw.toml"
+hash = "fe98a568ae1aea3a473083ec1642fb6b1a452d2745b635ea75ac8e6b67afc917"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "553d028f83c3e814df5220a8576628b6d80e1a2f1bfb18f939b3a5157b3d2746"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.20.1-3.21.2.1.81.jar"
+hash = "6420719b231824fc68f1ae69d8a829b43ff0ee480dc34347889f43a45b6ad572"
+
+[[files]]
+file = "mods/sophisticatedcore-1.20.1-1.0.8.1.119.jar"
+hash = "8f34b5fa06db1046d1ff43f05253f4b03abda2bb2041ad13320444606a205293"
+
+[[files]]
+file = "mods/sparkweave.pw.toml"
+hash = "c4d8453f77d60d7566173e3a99aec72a72cbf725cb8421053736c02b7e1f4797"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "e51ad609cc3913d8bb8282577de37a81068114f2cc8eced91c98be7f43218dab"
+metafile = true
+
+[[files]]
+file = "mods/spiky-spikes.pw.toml"
+hash = "d8b61c359be16555bd193d86dfa389396c326489b35fb79380dbe49a000a3d6b"
+metafile = true
+
+[[files]]
+file = "mods/spoorn-armorattributes.pw.toml"
+hash = "693ee94d94c4928a6b0bf9a33f58559dcb065805a27ff0b55efdee5419ca70d8"
+metafile = true
+
+[[files]]
+file = "mods/spoorn-weapon-attributes.pw.toml"
+hash = "2555f94ea8874781044bba0d198e21b69c693d794f4524ff345c6ffe01c0ea13"
+metafile = true
+
+[[files]]
+file = "mods/staaaaaaaaaaaack.pw.toml"
+hash = "8a09a1246daec875d75bff53b28a9c1a6b8ea4a8dd987adad5f0463648df8c3e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
+metafile = true
+
+[[files]]
+file = "mods/stepupnext.pw.toml"
+hash = "0e2af0628c48e4cc5448c8c1c6c4d419399a03728e916809195c884478d203fd"
+metafile = true
+
+[[files]]
+file = "mods/stoneholm.pw.toml"
+hash = "496f2a9805a3a3ba47079f7491900a4f1615edc863e886914340e9297387f6bd"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+metafile = true
+
+[[files]]
+file = "mods/tenshilib-fabric.pw.toml"
+hash = "e68f9c3221406e4fc95a89bcc244bd2bfb57a8321a3d23db564cc83c035ff89b"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "f9e658d7bc21c911b7022ed60ccbfc07639d1ddfb515a38e78d5c836aca9890a"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "322f5c79d943417a0870aa3ff7de4320929e28ce6dc9048af9dd7cecd3913ae5"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
+file = "mods/things-fabric.pw.toml"
+hash = "69de4325ba4dfcf9dca1b78f54f2aed2a1f47d6353644065b88a2404cfb153a9"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "b45567da0b3a992bc7e80a447d57709b4afce4e0d52adeb0d9495f84a2052ef2"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "478931df30f16ab7cd220c1fd29562dfe96ff7e0e681840ed0d7828dd4764fe5"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "3b6752885578c32acfda11cc640edf261eea1373aeda18e471f225f9f42471e9"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "f988539767e9fe907cb5a0f14a35a40d92cbd730cfa3eed6ad5bc097c27c37de"
+metafile = true
+
+[[files]]
+file = "mods/transmog.pw.toml"
+hash = "db5e3d2f71cd9885c10a5bc76002f9a588bc2a91430d596280d58e47339842ed"
+metafile = true
+
+[[files]]
+file = "mods/trashslot-fabric-edition.pw.toml"
+hash = "0b4eb8815e83c6bfeb1534c025bdfc6c35c3ece39503fcb0f11a2598c8afe29d"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles-fabric.pw.toml"
+hash = "801431918ee26ff945d3728f4fd6f124ef7944760a61194b3d0898379434ec28"
+metafile = true
+
+[[files]]
+file = "mods/tree-hollows-fabric-3.1.0.jar"
+hash = "323bc073e4c6d976d26147706fe1e1229c14517d969c0a4e6d270e276a5fa62f"
+
+[[files]]
+file = "mods/tslatentitystatus-tes.pw.toml"
+hash = "5879cf0460f97225228b1b590d8eb583f9ab92998d730c87053af6aeb8f6f5f3"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "a25d209eaf954fd13c3d58cb5c429022e1728ca86ea84aaef3d3ed30fb4500bc"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal-forge.pw.toml"
+hash = "681b21065e248b254ea6f018037c51d743ff45d4f32db267d4a3e3642beb60d9"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-mobs-1.3.4.jar"
+hash = "26c0f3a708af87b50de90afe3e6a2186dd94b2eda7db00ef863140c77cc77637"
+
+[[files]]
+file = "mods/victus.pw.toml"
+hash = "eab96b0bfb4f642b7e3de9dea7116b422e63a82b35068cbc9f4edffa5999f6d3"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
+metafile = true
+
+[[files]]
+file = "mods/voidtotem-fabric.pw.toml"
+hash = "d5941d0e496df31e20081e8ec09741d0385deeb663e1f41f4172f534c7337bca"
+metafile = true
+
+[[files]]
+file = "mods/voidz.pw.toml"
+hash = "3dfddee172c38204109beba9265296ffe62bc271c0c5afe598eeedc30ed358d0"
+metafile = true
+
+[[files]]
+file = "mods/warrior-rage.pw.toml"
+hash = "6550bb464e01dc2fde9eeb1a80f807ac9c811b83f95ba57f865f207c26725f48"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "cc3dca78214f6fbd547be49421548b060b957050b20fe1f39c66464103508877"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-fabric.pw.toml"
+hash = "d4c85656786ae507297bee0346612c7a23af76533c2455723543e104b4089bf7"
+metafile = true
+
+[[files]]
+file = "mods/whisperwoods.pw.toml"
+hash = "9026ed21f787353e288a8acae1d36794f6dc6207a0bd600f11b557d69fb45992"
+metafile = true
+
+[[files]]
+file = "mods/x-playerinfo.pw.toml"
+hash = "575901d66ccd21fcc87b18b6b5fa1b1e14a03f0815927a6208b395f9c26b7470"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "02d30c1e194780fd8e360fe0aaff7eaf0705aaa3478857aac32eccf40afa2972"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a8b5d81dfac9233ffb23f426a8b044e1812059de128a5209cf81c2d31055deaa"
+metafile = true
+
+[[files]]
+file = "mods/xtra-arrows.pw.toml"
+hash = "c0fecb7c651967fcb2533f6e8704cd94ee3c36fdf95c998a1ef73378f08d4d78"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "dcc727178f3db05672e3e12dd74fed8b93b11086971c8cf982bf9caf3fca5497"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "238ac28ffc1a311a782fa569021f3cfc93c2d5ed7773b3273fdef736b80d9fb3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples-fabric.pw.toml"
+hash = "129c4bbfa9c25574433eee4205ad3136d91027af612ff850a941d634d4051f62"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.pw.toml"
+hash = "e20fd212ab36de5e8e10adc05087ccb28861d05afeab8f7ab5a22b4c1197ceea"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island-fabric.pw.toml"
+hash = "a24a457628010726f99089cf342eceebab5d0d76168af2705686b79f92b80964"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.pw.toml"
+hash = "4b051a6f31f33f629199e2033a5773fa25e24fcdaebf250c96f95a96f629b758"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-fabric.pw.toml"
+hash = "c813b4aaebbdec8b97874334333fcb2fe606ad6473fe44f2cc48c6f74df12393"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
+hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.pw.toml"
+hash = "520012b82bfa92bbd6ac71855d16119eaa7e4c3e7e29234ac00f4861dbd4b44b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+hash = "48cd5e6fc8bc8951f0e33e21d49d4c59dcbae57134e6c7425371ae566aaf6de7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-fabric.pw.toml"
+hash = "4147ca397d51f92d2aa93d07d4fc24bd09774724088072baf73f5f39aec074f1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-fabric.pw.toml"
+hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"
+hash = "66162b3018654e91b0611e7d31eb0ccc7e8255f09004bcb4f6340ce75cdd4bec"
+
+[[files]]
+file = "title.yml"
+hash = "2049ed937d387024a76488a3a1a23d74106d6ca52a97698dcb62fb2da0d6d584"

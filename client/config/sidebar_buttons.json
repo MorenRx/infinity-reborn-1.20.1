@@ -1,0 +1,14 @@
+{
+	"ftbteams": {
+		"my_team": true
+	},
+	"ftbquests": {
+		"quests": true
+	},
+	"ftblibrary": {
+	},
+	"ftbchunks": {
+		"chunks": true,
+		"claim_chunks": true
+	}
+}
