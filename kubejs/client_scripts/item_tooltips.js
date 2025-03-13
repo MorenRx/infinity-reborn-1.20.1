@@ -4,10 +4,11 @@ ItemEvents.tooltip(event => {
 	if (!first) return
 	first = false
 	
-	event.addAdvanced('*', (item, advanced, text) => {
+	event.addAdvancedToAll((item, advanced, text) => {
+		let tooltipKey = `item.${item.id.replace(':','.')}.tooltip.`
 		for (let index = 1; index <= 32; index++) {
-            let tooltipText = getTooltipTranslation(`item.${item.id.replace(':','.')}.tooltip.${index}`);
-            if (!tooltipText) break
+            let tooltipText = getTooltipTranslation(tooltipKey + index);
+            if (tooltipText === null) break
 			text.add(index, tooltipText)
         }
 	})

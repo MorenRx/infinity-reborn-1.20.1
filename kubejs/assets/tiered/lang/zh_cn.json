@@ -1,0 +1,60 @@
+{
+    "generic.dig_speed": "挖掘速度",
+    "generic.crit_chance": "暴击几率",
+    "generic.durable": "耐久",
+    "generic.range_attack_damage": "射击距离",
+    "attribute.name.generic.reach-entity-attributes.reach": "触及半径",
+    "attribute.name.generic.reach-entity-attributes.attack_range": "攻击范围",
+
+    "text.autoconfig.tiered.title": "Tiered 配置",
+    "text.autoconfig.tiered.option.lootContainerModifier": "战利品宝箱修改",
+    "text.autoconfig.tiered.option.xIconPosition": "图标 X 坐标",
+    "text.autoconfig.tiered.option.yIconPosition": "图标 Y 坐标",
+    "text.autoconfig.tiered.option.reforge_modifier": "重铸修改",
+    "text.autoconfig.tiered.option.levelz_reforge_modifier": "LevelZ 每级提升重铸幸运值",
+    "text.autoconfig.tiered.option.showReforgingTab": "铁砧显示重铸标签页",
+
+    "text.autoconfig.tiered.category.default": "Tiered 配置",
+    "text.autoconfig.tiered.category.client_settings": "客户端配置",
+    "text.autoconfig.tiered.option.luck_reforge_modifier": "幸运对重铸的影响",
+    "text.autoconfig.tiered.option.tieredTooltip": "词缀物品显示特殊工具提示",
+    "text.autoconfig.tiered.option.centerName": "名称居中",
+
+    "container.reforge": "重铸",
+    "screen.tiered.reforging_screen": "重铸",
+    "screen.tiered.reforge_ingredient": "重铸所需材料",
+
+    "text.tiered.smithing_info_1_1": "每级提升 %d%% 重铸幸运值",
+    "text.tiered.smithing_info_1_2": "",
+
+    "tiered.attribute.modifier.plus.0": "%s %s %s",
+    "tiered.attribute.modifier.plus.1": "%s %s %s",
+    "tiered.attribute.modifier.plus.2": "%s %s %s",
+
+    "tiered.attribute.modifier.equals.0": "%s %s %s",
+    "tiered.attribute.modifier.equals.1": "%s %s %s",
+    "tiered.attribute.modifier.equals.2": "%s %s %s",
+
+    "tiered:armor_1.label": "坚硬",
+    "tiered:armor_2.label": "守护",
+    "tiered:armor_3.label": "装甲",
+    "tiered:armor_4.label": "护佑",
+
+    "tiered:attack_damage_1.label": "锯齿",
+    "tiered:attack_damage_2.label": "尖刺",
+    "tiered:attack_damage_3.label": "愤怒",
+    "tiered:attack_damage_4.label": "险恶",
+
+    "tiered:attack_speed_1.label": "狂野",
+    "tiered:attack_speed_2.label": "鲁莽",
+    "tiered:attack_speed_3.label": "勇猛",
+    "tiered:attack_speed_4.label": "暴力",
+
+    "tiered:critical_1.label": "精确",
+    "tiered:critical_2.label": "幸运",
+
+    "tiered:movement_1.label": "轻快",
+    "tiered:movement_2.label": "快速",
+    "tiered:movement_3.label": "急速",
+    "tiered:movement_4.label": "迅捷"
+}

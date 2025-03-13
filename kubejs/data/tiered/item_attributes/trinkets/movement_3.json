@@ -1,0 +1,22 @@
+{
+  "id": "tiered:movement_3",
+  "verifiers": [
+    {
+      "tag": "trinket"
+    }
+  ],
+  "weight": 15,
+  "style": {
+    "color": "dark_purple"
+  },
+  "attributes": [
+    {
+      "type": "generic.movement_speed",
+      "modifier": {
+        "name": "tiered:movement_3",
+        "operation": "MULTIPLY_BASE",
+        "amount": 0.03
+      }
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 name = "InfinityReborn"
 author = "MorenRx"
-version = "3.0-Alpha3(1.20.1)"
+version = "3.0-A4(1.20.1)"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f035f9ed4be6777349645998e0b78cc529be8ff3592ab16f7ce50d6f37f2020d"
+hash = "722288e6d1db91b4a4b4075d415adafb02ef96b0c636d476894262fcbc2917df"
 
 [versions]
 fabric = "0.16.10"

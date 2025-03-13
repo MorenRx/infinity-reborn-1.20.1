@@ -1,0 +1,22 @@
+{
+  "id": "tiered:attack_damage_2",
+  "verifiers": [
+    {
+      "tag": "trinket"
+    }
+  ],
+  "weight": 30,
+  "style": {
+    "color": "blue"
+  },
+  "attributes": [
+    {
+      "type": "generic.attack_damage",
+      "modifier": {
+        "name": "tiered:attack_damage_2",
+        "operation": "MULTIPLY_BASE",
+        "amount": 0.02
+      }
+    }
+  ]
+}

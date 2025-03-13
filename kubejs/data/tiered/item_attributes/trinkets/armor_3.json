@@ -1,0 +1,30 @@
+{
+  "id": "tiered:armor_3",
+  "verifiers": [
+    {
+      "tag": "trinket"
+    }
+  ],
+  "weight": 15,
+  "style": {
+    "color": "dark_purple"
+  },
+  "attributes": [
+    {
+      "type": "generic.armor",
+      "modifier": {
+        "name": "tiered:armor_3",
+        "operation": "ADDITION",
+        "amount": 3
+      }
+    },
+    {
+      "type": "generic.armor_toughness",
+      "modifier": {
+        "name": "tiered:armor_3",
+        "operation": "ADDITION",
+        "amount": 1
+      }
+    }
+  ]
+}

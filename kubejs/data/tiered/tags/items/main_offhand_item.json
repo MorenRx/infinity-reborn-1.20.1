@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:fishing_rod",
+        "spectrum:spectral_shard"
+    ]
+}

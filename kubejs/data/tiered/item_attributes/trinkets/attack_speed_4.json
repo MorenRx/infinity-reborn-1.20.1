@@ -1,0 +1,22 @@
+{
+  "id": "tiered:attack_speed_4",
+  "verifiers": [
+    {
+      "tag": "trinket"
+    }
+  ],
+  "weight": 5,
+  "style": {
+    "color": "gold"
+  },
+  "attributes": [
+    {
+      "type": "generic.attack_speed",
+      "modifier": {
+        "name": "tiered:attack_speed_4",
+        "operation": "MULTIPLY_BASE",
+        "amount": 0.04
+      }
+    }
+  ]
+}

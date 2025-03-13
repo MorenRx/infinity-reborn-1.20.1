@@ -1,0 +1,22 @@
+{
+  "id": "tiered:armor_2",
+  "verifiers": [
+    {
+      "tag": "trinket"
+    }
+  ],
+  "weight": 30,
+  "style": {
+    "color": "blue"
+  },
+  "attributes": [
+    {
+      "type": "generic.armor",
+      "modifier": {
+        "name": "tiered:armor_2",
+        "operation": "ADDITION",
+        "amount": 2
+      }
+    }
+  ]
+}
