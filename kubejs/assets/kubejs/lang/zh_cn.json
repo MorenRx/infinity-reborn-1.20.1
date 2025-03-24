@@ -386,17 +386,15 @@
     "block.kubejs.adamantite_brick": "精金锻炉砖",
 	"block.kubejs.special_obsidian": "特殊处理的黑曜石",
 	
+	"block.alloy_forgery.adamantite_block_forge_controller": "精金锻炉控制器",
+	"block.alloy_forgery.unobtainium_block_forge_controller": "难得素锻炉控制器",
+	
 	
 	"text.infinity.book.name": "§b无限之书",
 	"text.infinity.book.description": "这是 Infinity 模组包的指南书。",
 	"text.infinity.book.tooltip": "《无限》整合包的指南书",
-	"item.kubejs.nether_unlocker": "§4下界解锁器",
 	"item.kubejs.skill_book": "§e技能之书",
-	"item.majobroom.stocking": "魔女的长靴",
 	"item.kubejs.death_heart": "§4命定之死",
-	"block.kubejs.glowing_obsidian": "特殊处理的黑曜石",
-	"block.customportalapi.customportal": "自定义传送门",
-	"item.inmis.creative_backpack": "§6创造背包",
 	"subtitles.kubejs.gu": "灵感菇:企鹅",
 	"subtitles.kubejs.v_gu": "灵感菇:村民",
 	"subtitles.kubejs.cat": "灵感菇:猫"

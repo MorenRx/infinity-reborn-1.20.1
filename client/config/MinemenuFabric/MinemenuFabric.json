@@ -1,0 +1,185 @@
+{
+  "minemenuData": {
+    "0": {
+      "name": "打开任务",
+      "icon": {
+        "iconItem": "ftbquests:book",
+        "enchanted": true,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.ftbquests.quests",
+        "releaseDelay": 25001
+      }
+    },
+    "1": {
+      "name": "打开背包",
+      "icon": {
+        "iconItem": "sophisticatedbackpacks:backpack",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "keybind.sophisticatedbackpacks.open_backpack",
+        "releaseDelay": 25001
+      }
+    },
+    "2": {
+      "name": "切换血条ui",
+      "icon": {
+        "iconItem": "victus:bundle_heart_aspect",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "asteorbar.key.toggle_overlay",
+        "releaseDelay": 25001
+      }
+    },
+    "3": {
+      "name": "切换武器挖掘模式",
+      "icon": {
+        "iconItem": "minecraft:diamond_pickaxe",
+        "enchanted": true,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "keybinds.bettercombat.toggle_mine_with_weapons",
+        "releaseDelay": 25001
+      }
+    },
+    "4": {
+      "name": "打开光影选择界面",
+      "icon": {
+        "iconItem": "kibe:big_torch",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "iris.keybind.shaderPackSelection",
+        "releaseDelay": 25001
+      }
+    },
+    "5": {
+      "name": "启用/禁用光影",
+      "icon": {
+        "iconItem": "minecraft:light",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "iris.keybind.toggleShaders",
+        "releaseDelay": 25001
+      }
+    },
+    "6": {
+      "name": "开启/关闭自动爬坡",
+      "icon": {
+        "iconItem": "minecraft:diamond_boots",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.stepup.toggle",
+        "releaseDelay": 25001
+      }
+    },
+    "7": {
+      "name": "打开远程终端",
+      "icon": {
+        "iconItem": "toms_storage:ts.adv_wireless_terminal",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.toms_storage.open_terminal",
+        "releaseDelay": 25001
+      }
+    },
+    "8": {
+      "name": "打开建筑手杖菜单",
+      "icon": {
+        "iconItem": "wands:creative_wand",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.wands.wand_menu",
+        "releaseDelay": 25001
+      }
+    },
+    "9": {
+      "name": "查看村民任务",
+      "icon": {
+        "iconItem": "minecraft:emerald",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.villagerquests.openquestscreen",
+        "releaseDelay": 25001
+      }
+    },
+    "10": {
+      "name": "放置物品",
+      "icon": {
+        "iconItem": "minecraft:item_frame",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.things.place_item",
+        "releaseDelay": 25001
+      }
+    },
+    "11": {
+      "name": "武器变形",
+      "icon": {
+        "iconItem": "soulsweapons:silver_sword",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.soulsweapons.switch_weapon",
+        "releaseDelay": 25001
+      }
+    }
+  },
+  "menuEntries": 12,
+  "outerRadius": 75,
+  "innerRadius": 30,
+  "primaryColor": "#A00000CC",
+  "secondaryColor": "#212121D0",
+  "emptyItemIcon": "minecraft:air",
+  "multiPrintSeparator": ";",
+  "multiPrintDelay": 10,
+  "showTips": true,
+  "repeatButton": false,
+  "inScreenWalk": false,
+  "resetHeadCache": false,
+  "resetConfig": false
+}

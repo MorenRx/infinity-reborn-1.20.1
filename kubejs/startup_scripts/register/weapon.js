@@ -119,7 +119,7 @@
 	event.create('infinity_sword', 'sword')
 		.tier('infinity')
 		.rarity('uncommon')
-		.attackDamageBonus(663)
+		.attackDamageBonus(662)
 		.maxStackSize(1)
 		.speedBaseline(-2)
 		.maxDamage(1000000)
