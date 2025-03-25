@@ -127,20 +127,6 @@
       }
     },
     "9": {
-      "name": "查看村民任务",
-      "icon": {
-        "iconItem": "minecraft:emerald",
-        "enchanted": false,
-        "skullOwner": "",
-        "customModelData": 0
-      },
-      "type": "keyselect",
-      "data": {
-        "key": "key.villagerquests.openquestscreen",
-        "releaseDelay": 25001
-      }
-    },
-    "10": {
       "name": "放置物品",
       "icon": {
         "iconItem": "minecraft:item_frame",
@@ -154,7 +140,7 @@
         "releaseDelay": 25001
       }
     },
-    "11": {
+    "10": {
       "name": "武器变形",
       "icon": {
         "iconItem": "soulsweapons:silver_sword",
@@ -165,6 +151,20 @@
       "type": "keyselect",
       "data": {
         "key": "key.soulsweapons.switch_weapon",
+        "releaseDelay": 25001
+      }
+    },
+    "11": {
+      "name": "路径点",
+      "icon": {
+        "iconItem": "minecraft:beacon",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "gui.xaero_waypoints_key",
         "releaseDelay": 25001
       }
     }

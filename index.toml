@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/MinemenuFabric/MinemenuFabric.json"
-hash = "fb65ec8e6b4349ca08e2e06c91801c902ba6e7eaab83caa60074a53b25bf0adf"
+hash = "038dbc73bb15748b5479c556ac2a11cc07a786c8ffb56c74758f3f130e96fa76"
 
 [[files]]
 file = "config/ModernUI/client.toml"
@@ -133,6 +133,10 @@ file = "config/sodium-options.json"
 hash = "e170cafd722ce62aa061d6770af08274391dd17064f58e82e2ff84af2b1f95ac"
 
 [[files]]
+file = "config/spoornattributes.json5"
+hash = "479438cd4c122d601c6415452568b9da0497487c644a915274baf9453bb46b2b"
+
+[[files]]
 file = "config/title.json"
 hash = "25f31abb3064fe476733bf55cecd211e999b012e58a735f2166613252a7ea837"
 
@@ -158,7 +162,7 @@ hash = "af3db5229d91ecd6e09c18d355b66959984e41d6b6e6e85074afae993fe50bea"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+hash = "11670e04cf2a7ee5a730e56ffa8c3addd53e71c993d7f9c9beb6f6cfc8607249"
 
 [[files]]
 file = "icon.png"
@@ -1035,6 +1039,10 @@ hash = "a9aa52156833fef3657a57a7e6ab0a6841216ee184f0150f8243d645b146be79"
 [[files]]
 file = "kubejs/assets/tiered/lang/zh_cn.json"
 hash = "8f815e1b9d7b755578e1760d48b2c58d8c46ee6fbc585d1c66205516a0846315"
+
+[[files]]
+file = "kubejs/assets/tiered/textures/gui/reforging_screen.png"
+hash = "b3e2e1797b32dcb3e7c216a6035df514d63d49bc5494c3c575db966922afdae9"
 
 [[files]]
 file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/amethyst_golem.json"
@@ -2513,12 +2521,16 @@ file = "mods/XpObelisk-0.5.0+1.20.1.jar"
 hash = "2a20228e30934e7ea410cd1821d3e29417bce7483d936d4f1b86f7e1a18a7d16"
 
 [[files]]
-file = "mods/[IR3Only]InfinityCore-1.2.jar"
-hash = "b95ac20cfaba2a8b81a3fffab7a259347605929aa3f84123fa8507613320d30d"
+file = "mods/[IR3Only]InfinityCore-1.3.jar"
+hash = "5d88fb99d993667f5b6f82b4797eb9d2691b5993aa4908b016f9570dfdd9a247"
 
 [[files]]
-file = "mods/[IR3Only]MineMenu-Refabricated-6.3.0-1.20.1.jar"
-hash = "fc4eea10f4225abe280c0316a33183eb202c18961f866f354765677a6e5a2db8"
+file = "mods/[IR3Only]MineMenu-Refabricated-6.3.1-1.20.1.jar"
+hash = "97864e9cac80dfdb7204bc41a62c08121c2c2ace8f978b3f8213158ce13a8fee"
+
+[[files]]
+file = "mods/[IR3Only]SpoornAttributes-5.0-1.20.1.jar"
+hash = "3b047668e4f5032230b37f1965c011e4e3a8287587102a9d5041b10fde2c325c"
 
 [[files]]
 file = "mods/[IR3Only]X-Enchantment-1.20.1-1.0.10-SNAPSHOT.jar"
@@ -2542,7 +2554,7 @@ hash = "cadbd28b4926c370e311570df98f662bb3181d90a7a0d974177bfaa8587b06bb"
 
 [[files]]
 file = "mods/[IR3Only]tiered-1.3.5.jar"
-hash = "0dfcfba7023cf4242083e9cc113afa22cd6e6c5763f379116fe5c0a5a94fd767"
+hash = "af979822b916be235671e9f748a8f46e022823d2b49e256e94a307df6a72f66a"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
@@ -3438,12 +3450,14 @@ hash = "7e247fc51fae1fdaf7cca7a94f7222341d6673b68941a933adafaa4b921ec2b2"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.20.1-3.21.2.1.81.jar"
-hash = "6420719b231824fc68f1ae69d8a829b43ff0ee480dc34347889f43a45b6ad572"
+file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
+hash = "7814b21e543c90551d002aeb01ce09fa475f21e9189f45405ba8a809a3a73a78"
+metafile = true
 
 [[files]]
-file = "mods/sophisticatedcore-1.20.1-1.0.8.1.119.jar"
-hash = "8f34b5fa06db1046d1ff43f05253f4b03abda2bb2041ad13320444606a205293"
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "97fc6020504bf1eb7c0a7d50ab071b6bc6cdab02c11ac55ac7947ae62918f553"
+metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
@@ -3458,16 +3472,6 @@ metafile = true
 [[files]]
 file = "mods/spiky-spikes.pw.toml"
 hash = "d8b61c359be16555bd193d86dfa389396c326489b35fb79380dbe49a000a3d6b"
-metafile = true
-
-[[files]]
-file = "mods/spoorn-armorattributes.pw.toml"
-hash = "693ee94d94c4928a6b0bf9a33f58559dcb065805a27ff0b55efdee5419ca70d8"
-metafile = true
-
-[[files]]
-file = "mods/spoorn-weapon-attributes.pw.toml"
-hash = "2555f94ea8874781044bba0d198e21b69c693d794f4524ff345c6ffe01c0ea13"
 metafile = true
 
 [[files]]
