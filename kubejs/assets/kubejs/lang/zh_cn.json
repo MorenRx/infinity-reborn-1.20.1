@@ -393,8 +393,6 @@
 	"text.infinity.book.name": "§b无限之书",
 	"text.infinity.book.description": "这是 Infinity 模组包的指南书。",
 	"text.infinity.book.tooltip": "《无限》整合包的指南书",
-	"item.kubejs.skill_book": "§e技能之书",
-	"item.kubejs.death_heart": "§4命定之死",
 	"subtitles.kubejs.gu": "灵感菇:企鹅",
 	"subtitles.kubejs.v_gu": "灵感菇:村民",
 	"subtitles.kubejs.cat": "灵感菇:猫"
