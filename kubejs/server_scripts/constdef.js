@@ -187,3 +187,83 @@ const rebirthStoneArmor = [
 		{ id: "kubejs:upgrade_nami", nbt: '{saa1:{DMG_REDUCTION:{dmgReduc:20f},MAX_HEALTH:{bonusMaxHP:20f}}}'}
 	]
 ]
+
+const exclItems = {
+	"moyuguguji": ["kubejs:zhongzi"],
+	"X_nuohua": ["kubejs:x_nuohua"],
+	"Anti_Yv": ["kubejs:putong_stone_sword"],
+	"Shu_Zhix": ["kubejs:nature_spirit"],
+	"Jing__Xin": ["kubejs:jing__xin"],
+	"xuexiye": [
+		Item.of(
+			'botania:crystal_bow',
+			"{CustomModelData:1781,Damage:0,Unbreakable:1b,display:{Name:'{\"italic\":false,\"extra\":[{\"text\":\"\"},{\"text\":\"小豆泥法杖\"}],\"text\":\"\"}'},AttributeModifiers:[{Amount:33.23d,AttributeName:\"playerex:ranged_damage\",Operation:0,Slot:\"mainhand\",UUID:[I;-2124311489,-817018178,-1904034233,1558065020]}]}"
+		)
+	],
+	"huasuia": ["kubejs:baigei_boots"],
+	"lce_Tang": ["kubejs:lce_tang"],
+	"ailinghan": ["kubejs:ailinghan"],
+	"aolanya": ["kubejs:sixiang_kaitian"],
+	"ZYanHua": ["kubejs:sixiang_kaitian"],
+	"HuanLu": ["kubejs:sixiang_kaitian"],
+	"NanNiang_001": ["kubejs:sixiang_kaitian"]
+}
+
+const starterKit = [
+	"5x kubejs:jiushu_heart",
+	"inmis:frayed_backpack",
+	"5x things:recall_potion",
+	"waystones:warp_stone",
+	"gobber2:gobber2_ring_miner"
+]
+
+const questLootMiner = [
+	'mythicmetals:bronze_ingot',
+	'mythicmetals:durasteel_ingot',
+	'mythicmetals:aquarium_ingot',
+	'mythicmetals:carmot_ingot',
+	'mythicmetals:quadrillum_ingot',
+	'mythicmetals:banglum_ingot',
+	'3x mythicmetals:adamantite_nugget',
+	'3x soulsweapons:moonstone',
+	'3x soulsweapons:verglas'
+]
+
+const bossList = [
+	"minecraft:wither",
+	"minecraft:ender_dragon",
+	"terrarianslimes:king_slime",
+	"twilightforest:naga",
+	"twilightforest:lich",
+	"twilightforest:minoshroom",
+	"twilightforest:hydra",
+	"twilightforest:knight_phantom",
+	"twilightforest:ur_ghast",
+	"twilightforest:alpha_yeti",
+	"twilightforest:snow_queen",
+	"soulsweapons:draugr_boss",
+	"soulsweapons:night_shade",
+	"soulsweapons:accursed_lord_boss",
+	"soulsweapons:returning_knight",
+	"soulsweapons:moonknight",
+	"soulsweapons:chaos_monarch",
+	"adventurez:stone_golem",
+	"adventurez:the_eye",
+	"adventurez:void_shadow",
+	"bosses_of_mass_destruction:lich",
+	"bosses_of_mass_destruction:void_blossom",
+	"bosses_of_mass_destruction:gauntlet",
+	"bosses_of_mass_destruction:obsidilith",
+	"botania:doppleganger",
+	"whisperwoods:hirschgeist"
+]
+
+const structureList = [
+	"bosses_of_mass_destruction:lich_tower",
+	"bosses_of_mass_destruction:gauntlet_arena",
+	"bosses_of_mass_destruction:obsidilith_arena",
+	"bosses_of_mass_destruction:void_blossom",
+	"soulsweapons:champions_graves",
+	"soulsweapons:cathedral_of_resurrection",
+	"soulsweapons:decaying_kingdom"
+]

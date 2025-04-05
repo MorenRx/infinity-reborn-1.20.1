@@ -117,6 +117,798 @@ file = "config/lootr.json"
 hash = "db140e54acd3b625ffea9307ff1e969fd5884f7d586c43a1ebeb32b9fa0a8413"
 
 [[files]]
+file = "config/openloader/advanced_options.json"
+hash = "2ee7700b88371d21265000c50ef149c42863fd22e0ecbb5dc6af78fd7493fee8"
+
+[[files]]
+file = "config/openloader/data/BlazeandCave's Advancements Pack 1.16.2.zip"
+hash = "3fc43b247203459de43b56efdf44f4e20b4a8418ee03d58250a2738ebbe1ed21"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/anchor.json"
+hash = "4aef8ba3ddb62c4eec7e973ca24bfe68154487ae3f3a02bb97a713bef3cbe2cd"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/axe.json"
+hash = "b2209e39d418963c23b086eddc8fea8ce43ae9310e3782ba12a851a3652eac1b"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/bastard.json"
+hash = "2c75cb524fba187541f1cd74924ead2b914c8b4ba6927a1c18794e753fad92e6"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/battlestaff.json"
+hash = "090903fbd6b375d775567c202cb7b8cccc3046534a8b8722c86eff2b56c3cd42"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/blade.json"
+hash = "f998772542a354150f1d881ed912aead4e7225c580753e850cda6e2474430d39"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/claw.json"
+hash = "8e401d5e4bb628d3611aaecf8537def72cafdbc4175c50f7a3421ed750cc66bd"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/claymore.json"
+hash = "b1710c521d9bd53187ba5e9ab26a68ba4dacdd723aca96506403a636b78cb74d"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/club.json"
+hash = "5a8d8ca8f015f4ae6a060110ea616b1fa276c2ed3a1a80a57992185ce3317d59"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/cutlass.json"
+hash = "a76e6daaa9ad9582a36eddde23f20516bb0ddee023a49148e76e3b1079d74bfa"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/dagger.json"
+hash = "c31c54c2e651a412c4e92087560ea4bd475bd3d285e9a30384441773b7481bc8"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/double_axe.json"
+hash = "c7128adb447d748c6d47a195f2c63472ef5a416874a68840c7de8c57e11f195d"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/double_blade.json"
+hash = "1e172fc7ce99bd491caa448a85028e2a0b837b0c826ddefdee6b5d920288e2ad"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/fist.json"
+hash = "ef034d05017f435cc58b9af7633828d1f0d20b6fdb174102a5ab0c1f6f3010b0"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/giantsword.json"
+hash = "ef8d5d9f045039dd52fd2f79210c75b04098670dc071fb46bf163ecac1b7beac"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/gladius.json"
+hash = "8e9ef619d3bd09e4dde6e8c7c212023f4c6e9bee20ad26ea64e0e325da2d6692"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/glaive.json"
+hash = "dfd084789fdbe25570a6bbc7b1d0c774ea79b0afe7faa2a40681e56c6ed46308"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/halberd.json"
+hash = "3bf0813465587f9f3d4983f44581fac7943f595da3668f8d7cd00c2f881a224d"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/hammer.json"
+hash = "fb5adcf130fd1b69576bd13c742af5b5025018412bdd907120085baaeb41e265"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/katana.json"
+hash = "55eb65c24c32734cf186356afabffba579e1461880e188fa4c766c1bd9a6aaf0"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/knife.json"
+hash = "f76e55def9928757974bc2e0f916131b968c54e3becee389860b54a6bed473a8"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/longsword.json"
+hash = "f282808fe036f42c943a20ac21e43b5c5e4365c476b8f5f6e7a329c2442eefdd"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/mace.json"
+hash = "5bcac6c1ea14364f6c3cbd0c83a5972f367858bdbeedd8e37ae1762cee478738"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/pickaxe.json"
+hash = "7d9ab3ca40d0354a792e26f3c27b5b8ceff8fc4db28706fa192af694b6153e65"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/rapier.json"
+hash = "1114411bc575ec64845b43a4de7282b8e9ed1a86b89c94d084b559f2f5506c3f"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/scythe.json"
+hash = "be3ab3185b7c2ce668a1d2b68e7b528f8c1833dd21cc89315c461f932952d59a"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/sickle.json"
+hash = "a8be3134f7d0d8b0ed6b4952e7ee96b86f870420928be30c5ab1b085839f8506"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/soul_knife.json"
+hash = "f541e2b6cc12091f00a85cd1861c586bcdb8bc58241c2dbffcf7b39722cd9dc5"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/spear.json"
+hash = "168ec71832cf90b354d595297f51b6d54a6c9c2b5327f7285609b0f6304edd67"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/staff.json"
+hash = "6565427bb301f5acd2362bc275e638f5dbea7372f8dec41920f7deaa443079f1"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/striker.json"
+hash = "9f4053ac4443827724cfcab1991853caf203e07cff1eb79f2787ca93cc6d44e8"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/sword.json"
+hash = "4b5609dc1c51337970f1bcc23bc82d999a1ca44cb311075c1beb5ed96f7b2a34"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/tomahawk.json"
+hash = "bffcb618dcaaf71f8b698c327735dcb6a8730632295f8944a16044d529efff59"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/trident.json"
+hash = "6c02338ac86f98efaffc494ce32f02359130d96f0090ff02a0cc86b0bd94df87"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/twin_blade.json"
+hash = "6dfb4b30181310626816c69cba3242a23cf409d5ecf1c64fd91549b32bafb3ac"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/wand.json"
+hash = "9417e478365c9a2e658a281fda0b6ec6b5731eceab3f4f5b3acffc151834b053"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/war_axe.json"
+hash = "3f752b468653dd09aedc2c3f26ab2656d130299e5a64a7e93e4bb33269f27df3"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/bettercombat/weapon_attributes/whip.json"
+hash = "48fca66de5041f41c40f89917c2111ef8d8ec0602e9565a853f8f3a3bd097a2d"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/dragonloot/weapon_attributes/dragon_sword.json"
+hash = "a366483723d62507ebd6cae3bf891e46c247d2253e622627f6973c3d860fa70f"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/gate_of_babylon/weapon_attributes/gobber_rapier.json"
+hash = "de8064a5e02859c8073033c0855043918c52549a5610e972bbcf9ede8d122014"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/gate_of_babylon/weapon_attributes/gobber_rapier_end.json"
+hash = "749281a8822c39e87882df1796d54f0679d0dc3885365d489997c5bd857dafc8"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/gate_of_babylon/weapon_attributes/gobber_rapier_nether.json"
+hash = "6a9de4c97d7f2a9f474a365ac13ea9c909f8f59d29753f298b06f1ed31968fa3"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/gate_of_babylon/weapon_attributes/terra_rapier.json"
+hash = "4eeef8a921c219124fa9c3e876419f9c051308fc9c7fdfc0d5afa29393625790"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/ailinghan.json"
+hash = "6ce502112ff47fe1055438fc1775eace337d350005f2a503baf559bc0aa89ae8"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/infinity_sword.json"
+hash = "7d73d764aef33410d8f93a25450b6170155c767a3ba784845e7e9b7ba5ac8e70"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/jian_li.json"
+hash = "470b4603ce21267052e777aa1cfb5bb90920a12af1088302ed1a70a9383d5079"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/kreska.json"
+hash = "6a3ebb1486e4f56f89f94da735077e818bb1ba0deefcc93af46b21682a55da1c"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/lce_tang.json"
+hash = "af3b17149b5ab5844d7eb1bd4bd84c8c3f75d57509a2967f16d8b94814b3fbce"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/mu_jian.json"
+hash = "c9eb3430de46ddc864cf34bf0c45a7dff9dcee1b4652113af9d286a0518cb67c"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/mu_jian_seven.json"
+hash = "3c82adf28643b195f915e6b6f234de58f9f7cf778167c678a1b16b5ea1090626"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/putong_stone_sword.json"
+hash = "ebbf66d2f00155fd5c378615d104528c60b0652e880d374ca32754cadd071668"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/qixing_sword.json"
+hash = "1c3a0113519c9a4381bade0d325d05bace6994e69415c63e019e30c7ab876214"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/ruoshui_sword.json"
+hash = "74810d6b8b12cf38d05404b7bc509ef50f8c749cf119ab57d75de4669bde2bbd"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/sixiang_kaitian.json"
+hash = "a29bab2c37fd7724e19e159ba9a9498111b536cf3c4bc703eb9f17987d0ea6de"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/yuan_mu_jian.json"
+hash = "d80c5d00e75cfdd6bf766702dbb0bba3c85887b37c4a9f051fe2ec0a2acd8fba"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/yuan_mu_jian_one.json"
+hash = "02b964b244b68d2d398e1f3a94397272d175daf2a3888232bbfb65edde1a8b41"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/kubejs/weapon_attributes/yuan_mu_jian_seven.json"
+hash = "8363ed494a7fba7f33689c2f86eb88496632702f2647848a4117e5b94fe221c4"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/axe_anchor.json"
+hash = "6907bf5c68bd3e58f0fdc4758f8f1c070b155d813e8d742cd737534c037de9ca"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/axe_axe.json"
+hash = "2241e8b9e0e95336f4ae0331fb693f599a208c6485361da1a4383fc531d716c5"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/axe_cursed.json"
+hash = "bc7e2ec1ae03db272a8c5e3215d93334bc5fc45f7b26f684e0ef7dd3e3cd2cec"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/axe_double.json"
+hash = "bc7e2ec1ae03db272a8c5e3215d93334bc5fc45f7b26f684e0ef7dd3e3cd2cec"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/axe_encrusted_anchor.json"
+hash = "6907bf5c68bd3e58f0fdc4758f8f1c070b155d813e8d742cd737534c037de9ca"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/axe_firebrand.json"
+hash = "2241e8b9e0e95336f4ae0331fb693f599a208c6485361da1a4383fc531d716c5"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/axe_highland.json"
+hash = "2241e8b9e0e95336f4ae0331fb693f599a208c6485361da1a4383fc531d716c5"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/axe_whirlwind.json"
+hash = "bc7e2ec1ae03db272a8c5e3215d93334bc5fc45f7b26f684e0ef7dd3e3cd2cec"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/battlestaff.json"
+hash = "6dda8f4beb1bbb6bebb02bb72023ff39af765c072c07aecab635ff527eaa143e"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_backstabber.json"
+hash = "e488fc5ac01d22b6ac26c206b9b24a14d6b31c1c179f28850e71032b34cdd752"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_chill_gale_knife.json"
+hash = "f955f89d41b8bd92e8cac7a947c721197f2838ee23c6b26c9c8ff2295dffd54e"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_dagger.json"
+hash = "0ff2da61f0aaf8b94a5d2243a345998dc5b6501255d83b656df95708a6b6c850"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_eternal_knife.json"
+hash = "7aa87d5fa494d4096cd1660161bd8f089b827c0d8b21f6ba7d5dc0ca3661a7d4"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_fangs_of_frost.json"
+hash = "0ff2da61f0aaf8b94a5d2243a345998dc5b6501255d83b656df95708a6b6c850"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_moon.json"
+hash = "0ff2da61f0aaf8b94a5d2243a345998dc5b6501255d83b656df95708a6b6c850"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_resolute_tempest_knife.json"
+hash = "f955f89d41b8bd92e8cac7a947c721197f2838ee23c6b26c9c8ff2295dffd54e"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_shear_dagger.json"
+hash = "0ff2da61f0aaf8b94a5d2243a345998dc5b6501255d83b656df95708a6b6c850"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_soul_knife.json"
+hash = "7aa87d5fa494d4096cd1660161bd8f089b827c0d8b21f6ba7d5dc0ca3661a7d4"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_swift_striker.json"
+hash = "e488fc5ac01d22b6ac26c206b9b24a14d6b31c1c179f28850e71032b34cdd752"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_tempest_knife.json"
+hash = "f955f89d41b8bd92e8cac7a947c721197f2838ee23c6b26c9c8ff2295dffd54e"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_the_beginning.json"
+hash = "aca7c351831faabfb94268450c76b852910be5dd7a9b85b9892a5830c1012fbb"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_the_end.json"
+hash = "aca7c351831faabfb94268450c76b852910be5dd7a9b85b9892a5830c1012fbb"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/dagger_void_touched_blade.json"
+hash = "aca7c351831faabfb94268450c76b852910be5dd7a9b85b9892a5830c1012fbb"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/gauntlet_gauntlet.json"
+hash = "a5920a45f29970b1b9814bf79a047ff9c286729a1ce0faba4da6d6b532b7e8a9"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/gauntlet_maulers.json"
+hash = "be595dc8163735694694ec347fdc67674b081d4d1fb1ce9c2dfaf3d12614eaff"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/gauntlet_soul_fists.json"
+hash = "a5920a45f29970b1b9814bf79a047ff9c286729a1ce0faba4da6d6b532b7e8a9"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/hammer_bone_cudgel.json"
+hash = "ec45a91f901dc666f6f4c5ddfb5851ed89655a6152186fc4e0d7916bea542c7f"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/hammer_boneclub.json"
+hash = "ec45a91f901dc666f6f4c5ddfb5851ed89655a6152186fc4e0d7916bea542c7f"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/hammer_flail.json"
+hash = "836ca2ab7f95088f3d1edac658921228f205c8e23e06acb35967ef5e40c69d3c"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/hammer_gravity.json"
+hash = "3732572d89b8a5d5259efdeaf9aa02e3f9f1d1bdad8970060c2db97eaf48c9c0"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/hammer_great_hammer.json"
+hash = "3732572d89b8a5d5259efdeaf9aa02e3f9f1d1bdad8970060c2db97eaf48c9c0"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/hammer_mace.json"
+hash = "836ca2ab7f95088f3d1edac658921228f205c8e23e06acb35967ef5e40c69d3c"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/hammer_stormlander.json"
+hash = "3732572d89b8a5d5259efdeaf9aa02e3f9f1d1bdad8970060c2db97eaf48c9c0"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/hammer_suns_grace.json"
+hash = "836ca2ab7f95088f3d1edac658921228f205c8e23e06acb35967ef5e40c69d3c"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/pick_diamond_pickaxe_var.json"
+hash = "9bc71335397c4dc1d4ff35a61890d1b09b05e68198f731b0152f83f30e10f8fa"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/pick_hailing_pinnacle.json"
+hash = "9bc71335397c4dc1d4ff35a61890d1b09b05e68198f731b0152f83f30e10f8fa"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/pick_howling_pick.json"
+hash = "9bc71335397c4dc1d4ff35a61890d1b09b05e68198f731b0152f83f30e10f8fa"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/pick_mountaineer_pick.json"
+hash = "9bc71335397c4dc1d4ff35a61890d1b09b05e68198f731b0152f83f30e10f8fa"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sickle_frost_scythe.json"
+hash = "f794ba175acd94984fa9dc15f5666486e2db8a30ce5b5c5bc40f26e36b985c31"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sickle_jailors_scythe.json"
+hash = "f794ba175acd94984fa9dc15f5666486e2db8a30ce5b5c5bc40f26e36b985c31"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sickle_last_laugh_gold.json"
+hash = "84f22bec7209f31094337a764e25211d4c551995f652978330352ce7ce951e50"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sickle_last_laugh_silver.json"
+hash = "84f22bec7209f31094337a764e25211d4c551995f652978330352ce7ce951e50"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sickle_nightmares_bite.json"
+hash = "84f22bec7209f31094337a764e25211d4c551995f652978330352ce7ce951e50"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sickle_sickle.json"
+hash = "84f22bec7209f31094337a764e25211d4c551995f652978330352ce7ce951e50"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sickle_skull_scythe.json"
+hash = "f794ba175acd94984fa9dc15f5666486e2db8a30ce5b5c5bc40f26e36b985c31"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sickle_soul_scythe.json"
+hash = "f794ba175acd94984fa9dc15f5666486e2db8a30ce5b5c5bc40f26e36b985c31"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/spear_cackling_broom.json"
+hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/spear_fortune.json"
+hash = "b8c91854160b5938f2d29b581e786cf84ca0490956df072f4d76957f5fde4cf5"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/spear_glaive.json"
+hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/spear_grave_bane.json"
+hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/spear_spear.json"
+hash = "b8c91854160b5938f2d29b581e786cf84ca0490956df072f4d76957f5fde4cf5"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/spear_venom_glaive.json"
+hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/spear_whispering_spear.json"
+hash = "b8c91854160b5938f2d29b581e786cf84ca0490956df072f4d76957f5fde4cf5"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/staff_battlestaff.json"
+hash = "e489f8a4ad0a3de2ba6f5654528b5863f4683c20c601381b8fe160cb10e5f546"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/staff_battlestaff_of_terror.json"
+hash = "e489f8a4ad0a3de2ba6f5654528b5863f4683c20c601381b8fe160cb10e5f546"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/staff_growing_staff.json"
+hash = "e489f8a4ad0a3de2ba6f5654528b5863f4683c20c601381b8fe160cb10e5f546"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_beestinger.json"
+hash = "d315ea2744aae47b0bf888f31a0427d4314ad67fbc543293b8c8f9cdb21030dc"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_broadsword.json"
+hash = "ddb18145c665761f1d8b6cb7682094b63fe9bb4b10a5ad6c5dbbf6118fc8fe48"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_broken_sawblade.json"
+hash = "20c7e26cec96a4554c97ff7f018c965fcf8e68d7193384c856b88260ff39e8ab"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_claymore.json"
+hash = "0d3f342e3314fca09d28f4fc1716a3932a31e54784e75c6e07542aa4658effb3"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_coral_blade.json"
+hash = "ad3c0c9dc6baa2fdec0c7d654a063e7905b493e11041355026ecc0ec2ed857db"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_cutlass.json"
+hash = "09c93cc4d020a2ad56b13b0ab518fe9242e01ba058c3640c56e044f0db1c40e0"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_dancers_sword.json"
+hash = "296ecf0256e7fcf4c9de65081d026e7589f1ed783f094567b8fecf052676b121"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_dark_katana.json"
+hash = "e9a8c6e4f895403ae31893460f9250597336e05f4f50686e4e6a97976535bdcd"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_diamond_sword_var.json"
+hash = "1884cbfaa2ce24d99ec6b17eb2b65e3b3ad9b71b1cc8125785444f4b2defcdc0"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_freezing_foil.json"
+hash = "d315ea2744aae47b0bf888f31a0427d4314ad67fbc543293b8c8f9cdb21030dc"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_frost_slayer.json"
+hash = "ddb18145c665761f1d8b6cb7682094b63fe9bb4b10a5ad6c5dbbf6118fc8fe48"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_great_axeblade.json"
+hash = "3f3a2a25548e6201270adfe37a2564b7f9ed3039ab9976bbbccec2f10407a79e"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_hawkbrand.json"
+hash = "0547c632de736809b5ea740d8318685fd36ddcc7b07eecb2ccad1bd14b0dc958"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_heartstealer.json"
+hash = "0d3f342e3314fca09d28f4fc1716a3932a31e54784e75c6e07542aa4658effb3"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_iron_sword_var.json"
+hash = "1884cbfaa2ce24d99ec6b17eb2b65e3b3ad9b71b1cc8125785444f4b2defcdc0"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_katana.json"
+hash = "e9a8c6e4f895403ae31893460f9250597336e05f4f50686e4e6a97976535bdcd"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_masters_katana.json"
+hash = "e9a8c6e4f895403ae31893460f9250597336e05f4f50686e4e6a97976535bdcd"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_mechanized_sawblade.json"
+hash = "c1837afc363b51339499d5dc40098a06a73fd6e3ad0df09d0b3e7db287ac91c9"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_nameless_blade.json"
+hash = "09c93cc4d020a2ad56b13b0ab518fe9242e01ba058c3640c56e044f0db1c40e0"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_obsidian_claymore.json"
+hash = "486c122d5c596e43d654375221f71278022ebd7647efdf74b23be7848c85161e"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_rapier.json"
+hash = "d315ea2744aae47b0bf888f31a0427d4314ad67fbc543293b8c8f9cdb21030dc"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_sinister.json"
+hash = "7fa66703dfc1c802ef4c9426c578e1128a1692ee3ce18e6943e4b5dee5a9afc1"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_sponge_striker.json"
+hash = "ad3c0c9dc6baa2fdec0c7d654a063e7905b493e11041355026ecc0ec2ed857db"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_the_starless_night.json"
+hash = "599856e8c435dd6893513afc982507ade2568f470c00c82c7a65034f69985ac2"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/sword_truthseeker.json"
+hash = "7aa87d5fa494d4096cd1660161bd8f089b827c0d8b21f6ba7d5dc0ca3661a7d4"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/whip_vine_whip.json"
+hash = "4c531597aafff9842862118a2df3f1c2588a4b91fe820671a5daff164221e21c"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/mcdw/weapon_attributes/whip_whip.json"
+hash = "4c531597aafff9842862118a2df3f1c2588a4b91fe820671a5daff164221e21c"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/bloodthirster.json"
+hash = "e5c4bf228d47693419fc1542dd292add4c7130759b5e9fdfd5ccc7412cad6455"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/bluemoon_greatsword.json"
+hash = "00a9d5787e030658a79855dec428bde103aec19fde3a18f072bcc49b42025bfd"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/bluemoon_shortsword.json"
+hash = "551640a9612f936285e2f9bdee8f12b99aa97412a7efc2b529149c30a5f63f64"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/crucible_sword.json"
+hash = "3d93c32e7c1ff2bbf22cb74432d0a864bae1748b2ab9761eb7f65b4669c20a07"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/darkin_blade.json"
+hash = "d8ec36e15cbd284d72b4f4437e1ee88d12eb32a400a7a0af05034c46540075c9"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/dawnbreaker.json"
+hash = "a52799f7378de409fc3a21d63591cf1859a17bccb4cf9b2b63547a26f0be4ce5"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/draugr.json"
+hash = "d8da9f367dc39ee4926d6c7456132734f2f62b9a5dd2c839a5a93b3bc58528e7"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/guts_sword.json"
+hash = "04d6442263cf5d8350f3059d4459aa51da511bdd3459cc11d025e07b15985025"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/holy_moonlight_greatsword.json"
+hash = "87ed43c5a348bbc3b302be0f22f8bb7172f9292abc98764fc51a1289e03a50a4"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/leviathan_axe.json"
+hash = "7b71b4005b083e77632fcfe5932f568f1b8095faa71124832478c868cfd6b6f5"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/lich_bane.json"
+hash = "a52799f7378de409fc3a21d63591cf1859a17bccb4cf9b2b63547a26f0be4ce5"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/moonlight_greatsword.json"
+hash = "00a9d5787e030658a79855dec428bde103aec19fde3a18f072bcc49b42025bfd"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/moonlight_shortsword.json"
+hash = "551640a9612f936285e2f9bdee8f12b99aa97412a7efc2b529149c30a5f63f64"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/nightfall.json"
+hash = "289e59a6735645ad879b317e8979dd88abac5464b45e6ce31aa41a3ae10eb0ac"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/pure_moonlight_greatsword.json"
+hash = "00a9d5787e030658a79855dec428bde103aec19fde3a18f072bcc49b42025bfd"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/rageblade.json"
+hash = "3485cd25cc2b0688e336c472b326f7dd83e72988519dfed8ce75712b7de360c9"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/translucent_double_greatsword.json"
+hash = "147566d867a4a4764743835e02dc64e9cc1c762d3f6e7b6264afe5a0f133da7d"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/soulsweapons/weapon_attributes/whirligig_sawblade.json"
+hash = "674e45bd501d21c6508039f01551fbba79be7ab0f6a1957381f81d05f8488214"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/twilightforest/weapon_attributes/diamond_minotaur_axe.json"
+hash = "bec6fa93344d2acdbe5e2cff8eec496845ac4c115acae44d21867ea95cfe3885"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/twilightforest/weapon_attributes/giant_sword.json"
+hash = "f27a0b1c3b2ff320ff51a27a89c3f6bd047803334cbf9d21c837856e6f4d51ec"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/data/twilightforest/weapon_attributes/knightmetal_sword.json"
+hash = "b84e036b9ceabedf82281cfc6461d36370d5ec52c0a171bf0b8706f5b32ed3ef"
+
+[[files]]
+file = "config/openloader/data/infinity-bettercombat/pack.mcmeta"
+hash = "4d85ec4fe401ef7883f7dfd51775332c5e836ef013713fe472bbc4bb8c2c31b2"
+
+[[files]]
+file = "config/openloader/data/infinity-data-fix/data/expandedstorage/recipes/obsidian_to_netherite_conversion_kit.json"
+hash = "c370b9abfe8f0de011a8dce7029c20bcbb3396b6fe641409c7aa800e5535e421"
+
+[[files]]
+file = "config/openloader/data/infinity-data-fix/data/stoneholm/loot_tables/crypt.json"
+hash = "b8b625717dd1d5590cae84a434b82b52530e8780818521c9f5dcec55f838d3a7"
+
+[[files]]
+file = "config/openloader/data/infinity-data-fix/pack.mcmeta"
+hash = "4cee5572e1b7b47980c96402c9646eafdb63fa653c029869b70e1b7ca25e3f2f"
+
+[[files]]
+file = "config/openloader/resources/BACAP Language Pack 1.18.zip"
+hash = "ad8eefe5f1a979c7a1caed36c3707d37c3c1433c3e90d7d9e97bfa733e12d08b"
+
+[[files]]
+file = "config/openloader/resources/Icon Xaero's 1.2 HF.zip"
+hash = "a4003ecc8a8e7810a8fc88de131ccc26d16c5ea846290f9492361005f2506296"
+
+[[files]]
+file = "config/openloader/resources/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"
+hash = "66162b3018654e91b0611e7d31eb0ccc7e8255f09004bcb4f6340ce75cdd4bec"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/dual_handed_downspin.json"
+hash = "f0a3b2f34ad957dba4d0185f08a01a5d3ffc957132b97d19745ce600de5ec553"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/dual_handed_slam.json"
+hash = "1d7641187a942159fcfa242afd993265373fa371ae566530dc1fabfd20f9e65c"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/dual_handed_slash_uncross.json"
+hash = "a5c3a06251bf01b9e26b91cb8bbebbb9eff2532b2c1e4f7464e5bd596744da65"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/dual_handed_spin.json"
+hash = "ec2ac7c2f533a1d8282d422692f5ecc8ca2b3e1cd535a0fcbb151ecf6b3d12eb"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/dual_handed_spin2.json"
+hash = "b0669ad432824f5e5eca4837ab65de18e17207ad0c36d5b97570badad54de6a5"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/dual_handed_strike_cross.json"
+hash = "862872fbe5a62e1789ed9f81d95dac90386289cdc810b0c4a45ab431e672e53b"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/dual_handed_swipe_cross.json"
+hash = "484335a17092c586141170bb8d58f55aa811d123c897701f5ce5246ff5570479"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/halberd_stab_right.json"
+hash = "edc26b17d7d4c67289763ef3776d2dbf06fc76c50285e21e9bdd3b7d19428787"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/one_handed_slash_downcut_left.json"
+hash = "d8dacd592867353839391e0b09ca81cf90f6de48a54d99e33e7ca1020a7a8367"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/one_handed_slash_downcut_right.json"
+hash = "3130bf0e29d66a141f1eab8524613742d228f0470cd42df9c12b3c947e496970"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/one_handed_slash_fly_left.json"
+hash = "2eb3fdcc4e89dd0691fb5943c852a9db3ff6fed5cd0027f0d1d9121e3a9d5b8c"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/one_handed_slash_fly_right.json"
+hash = "05375c8c3b4e2cfd1ba1c6787b3e15f9880cde48ece40632f9f069aaeba86f21"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/one_handed_stab_mounted.json"
+hash = "a794dbca5dc6f7e4c4b9d765c2ae663795b09541a308d50f7ba0f2fab1f365c2"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/one_handed_strike.json"
+hash = "130c9a9f54d43ec40849a76a18670bdd206d32e3409d41c1ac8fdd83ebd085bb"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/one_handed_strike_down.json"
+hash = "be23f82c3bd31eb07219be1af15b77dcb94c10432d8929ef15f9bece27f565d0"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/one_handed_strike_left.json"
+hash = "b68c505c0f13d16489050cd6edaab22eec19949ab8f492fdc4f7b892d1568524"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/one_handed_super_punch.json"
+hash = "68b49c08f2b21016081d06951b7486b850d76180103f6bdc89e66348836946f0"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/one_handed_throw.json"
+hash = "b7af8da41fbf00e67628864ef1116fedaf19e598fdfba86acae625dabc236d11"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/pose_dual_handed_backwards_daggers.json"
+hash = "40bdeee1395ad27d4be9fba33f7b33812a5d8592a2989f864c8591029d29f73b"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/pose_dual_handed_sword.json"
+hash = "0b07c1807718bb8e77e44f14b435b3d28ee5f508382f0c8dd0de8a9ea991ae04"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/pose_greatsword.json"
+hash = "36ddbe6b32d4f12a5e1424ac4df789b3a0185fd531db8afb869557cede9045d7"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/pose_two_handed_flysword.json"
+hash = "6fcb07d279b719ef6d44729000b34c560a26acebcd8f4d337fd99f3274fb322f"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/two_handed_slash_downcut_left.json"
+hash = "70551010a5dce99cf5ccbed7896b2d0e97e5ffdda16ad2b86b5d47af6127c58f"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/two_handed_slash_downcut_right.json"
+hash = "0a49753a7e5795ff2c566087b900e7cfd02ca095df99360893aa0aed0fc21a84"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/two_handed_slash_draw.json"
+hash = "6a1059f21006e01f287ca7631d6420ce0f1b86848c7323efba24c6be0e62c560"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/two_handed_slash_vertical_left2.json"
+hash = "1f57fabc25b13f0a371ae8549f33e45b960e78387a890ece4969dfacd49c87d8"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/two_handed_slash_vertical_right2.json"
+hash = "6a37fb79ca55547cb127bd61f19bebe5623269d6d8b39b534c8212809f0e6efb"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/assets/bettercombat/attack_animations/two_handed_spear_stab_right.json"
+hash = "19ce34ef4e8437e52335e8e048d667e14102a03ed39ea83b6a1201a7492e3d26"
+
+[[files]]
+file = "config/openloader/resources/infinity-bettercombat/pack.mcmeta"
+hash = "4d85ec4fe401ef7883f7dfd51775332c5e836ef013713fe472bbc4bb8c2c31b2"
+
+[[files]]
 file = "config/shouldersurfing-client.toml"
 hash = "2922dce2933183493e0aae1a9453b498df18f32ba06b15b446f27b0fe41d53b2"
 
@@ -173,118 +965,6 @@ file = "kubejs/assets/advancementplaques/textures/gui/plaques.png"
 hash = "7370fa6d2ef4bb5a9a163c8b90660e45053b0e400862c60bd04f4a7380b3b2b6"
 
 [[files]]
-file = "kubejs/assets/bettercombat/attack_animations/dual_handed_downspin.json"
-hash = "f0a3b2f34ad957dba4d0185f08a01a5d3ffc957132b97d19745ce600de5ec553"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/dual_handed_slam.json"
-hash = "1d7641187a942159fcfa242afd993265373fa371ae566530dc1fabfd20f9e65c"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/dual_handed_slash_uncross.json"
-hash = "a5c3a06251bf01b9e26b91cb8bbebbb9eff2532b2c1e4f7464e5bd596744da65"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/dual_handed_spin.json"
-hash = "ec2ac7c2f533a1d8282d422692f5ecc8ca2b3e1cd535a0fcbb151ecf6b3d12eb"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/dual_handed_spin2.json"
-hash = "b0669ad432824f5e5eca4837ab65de18e17207ad0c36d5b97570badad54de6a5"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/dual_handed_strike_cross.json"
-hash = "862872fbe5a62e1789ed9f81d95dac90386289cdc810b0c4a45ab431e672e53b"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/dual_handed_swipe_cross.json"
-hash = "484335a17092c586141170bb8d58f55aa811d123c897701f5ce5246ff5570479"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/halberd_stab_right.json"
-hash = "edc26b17d7d4c67289763ef3776d2dbf06fc76c50285e21e9bdd3b7d19428787"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/one_handed_slash_downcut_left.json"
-hash = "d8dacd592867353839391e0b09ca81cf90f6de48a54d99e33e7ca1020a7a8367"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/one_handed_slash_downcut_right.json"
-hash = "3130bf0e29d66a141f1eab8524613742d228f0470cd42df9c12b3c947e496970"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/one_handed_slash_fly_left.json"
-hash = "2eb3fdcc4e89dd0691fb5943c852a9db3ff6fed5cd0027f0d1d9121e3a9d5b8c"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/one_handed_slash_fly_right.json"
-hash = "05375c8c3b4e2cfd1ba1c6787b3e15f9880cde48ece40632f9f069aaeba86f21"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/one_handed_stab_mounted.json"
-hash = "a794dbca5dc6f7e4c4b9d765c2ae663795b09541a308d50f7ba0f2fab1f365c2"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/one_handed_strike.json"
-hash = "130c9a9f54d43ec40849a76a18670bdd206d32e3409d41c1ac8fdd83ebd085bb"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/one_handed_strike_down.json"
-hash = "be23f82c3bd31eb07219be1af15b77dcb94c10432d8929ef15f9bece27f565d0"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/one_handed_strike_left.json"
-hash = "b68c505c0f13d16489050cd6edaab22eec19949ab8f492fdc4f7b892d1568524"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/one_handed_super_punch.json"
-hash = "68b49c08f2b21016081d06951b7486b850d76180103f6bdc89e66348836946f0"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/one_handed_throw.json"
-hash = "b7af8da41fbf00e67628864ef1116fedaf19e598fdfba86acae625dabc236d11"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/pose_dual_handed_backwards_daggers.json"
-hash = "40bdeee1395ad27d4be9fba33f7b33812a5d8592a2989f864c8591029d29f73b"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/pose_dual_handed_sword.json"
-hash = "0b07c1807718bb8e77e44f14b435b3d28ee5f508382f0c8dd0de8a9ea991ae04"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/pose_greatsword.json"
-hash = "36ddbe6b32d4f12a5e1424ac4df789b3a0185fd531db8afb869557cede9045d7"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/pose_two_handed_flysword.json"
-hash = "6fcb07d279b719ef6d44729000b34c560a26acebcd8f4d337fd99f3274fb322f"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/two_handed_slash_downcut_left.json"
-hash = "70551010a5dce99cf5ccbed7896b2d0e97e5ffdda16ad2b86b5d47af6127c58f"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/two_handed_slash_downcut_right.json"
-hash = "0a49753a7e5795ff2c566087b900e7cfd02ca095df99360893aa0aed0fc21a84"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/two_handed_slash_draw.json"
-hash = "6a1059f21006e01f287ca7631d6420ce0f1b86848c7323efba24c6be0e62c560"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/two_handed_slash_vertical_left2.json"
-hash = "1f57fabc25b13f0a371ae8549f33e45b960e78387a890ece4969dfacd49c87d8"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/two_handed_slash_vertical_right2.json"
-hash = "6a37fb79ca55547cb127bd61f19bebe5623269d6d8b39b534c8212809f0e6efb"
-
-[[files]]
-file = "kubejs/assets/bettercombat/attack_animations/two_handed_spear_stab_right.json"
-hash = "19ce34ef4e8437e52335e8e048d667e14102a03ed39ea83b6a1201a7492e3d26"
-
-[[files]]
 file = "kubejs/assets/botania/models/item/crystal_bow.json"
 hash = "0bc0a6e99ebc09bc8f3c9cc4d4116ce4df65d24686a52103def39b0b5c4b5766"
 
@@ -293,8 +973,12 @@ file = "kubejs/assets/botania/textures/item/terra_sword.png"
 hash = "7262da076f9993179c41e3366872df32bfb9c7ec68e838119da419b59e22ce8e"
 
 [[files]]
-file = "kubejs/assets/customportalapi/lang/zh_cn.json"
-hash = "2585a8de24a01949edf13c68510975cf7e2e569545e266e252366b3ae5dead0f"
+file = "kubejs/assets/customportalapi/textures/block/customportalblock.png"
+hash = "ff652a7964161797cf7cd4eb0e2372c644e9ad2db2212845db973b630af03b45"
+
+[[files]]
+file = "kubejs/assets/customportalapi/textures/block/customportalblock.png.mcmeta"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
 
 [[files]]
 file = "kubejs/assets/ftbquests/lang/zh_cn.json"
@@ -306,7 +990,7 @@ hash = "79ab966c20ed519462d89930f241e9ec0eab0dd5edf8f44d28a2adc7d3dcad53"
 
 [[files]]
 file = "kubejs/assets/infinity_reborn/lang/zh_cn.json"
-hash = "3c3b11040885505704a6badbe336a5ca210b6e53e2d314accb13a83ffcd37eed"
+hash = "a7ee65ef570faafa53915f4e4277a687fab484fb9aecf05b8aee57807c33eb76"
 
 [[files]]
 file = "kubejs/assets/infinity_reborn/models/item/crystal_bow.json"
@@ -422,7 +1106,7 @@ hash = "d8fdee7eeec27f0c60ee61e04a0f1a514bd96fe6e3adfaa8513c9fadcd55c065"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/zh_cn.json"
-hash = "716193228ab8c130f0a9f37ffc19b6ebca94818b9b48dfd9f7bde83cd35ccda4"
+hash = "fafb620b4dbe89fb982eb6eced6e3e2b32aa8d556e934c05407299f0b6a612d6"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/special_obsidian.json"
@@ -997,10 +1681,6 @@ file = "kubejs/assets/mythicmetals/textures/block/unobtainium_block.png"
 hash = "deb6e164c7d9deb5e95e31408288b76073d27569742ced8eaadedfc03f10e682"
 
 [[files]]
-file = "kubejs/assets/mythicmetals/textures/block/unobtainium_block.png.mcmeta"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "kubejs/assets/patchouli/models/item/book_of_infinity.json"
 hash = "4138c78e4f37353f8702299ef0a4c7c2225e0570b713310337fe6a45e8178e7f"
 
@@ -1045,506 +1725,6 @@ file = "kubejs/assets/tiered/textures/gui/reforging_screen.png"
 hash = "b3e2e1797b32dcb3e7c216a6035df514d63d49bc5494c3c575db966922afdae9"
 
 [[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/amethyst_golem.json"
-hash = "74e5caee7306c574bbf48143d409e62cabdc6d892b21908a3a81ec4514f206ff"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/blaze_guardian.json"
-hash = "b22b6d6cdf25a1bf5b913f97a43718e9e6202b0711615f42fdefb701bdae6f01"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/brown_fungus.json"
-hash = "48b7b35fccf05a683002dde40c9147898f5be95e80f08f5e4a8012aba9aa7099"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/deer.json"
-hash = "7a97e936459a0c0719d20894f461c1f6b761565ead1bb797bb461a93cecc4465"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/desert_rhino.json"
-hash = "e9b47c560434711c39d4a5f5201bf41d014aaa62fbde5fc2129bc32120a07ad6"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/dragon.json"
-hash = "03789465e3c3aa888c355fc68aef02196c067da0c7b45fa2e5a4db13ed67bb60"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/ender_whale.json"
-hash = "46a7f62e9a28d4ba114f2b06538d1c98111500f4c045b72f0b7261cc56dbcb6d"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/enderwarthog.json"
-hash = "3e4f478c16dfb333db17d5f77aeaed6a7562866f53b7ca2bc08c5b2d7f4d40a7"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/iguana.json"
-hash = "f19d264c3ba8a591d53f2269a342c53c18f1dde16441cd1017928eab4896d33e"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/mammoth.json"
-hash = "a7a0b8e5f5e9f70e7af9df7fc8ab7907617af79f7c8d40e9ae8f5244b81ac2d4"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/necromancer.json"
-hash = "fb502b672bb25b9b00c9379957bcb9fca2784f148723e39371aa931d413ef2eb"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/orc.json"
-hash = "16cc0adb7fa93bff308bb11841212f68e07de0895242d3ded233a2ff7df8fc93"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/piglin_beast.json"
-hash = "ae9174958ba4cede2e74beabafc0d6a3fe82d96ad0736a5ca7eb2a824d801abb"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/red_fungus.json"
-hash = "f91aa4dad6859d520308bf22c91b6b4219fbed7003012ce9475735e628ec8f82"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/shaman.json"
-hash = "b5f97cd46ff01771ff58eba4b074109a2fa3c20cdcf18c2a985af1cbf679eadb"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/skeleton_vanguard.json"
-hash = "375bd5485b85812399893adaac140f2fa02fc3af955c62f4cae3e004b45fe141"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/small_stone_golem.json"
-hash = "5bf2603671195b9bac83665cdd80b7986de00609d322592257f74569e4548494"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/stone_golem.json"
-hash = "724956eb2ef903e285b78a2c9593313db8d51e8ae695071ee6722382245c6c1c"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/summoner.json"
-hash = "b619fb7dc77b0bb0b9b5c0f549b4eb2b6b0c2937b4645c1724032f1cac08d94f"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/the_eye.json"
-hash = "d02e40dd38f5cb257cedada768bc28b513c17897fc31b3ee115b29ef549ba5e5"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/void_fragment.json"
-hash = "dafcd531eea774129def5cf33606cc206642ebffd518b66330ba9f6ed0237457"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/void_shade.json"
-hash = "7d692fc48cb43940e18435980d0380d874ae17817327e905374ee7960bc43e3e"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/adventurez/void_shadow.json"
-hash = "ca3c88b6faa17da496dc70c80583bc1b2c22ab4500c6b382d7cfcdfd422016de"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/artifacts/mimic.json"
-hash = "89d915c591b7ba2cff8a811eafdad5dbf143a4613f48d868e70078bd2869775e"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/betterend/cubozoa.json"
-hash = "8c5ba0012c25fe073d7c94e780d566666acb0d4e8e1b97226f18c05dd2797129"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/betterend/dragonfly.json"
-hash = "b25cd8363042623ef1c453a9df540e348c4345732fc057f1e4d5789035a011f0"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/betterend/end_fish.json"
-hash = "97de8a21382d38c85815035c36d0d9344f218904e51f48c99ee8b43ce73a33fc"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/betterend/end_slime.json"
-hash = "a39329eeadf4c70fa66be44738c3f64034edd71e74e691908b7493b9a8e46306"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/betterend/silk_moth.json"
-hash = "b9a52559d88ce4817460227456fdeba6f6d59c322ffd1f9349079f3129710051"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/bosses_of_mass_destruction/gauntlet.json"
-hash = "bdb9c18163cd02216156f2eecacdca9ec7b94d243038ef8989f90eaf67ec60c0"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/bosses_of_mass_destruction/obsidilith.json"
-hash = "6adfa92bb6b335a2d588599fc6a4052e13382ccf44439bd0a8036359a35b65e4"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/bosses_of_mass_destruction/void_blossom.json"
-hash = "b3f3ca5950a8a2e086a0cd19e289318b26e5d014cd0072ba451f8a594c423acc"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/minecraft/creeper.json"
-hash = "a7399f24b1e82b1fb6d67402dea38fed2cf3d79ad65d1c14719cd73bdb0fd602"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/minecraft/enderman.json"
-hash = "7bb57961785c76d48123ec8b3659ae37ffe23daf0199bb3f698c311c534fafb5"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/minecraft/piglin.json"
-hash = "cecf4f172ff3740cc4fcfd80e17a4958b61bcbb85ae82d7c1dc0011f94accf1c"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/minecraft/piglin_brute.json"
-hash = "46867c456424841a16bf685db9210bfba8b4714e9968d8032d16c3a833bce7ee"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/minecraft/zombified_piglin.json"
-hash = "46573d3fa6b2344e86142f65f3499af410b2d4dae5edcd916b8969d95c5812e2"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/adventurez/necromancer.png"
-hash = "475dd4e9df893f37ef13461a8c6bdbed00c8e9af26626e9ad3f457d1464591ae"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/adventurez/void_fragment.png"
-hash = "bcf7534a889ec12ecf000ddb24f2d17aef939772c7dcb94c2465b9740e23a628"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/adventurez/void_shade.png"
-hash = "4cabce27839604c6c489e29ae238bf9a2714d3694e3f85036bc550f1534e257d"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/adventurez/void_shadow.png"
-hash = "aafd7ddac21ebbd5cb53696fa814748185e1cab9fc440ed90a376b7b12d87dd8"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/beetle.png"
-hash = "3e180803d5c69fe01c18677a7350f84cd141e422bbe72668e83f9717c5a677e2"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/beetle_blue.png"
-hash = "b995705fd73334fcf39b9e162494c4974db093795a48ea14fb5c1cb9062e35f7"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/cubozoa/cubozoa.png"
-hash = "7eaff2ec07eb9acacb082b8e436c86d0f74a1440344d3801eb91abf52d240016"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/cubozoa/cubozoa_sulphur.png"
-hash = "225353e71b4361eda67ae01502c80def6421540fbbb22e1e3fb05b3c7df2b607"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/dragonfly.png"
-hash = "6b1b248f961743ca059a14800247193634cb5a51c8bc3868d206604f06ac7de9"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_0.png"
-hash = "b45aadbdcd89a053812492985b57a3a59627803e8649491c4c7450d1ea88b3c1"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_1.png"
-hash = "c3c6efe28198ce675e955bb3eb071fb63b1940a0ff0e371bf502f1ad3c6288fe"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_2.png"
-hash = "e8371bc77d0c48593c851ae576f8c06d0fefb13a59624b4daa222767f7cc62dd"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_3.png"
-hash = "e8fca1a8699f2818d40f0f369df979bc74c29ccf88e905c030f8c3d171203e9a"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_4.png"
-hash = "0bb1d16660e96b75edfcde0de32bf0a4711b380b7aa23f5eec162a4dc2520f1f"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_5.png"
-hash = "38f043ff227b8e6cae52beed5949f3bcddc44e3ebcec549519717e9485c3abe9"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_6.png"
-hash = "30ca1fee06166b7e2e9be1ab150d00cac93dee6bf89228b3191b80d9781c9cdc"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_fish/end_fish_7.png"
-hash = "de2747480f789a9952f01e1fa0d3e12a74b29bfaaf46d68bfef4934477df7c69"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_slime/end_slime.png"
-hash = "51177c39fe33d922aada997115c42ce49dd5d7bb41e13faf8b49910adc76c8b0"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_slime/end_slime_amber.png"
-hash = "45bd96cbb04b506937411a050d159ef85ba95508b7939bd36221e3c07ed89221"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_slime/end_slime_lake.png"
-hash = "57c33163356241fd1cfcff547569965263c551c330a4fcffe38e65808dd09fe9"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/end_slime/end_slime_mossy.png"
-hash = "685666d736912e46b4cf14fec32dc14585d7ac0c1df7166fdef405eb0834b308"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/betterend/silk_moth.png"
-hash = "d86050a5b19a6a3e6cf8b335d48ccb6675f5c47a79a58d9581645ceffd6d0afc"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/blank.png"
-hash = "ca4f36df22f506c59072ade5a8b96907ab04a587c0f52cf2155a21d16a446760"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/bosses_of_mass_destruction/gauntlet.png"
-hash = "990b1d0cdfea359c33a80182f7b024c15ae7e113ae5f34afc9b0ba2189e62a74"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/bosses_of_mass_destruction/gauntlet_hurt.png"
-hash = "098e63246b327669aa82a4a3105caecd65837cde12699095349119067943ccd4"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/bosses_of_mass_destruction/obsidilith.png"
-hash = "b77f3a944fc4f9a1ed9052866997db4a204d052d578cf7cb1ef181468e836aeb"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/bosses_of_mass_destruction/void_blossom.png"
-hash = "e16937acc8c93e66795f9c1ebcbf6df9507e0b2e7327506b6a604623ef3a2b19"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/deer.png"
-hash = "beed4d861b61689948f4b1597ad416345edd6f1881d61baed06b8b2e88185b73"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/dreadfish.png"
-hash = "32c45db6ea19584c8538a00eba9a523264ba9d85057278c1a8e6fbb7a1e828ee"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/flare.png"
-hash = "8a6a8ebcbbde806b2465f5f30de105ac058b656d1c21e4320dab3b631e114255"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/glow_squid.png"
-hash = "0bf11edf769462e75a0759cd77d1fddf6e0f6d9315bf0fba3589b7bc1c4a1001"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/falling_corpse.png"
-hash = "7ed023625aa28fb91b48ef5014c866ae53d5f6ff4fd1733700f2afb8ed1c8f32"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_1.png"
-hash = "107b25507d5d4adec20e15a2362bf4c3b03473c6d2b1fa3887ab803ac820f63b"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_2.png"
-hash = "431ec7770803a66d2c6de83f0179d05f516ea0eac0237aa927e3bffeeb94fc21"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_3.png"
-hash = "31d461ec3b3184acd90e4f5d704737ae88b3b9d9dda551fade754c4a9833f015"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_4.png"
-hash = "5d9225a81fa9da0feef0ed244d5fdcecfda8ff4f3034adcfc7542ee1a897ab73"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_5.png"
-hash = "a13be2611e4e086ae452f631a3e5aef535c1cedef511b4332e763421a393e5e1"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_6.png"
-hash = "1a7e126df722f7735cef80648242d06d82a07ad29340779705a26f06e3e67c63"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_7.png"
-hash = "19c7e0434f6b46dc5bc74f3cdffc9138fecf9e4bf1c9462866e4527d9ed76363"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_8.png"
-hash = "4b0123360fff8ecaf18dbfcc474ce1d3fa18644a888baa18250391256c0e0abc"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghoul/ghoul_9.png"
-hash = "c9b13c499b8b353324138cdc801615ed6b1eae6b385a3bc7a6574f1efc80d1f3"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghouling/1_ghouling.png"
-hash = "35414308aca9122afdf372d6e9ad029d1da73896c3c650855df41c4fae91ede0"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghouling/2_ghouling.png"
-hash = "3d0c0779aa17e3baec39089038dd448f393f58e480a03209a48dec573ea505e1"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghouling/3_ghouling.png"
-hash = "c570d2917ea08ac607246da0957f1c7196c17b3d96bc5549516e64d32d4cfdc9"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghouling/4_ghouling.png"
-hash = "0f912d7c207d27201dd43ba252ca94b751d6f6608b0027ae4af92ab072730b83"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/ghouling/5_ghouling.png"
-hash = "59e52d411c09f1b6e59ab187179e4c40379c6b82487bbec1344660d9f37f68b3"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/lich.png"
-hash = "c204995aa66dfc08a215f7e8c8d8adace5d2bb53838cf4640e07230c0050ee12"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/nameless_hanged.png"
-hash = "3c830567599b6df6a32b1fba45d577c4204c4dfc7d83a11a10a6cbd56c5f0735"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/nightmare.png"
-hash = "449f1a394b6d0be4c70a5978d822ff205ca768f5ec547b6f3aadf8f3ed4d90e2"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/reaper.png"
-hash = "edc8bf8be896f560f4c9eeb2da73ac97ff19ddd50bd48503ecb46ce29fdd5aac"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/revenant.png"
-hash = "ef52bebbd486892c313848c1a5ccaf967eda18a5e88f3d32c778606f89f85d69"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/wraith.png"
-hash = "31ccc15bd9c374299b8521b782a5249acf23be54362db5fac3477d82ad8271c0"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/graveyard/wraith_opaque.png"
-hash = "ef673c2957de1cb70ff1a87cb13bb4f07a5ca3670e310d60bafd0e4a36d06eab"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/great_thrasher.png"
-hash = "3c38b6f84d347215fc3155bd11cc25e1853f730e55e419c001dd49d39f0bf340"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/hydra.png"
-hash = "162e38d52f348797c69341c6c6225059577a76deca419ae62110fcadbd846b49"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/igalaxy.png"
-hash = "56c673a2697d0cc0bbdd5d6d35fb40fa6c8c6690d8dc0d41337579ff7dc03837"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/lava_cat.png"
-hash = "eb3c7fa023aa7acd0586e208e5c7aafd052c0d798db90d44deecbb91cdf96569"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_lime.png"
-hash = "39b0bfcf2a82dd6204a01b66e61808f0b55af6745ddb9cff1beed2cb7dececbc"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_orange.png"
-hash = "a6d3b1117a81abbd1f2f09d03daab958e875e011d483f0095cb8ae2248e174ab"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_pink.png"
-hash = "7ef93f508d7faa3c4d12b050487a7a4cb980161c686955930f6501b2dc6cb0bb"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_turquoise.png"
-hash = "8e7c9c9d57eaa106cada40f9a603b59f40702af366892fbdeac9c0ada3746628"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_white.png"
-hash = "bc7a417a04ce1610b5560e39421db154732b5e7056b314a647b3cbe9af42a9ff"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/lunar_moth_yellow.png"
-hash = "9e6d7831849e64481fdb47f565d49cd9f2a5791b90b8835100f6af81f7d476de"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/minecraft/creeper.png"
-hash = "a90ee1d26da822e845608f4b1a4bea32507f8f4cef09e948c78f3f550de88dac"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/minecraft/enderman.png"
-hash = "8cbf8ecea6f0c285ad357f2396e71a56d5ba0278016fdc5a96f1b6886902e84c"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/minecraft/piglin/piglin.png"
-hash = "fa745b5f57f30d854acb98870b3430156f408b1e4c32bd11031aa02593a00a70"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/minecraft/piglin/piglin_brute.png"
-hash = "8a15598006e530d889b633885a4df80b32778cc4fccb2173f89244208b9865b4"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/minecraft/piglin/zombified_piglin.png"
-hash = "385e9796d418dd01c2aa0f038792138cd3ea6fc01148a2b8d7bede5b9129fd76"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/mr_chocolate.png"
-hash = "be1f6b94c4e38f22013023c4c23776a57caa33ce30c174c252e0f67accb3c1b6"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/obsidian_cat.png"
-hash = "9227e989e6a39a0d023390d866e0b950a5b093d65e1f679622fbb611116e56c7"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/old_golem.png"
-hash = "ce40aca0fb2fce085403e0039c0e37c00f1d05c3c39c07f798c5aec709450b81"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/owl.png"
-hash = "06c04d6151f78e74ebe2db07f5020f1a7bcdca6544783466e840e70be3c9dc61"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/rudolph.png"
-hash = "1163a1887e262e5915d15634268c6296dcd2f5a691d639b1666050d5fd69bfa5"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/shockmicro.png"
-hash = "43de8f8dab2622fc7e3ca6aef337cdc5a7e65aab4dbd7de59c40e724c637f993"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/silver_fox.png"
-hash = "27f10741633711d84ff074df7e430d9d6b2e34875a163bc3aea967616e8dcd37"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/snow_guardian.png"
-hash = "1a6584cc36f3ede0fbd153a5b98034ee094263faff181984261e7d66ae1299e9"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/sprout_green.png"
-hash = "296fca87dc871865f6280c5f72a35945a91a25bf14c34fc148fe56f82655f7cd"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/sprout_hell.png"
-hash = "c775a67095dc524ee91a74d3c34af3b7864bf5e22e4d52b2e8eedea138829ae6"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/sprout_purple.png"
-hash = "f4ebe5c4e43b60e6a03c75cf0c6c2416d039429b86deb3726a0ad2574cf71933"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/sprout_red.png"
-hash = "9ad921f0e1edc3f54fc93cfae4232accea982ec455f5c445ad3581fdd01bb163"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/sprout_tan.png"
-hash = "f92ad87f351f125b6a9f1a07f8701c79bfd69a74127ba6b220c0342e88f365bc"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/strawgolem-dying.png"
-hash = "5f9ce82d276c70937fb47009f96e78f6e6c6096c8a397ef5f0b3e53a1963fdbe"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/strawgolem.png"
-hash = "b72258b95765fdd83d2268bd2a2d7664616fa6e76807eb998b89d51a85ceb217"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/thrasher.png"
-hash = "e291e94a8a7609317b23b79ded8c84fbc7547528929038e0de34bfdfc2008380"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/winter_golem.png"
-hash = "76f29a0fa579b6bf320d2b41393e300d51b20b932be71e9200b80402bf222f3b"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/wraith.png"
-hash = "30b334add221f13cf167e7e881608c75c7bcec486c7572dcab5a481c7e3f9ef0"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/yeti.png"
-hash = "0b627c23304c408759656e32cab871f91a4911fd8e0b0338a967820ec2a7cf64"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/zombie_brute.png"
-hash = "721605baa04d3a69e8866fee2d61cca623bc5a383cadff4c47be8144415fb4f0"
-
-[[files]]
 file = "kubejs/client_scripts/constdef.js"
 hash = "06ebdc9c5a6b730440d0da74f989739e1f985a650fdb5b000a718439b7a4062f"
 
@@ -1567,646 +1747,6 @@ hash = "73a5fdd9fd6a9bec28e46bb3cc2c9c0961f270cef76abd4b7d2bfd5cab139659"
 [[files]]
 file = "kubejs/config/probejs.json"
 hash = "eb0bfaed60482e4e159ff4e2452cc098de57689f7cc82b4c9d9f112548173da6"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/anchor.json"
-hash = "4aef8ba3ddb62c4eec7e973ca24bfe68154487ae3f3a02bb97a713bef3cbe2cd"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/axe.json"
-hash = "b2209e39d418963c23b086eddc8fea8ce43ae9310e3782ba12a851a3652eac1b"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/bastard.json"
-hash = "2c75cb524fba187541f1cd74924ead2b914c8b4ba6927a1c18794e753fad92e6"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/battlestaff.json"
-hash = "090903fbd6b375d775567c202cb7b8cccc3046534a8b8722c86eff2b56c3cd42"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/blade.json"
-hash = "f998772542a354150f1d881ed912aead4e7225c580753e850cda6e2474430d39"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/claw.json"
-hash = "8e401d5e4bb628d3611aaecf8537def72cafdbc4175c50f7a3421ed750cc66bd"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/claymore.json"
-hash = "b1710c521d9bd53187ba5e9ab26a68ba4dacdd723aca96506403a636b78cb74d"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/club.json"
-hash = "5a8d8ca8f015f4ae6a060110ea616b1fa276c2ed3a1a80a57992185ce3317d59"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/cutlass.json"
-hash = "a76e6daaa9ad9582a36eddde23f20516bb0ddee023a49148e76e3b1079d74bfa"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/dagger.json"
-hash = "c31c54c2e651a412c4e92087560ea4bd475bd3d285e9a30384441773b7481bc8"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/double_axe.json"
-hash = "c7128adb447d748c6d47a195f2c63472ef5a416874a68840c7de8c57e11f195d"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/double_blade.json"
-hash = "1e172fc7ce99bd491caa448a85028e2a0b837b0c826ddefdee6b5d920288e2ad"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/fist.json"
-hash = "ef034d05017f435cc58b9af7633828d1f0d20b6fdb174102a5ab0c1f6f3010b0"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/giantsword.json"
-hash = "ef8d5d9f045039dd52fd2f79210c75b04098670dc071fb46bf163ecac1b7beac"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/gladius.json"
-hash = "8e9ef619d3bd09e4dde6e8c7c212023f4c6e9bee20ad26ea64e0e325da2d6692"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/glaive.json"
-hash = "dfd084789fdbe25570a6bbc7b1d0c774ea79b0afe7faa2a40681e56c6ed46308"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/halberd.json"
-hash = "3bf0813465587f9f3d4983f44581fac7943f595da3668f8d7cd00c2f881a224d"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/hammer.json"
-hash = "fb5adcf130fd1b69576bd13c742af5b5025018412bdd907120085baaeb41e265"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/katana.json"
-hash = "55eb65c24c32734cf186356afabffba579e1461880e188fa4c766c1bd9a6aaf0"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/knife.json"
-hash = "f76e55def9928757974bc2e0f916131b968c54e3becee389860b54a6bed473a8"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/longsword.json"
-hash = "f282808fe036f42c943a20ac21e43b5c5e4365c476b8f5f6e7a329c2442eefdd"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/mace.json"
-hash = "5bcac6c1ea14364f6c3cbd0c83a5972f367858bdbeedd8e37ae1762cee478738"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/pickaxe.json"
-hash = "7d9ab3ca40d0354a792e26f3c27b5b8ceff8fc4db28706fa192af694b6153e65"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/rapier.json"
-hash = "1114411bc575ec64845b43a4de7282b8e9ed1a86b89c94d084b559f2f5506c3f"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/scythe.json"
-hash = "be3ab3185b7c2ce668a1d2b68e7b528f8c1833dd21cc89315c461f932952d59a"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/sickle.json"
-hash = "a8be3134f7d0d8b0ed6b4952e7ee96b86f870420928be30c5ab1b085839f8506"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/soul_knife.json"
-hash = "f541e2b6cc12091f00a85cd1861c586bcdb8bc58241c2dbffcf7b39722cd9dc5"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/spear.json"
-hash = "168ec71832cf90b354d595297f51b6d54a6c9c2b5327f7285609b0f6304edd67"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/staff.json"
-hash = "6565427bb301f5acd2362bc275e638f5dbea7372f8dec41920f7deaa443079f1"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/striker.json"
-hash = "9f4053ac4443827724cfcab1991853caf203e07cff1eb79f2787ca93cc6d44e8"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/sword.json"
-hash = "4b5609dc1c51337970f1bcc23bc82d999a1ca44cb311075c1beb5ed96f7b2a34"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/tomahawk.json"
-hash = "bffcb618dcaaf71f8b698c327735dcb6a8730632295f8944a16044d529efff59"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/trident.json"
-hash = "6c02338ac86f98efaffc494ce32f02359130d96f0090ff02a0cc86b0bd94df87"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/twin_blade.json"
-hash = "6dfb4b30181310626816c69cba3242a23cf409d5ecf1c64fd91549b32bafb3ac"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/wand.json"
-hash = "9417e478365c9a2e658a281fda0b6ec6b5731eceab3f4f5b3acffc151834b053"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/war_axe.json"
-hash = "3f752b468653dd09aedc2c3f26ab2656d130299e5a64a7e93e4bb33269f27df3"
-
-[[files]]
-file = "kubejs/data/bettercombat/weapon_attributes/whip.json"
-hash = "48fca66de5041f41c40f89917c2111ef8d8ec0602e9565a853f8f3a3bd097a2d"
-
-[[files]]
-file = "kubejs/data/custom/portals/nether.json"
-hash = "ce5d920ae06b0c74acd927e081fa9d294f1f7b349989199ce5818a1719e782c8"
-
-[[files]]
-file = "kubejs/data/dragonloot/weapon_attributes/dragon_sword.json"
-hash = "a366483723d62507ebd6cae3bf891e46c247d2253e622627f6973c3d860fa70f"
-
-[[files]]
-file = "kubejs/data/expandedstorage/recipes/obsidian_to_netherite_conversion_kit.json"
-hash = "c370b9abfe8f0de011a8dce7029c20bcbb3396b6fe641409c7aa800e5535e421"
-
-[[files]]
-file = "kubejs/data/gate_of_babylon/weapon_attributes/gobber_rapier.json"
-hash = "de8064a5e02859c8073033c0855043918c52549a5610e972bbcf9ede8d122014"
-
-[[files]]
-file = "kubejs/data/gate_of_babylon/weapon_attributes/gobber_rapier_end.json"
-hash = "749281a8822c39e87882df1796d54f0679d0dc3885365d489997c5bd857dafc8"
-
-[[files]]
-file = "kubejs/data/gate_of_babylon/weapon_attributes/gobber_rapier_nether.json"
-hash = "6a9de4c97d7f2a9f474a365ac13ea9c909f8f59d29753f298b06f1ed31968fa3"
-
-[[files]]
-file = "kubejs/data/gate_of_babylon/weapon_attributes/terra_rapier.json"
-hash = "4eeef8a921c219124fa9c3e876419f9c051308fc9c7fdfc0d5afa29393625790"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/ailinghan.json"
-hash = "6ce502112ff47fe1055438fc1775eace337d350005f2a503baf559bc0aa89ae8"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/infinity_sword.json"
-hash = "7d73d764aef33410d8f93a25450b6170155c767a3ba784845e7e9b7ba5ac8e70"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/jian_li.json"
-hash = "470b4603ce21267052e777aa1cfb5bb90920a12af1088302ed1a70a9383d5079"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/kreska.json"
-hash = "6a3ebb1486e4f56f89f94da735077e818bb1ba0deefcc93af46b21682a55da1c"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/lce_tang.json"
-hash = "af3b17149b5ab5844d7eb1bd4bd84c8c3f75d57509a2967f16d8b94814b3fbce"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/mu_jian.json"
-hash = "c9eb3430de46ddc864cf34bf0c45a7dff9dcee1b4652113af9d286a0518cb67c"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/mu_jian_seven.json"
-hash = "3c82adf28643b195f915e6b6f234de58f9f7cf778167c678a1b16b5ea1090626"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/putong_stone_sword.json"
-hash = "ebbf66d2f00155fd5c378615d104528c60b0652e880d374ca32754cadd071668"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/qixing_sword.json"
-hash = "1c3a0113519c9a4381bade0d325d05bace6994e69415c63e019e30c7ab876214"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/ruoshui_sword.json"
-hash = "74810d6b8b12cf38d05404b7bc509ef50f8c749cf119ab57d75de4669bde2bbd"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/sixiang_kaitian.json"
-hash = "a29bab2c37fd7724e19e159ba9a9498111b536cf3c4bc703eb9f17987d0ea6de"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/yuan_mu_jian.json"
-hash = "d80c5d00e75cfdd6bf766702dbb0bba3c85887b37c4a9f051fe2ec0a2acd8fba"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/yuan_mu_jian_one.json"
-hash = "02b964b244b68d2d398e1f3a94397272d175daf2a3888232bbfb65edde1a8b41"
-
-[[files]]
-file = "kubejs/data/kubejs/weapon_attributes/yuan_mu_jian_seven.json"
-hash = "8363ed494a7fba7f33689c2f86eb88496632702f2647848a4117e5b94fe221c4"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/axe_anchor.json"
-hash = "6907bf5c68bd3e58f0fdc4758f8f1c070b155d813e8d742cd737534c037de9ca"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/axe_axe.json"
-hash = "2241e8b9e0e95336f4ae0331fb693f599a208c6485361da1a4383fc531d716c5"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/axe_cursed.json"
-hash = "bc7e2ec1ae03db272a8c5e3215d93334bc5fc45f7b26f684e0ef7dd3e3cd2cec"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/axe_double.json"
-hash = "bc7e2ec1ae03db272a8c5e3215d93334bc5fc45f7b26f684e0ef7dd3e3cd2cec"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/axe_encrusted_anchor.json"
-hash = "6907bf5c68bd3e58f0fdc4758f8f1c070b155d813e8d742cd737534c037de9ca"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/axe_firebrand.json"
-hash = "2241e8b9e0e95336f4ae0331fb693f599a208c6485361da1a4383fc531d716c5"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/axe_highland.json"
-hash = "2241e8b9e0e95336f4ae0331fb693f599a208c6485361da1a4383fc531d716c5"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/axe_whirlwind.json"
-hash = "bc7e2ec1ae03db272a8c5e3215d93334bc5fc45f7b26f684e0ef7dd3e3cd2cec"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/battlestaff.json"
-hash = "6dda8f4beb1bbb6bebb02bb72023ff39af765c072c07aecab635ff527eaa143e"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_backstabber.json"
-hash = "e488fc5ac01d22b6ac26c206b9b24a14d6b31c1c179f28850e71032b34cdd752"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_chill_gale_knife.json"
-hash = "f955f89d41b8bd92e8cac7a947c721197f2838ee23c6b26c9c8ff2295dffd54e"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_dagger.json"
-hash = "0ff2da61f0aaf8b94a5d2243a345998dc5b6501255d83b656df95708a6b6c850"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_eternal_knife.json"
-hash = "7aa87d5fa494d4096cd1660161bd8f089b827c0d8b21f6ba7d5dc0ca3661a7d4"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_fangs_of_frost.json"
-hash = "0ff2da61f0aaf8b94a5d2243a345998dc5b6501255d83b656df95708a6b6c850"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_moon.json"
-hash = "0ff2da61f0aaf8b94a5d2243a345998dc5b6501255d83b656df95708a6b6c850"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_resolute_tempest_knife.json"
-hash = "f955f89d41b8bd92e8cac7a947c721197f2838ee23c6b26c9c8ff2295dffd54e"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_shear_dagger.json"
-hash = "0ff2da61f0aaf8b94a5d2243a345998dc5b6501255d83b656df95708a6b6c850"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_soul_knife.json"
-hash = "7aa87d5fa494d4096cd1660161bd8f089b827c0d8b21f6ba7d5dc0ca3661a7d4"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_swift_striker.json"
-hash = "e488fc5ac01d22b6ac26c206b9b24a14d6b31c1c179f28850e71032b34cdd752"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_tempest_knife.json"
-hash = "f955f89d41b8bd92e8cac7a947c721197f2838ee23c6b26c9c8ff2295dffd54e"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_the_beginning.json"
-hash = "aca7c351831faabfb94268450c76b852910be5dd7a9b85b9892a5830c1012fbb"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_the_end.json"
-hash = "aca7c351831faabfb94268450c76b852910be5dd7a9b85b9892a5830c1012fbb"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/dagger_void_touched_blade.json"
-hash = "aca7c351831faabfb94268450c76b852910be5dd7a9b85b9892a5830c1012fbb"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/gauntlet_gauntlet.json"
-hash = "a5920a45f29970b1b9814bf79a047ff9c286729a1ce0faba4da6d6b532b7e8a9"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/gauntlet_maulers.json"
-hash = "be595dc8163735694694ec347fdc67674b081d4d1fb1ce9c2dfaf3d12614eaff"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/gauntlet_soul_fists.json"
-hash = "a5920a45f29970b1b9814bf79a047ff9c286729a1ce0faba4da6d6b532b7e8a9"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/hammer_bone_cudgel.json"
-hash = "ec45a91f901dc666f6f4c5ddfb5851ed89655a6152186fc4e0d7916bea542c7f"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/hammer_boneclub.json"
-hash = "ec45a91f901dc666f6f4c5ddfb5851ed89655a6152186fc4e0d7916bea542c7f"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/hammer_flail.json"
-hash = "836ca2ab7f95088f3d1edac658921228f205c8e23e06acb35967ef5e40c69d3c"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/hammer_gravity.json"
-hash = "3732572d89b8a5d5259efdeaf9aa02e3f9f1d1bdad8970060c2db97eaf48c9c0"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/hammer_great_hammer.json"
-hash = "3732572d89b8a5d5259efdeaf9aa02e3f9f1d1bdad8970060c2db97eaf48c9c0"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/hammer_mace.json"
-hash = "836ca2ab7f95088f3d1edac658921228f205c8e23e06acb35967ef5e40c69d3c"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/hammer_stormlander.json"
-hash = "3732572d89b8a5d5259efdeaf9aa02e3f9f1d1bdad8970060c2db97eaf48c9c0"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/hammer_suns_grace.json"
-hash = "836ca2ab7f95088f3d1edac658921228f205c8e23e06acb35967ef5e40c69d3c"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/pick_diamond_pickaxe_var.json"
-hash = "9bc71335397c4dc1d4ff35a61890d1b09b05e68198f731b0152f83f30e10f8fa"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/pick_hailing_pinnacle.json"
-hash = "9bc71335397c4dc1d4ff35a61890d1b09b05e68198f731b0152f83f30e10f8fa"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/pick_howling_pick.json"
-hash = "9bc71335397c4dc1d4ff35a61890d1b09b05e68198f731b0152f83f30e10f8fa"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/pick_mountaineer_pick.json"
-hash = "9bc71335397c4dc1d4ff35a61890d1b09b05e68198f731b0152f83f30e10f8fa"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sickle_frost_scythe.json"
-hash = "f794ba175acd94984fa9dc15f5666486e2db8a30ce5b5c5bc40f26e36b985c31"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sickle_jailors_scythe.json"
-hash = "f794ba175acd94984fa9dc15f5666486e2db8a30ce5b5c5bc40f26e36b985c31"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sickle_last_laugh_gold.json"
-hash = "84f22bec7209f31094337a764e25211d4c551995f652978330352ce7ce951e50"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sickle_last_laugh_silver.json"
-hash = "84f22bec7209f31094337a764e25211d4c551995f652978330352ce7ce951e50"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sickle_nightmares_bite.json"
-hash = "84f22bec7209f31094337a764e25211d4c551995f652978330352ce7ce951e50"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sickle_sickle.json"
-hash = "84f22bec7209f31094337a764e25211d4c551995f652978330352ce7ce951e50"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sickle_skull_scythe.json"
-hash = "f794ba175acd94984fa9dc15f5666486e2db8a30ce5b5c5bc40f26e36b985c31"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sickle_soul_scythe.json"
-hash = "f794ba175acd94984fa9dc15f5666486e2db8a30ce5b5c5bc40f26e36b985c31"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/spear_cackling_broom.json"
-hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/spear_fortune.json"
-hash = "b8c91854160b5938f2d29b581e786cf84ca0490956df072f4d76957f5fde4cf5"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/spear_glaive.json"
-hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/spear_grave_bane.json"
-hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/spear_spear.json"
-hash = "b8c91854160b5938f2d29b581e786cf84ca0490956df072f4d76957f5fde4cf5"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/spear_venom_glaive.json"
-hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/spear_whispering_spear.json"
-hash = "b8c91854160b5938f2d29b581e786cf84ca0490956df072f4d76957f5fde4cf5"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/staff_battlestaff.json"
-hash = "e489f8a4ad0a3de2ba6f5654528b5863f4683c20c601381b8fe160cb10e5f546"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/staff_battlestaff_of_terror.json"
-hash = "e489f8a4ad0a3de2ba6f5654528b5863f4683c20c601381b8fe160cb10e5f546"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/staff_growing_staff.json"
-hash = "e489f8a4ad0a3de2ba6f5654528b5863f4683c20c601381b8fe160cb10e5f546"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_beestinger.json"
-hash = "d315ea2744aae47b0bf888f31a0427d4314ad67fbc543293b8c8f9cdb21030dc"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_broadsword.json"
-hash = "ddb18145c665761f1d8b6cb7682094b63fe9bb4b10a5ad6c5dbbf6118fc8fe48"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_broken_sawblade.json"
-hash = "20c7e26cec96a4554c97ff7f018c965fcf8e68d7193384c856b88260ff39e8ab"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_claymore.json"
-hash = "0d3f342e3314fca09d28f4fc1716a3932a31e54784e75c6e07542aa4658effb3"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_coral_blade.json"
-hash = "ad3c0c9dc6baa2fdec0c7d654a063e7905b493e11041355026ecc0ec2ed857db"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_cutlass.json"
-hash = "09c93cc4d020a2ad56b13b0ab518fe9242e01ba058c3640c56e044f0db1c40e0"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_dancers_sword.json"
-hash = "296ecf0256e7fcf4c9de65081d026e7589f1ed783f094567b8fecf052676b121"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_dark_katana.json"
-hash = "e9a8c6e4f895403ae31893460f9250597336e05f4f50686e4e6a97976535bdcd"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_diamond_sword_var.json"
-hash = "1884cbfaa2ce24d99ec6b17eb2b65e3b3ad9b71b1cc8125785444f4b2defcdc0"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_freezing_foil.json"
-hash = "d315ea2744aae47b0bf888f31a0427d4314ad67fbc543293b8c8f9cdb21030dc"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_frost_slayer.json"
-hash = "ddb18145c665761f1d8b6cb7682094b63fe9bb4b10a5ad6c5dbbf6118fc8fe48"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_great_axeblade.json"
-hash = "3f3a2a25548e6201270adfe37a2564b7f9ed3039ab9976bbbccec2f10407a79e"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_hawkbrand.json"
-hash = "0547c632de736809b5ea740d8318685fd36ddcc7b07eecb2ccad1bd14b0dc958"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_heartstealer.json"
-hash = "0d3f342e3314fca09d28f4fc1716a3932a31e54784e75c6e07542aa4658effb3"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_iron_sword_var.json"
-hash = "1884cbfaa2ce24d99ec6b17eb2b65e3b3ad9b71b1cc8125785444f4b2defcdc0"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_katana.json"
-hash = "e9a8c6e4f895403ae31893460f9250597336e05f4f50686e4e6a97976535bdcd"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_masters_katana.json"
-hash = "e9a8c6e4f895403ae31893460f9250597336e05f4f50686e4e6a97976535bdcd"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_mechanized_sawblade.json"
-hash = "c1837afc363b51339499d5dc40098a06a73fd6e3ad0df09d0b3e7db287ac91c9"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_nameless_blade.json"
-hash = "09c93cc4d020a2ad56b13b0ab518fe9242e01ba058c3640c56e044f0db1c40e0"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_obsidian_claymore.json"
-hash = "486c122d5c596e43d654375221f71278022ebd7647efdf74b23be7848c85161e"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_rapier.json"
-hash = "d315ea2744aae47b0bf888f31a0427d4314ad67fbc543293b8c8f9cdb21030dc"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_sinister.json"
-hash = "7fa66703dfc1c802ef4c9426c578e1128a1692ee3ce18e6943e4b5dee5a9afc1"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_sponge_striker.json"
-hash = "ad3c0c9dc6baa2fdec0c7d654a063e7905b493e11041355026ecc0ec2ed857db"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_the_starless_night.json"
-hash = "599856e8c435dd6893513afc982507ade2568f470c00c82c7a65034f69985ac2"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/sword_truthseeker.json"
-hash = "7aa87d5fa494d4096cd1660161bd8f089b827c0d8b21f6ba7d5dc0ca3661a7d4"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/whip_vine_whip.json"
-hash = "4c531597aafff9842862118a2df3f1c2588a4b91fe820671a5daff164221e21c"
-
-[[files]]
-file = "kubejs/data/mcdw/weapon_attributes/whip_whip.json"
-hash = "4c531597aafff9842862118a2df3f1c2588a4b91fe820671a5daff164221e21c"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/bloodthirster.json"
-hash = "e5c4bf228d47693419fc1542dd292add4c7130759b5e9fdfd5ccc7412cad6455"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/bluemoon_greatsword.json"
-hash = "00a9d5787e030658a79855dec428bde103aec19fde3a18f072bcc49b42025bfd"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/bluemoon_shortsword.json"
-hash = "551640a9612f936285e2f9bdee8f12b99aa97412a7efc2b529149c30a5f63f64"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/crucible_sword.json"
-hash = "3d93c32e7c1ff2bbf22cb74432d0a864bae1748b2ab9761eb7f65b4669c20a07"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/darkin_blade.json"
-hash = "d8ec36e15cbd284d72b4f4437e1ee88d12eb32a400a7a0af05034c46540075c9"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/dawnbreaker.json"
-hash = "a52799f7378de409fc3a21d63591cf1859a17bccb4cf9b2b63547a26f0be4ce5"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/draugr.json"
-hash = "d8da9f367dc39ee4926d6c7456132734f2f62b9a5dd2c839a5a93b3bc58528e7"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/guts_sword.json"
-hash = "04d6442263cf5d8350f3059d4459aa51da511bdd3459cc11d025e07b15985025"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/holy_moonlight_greatsword.json"
-hash = "87ed43c5a348bbc3b302be0f22f8bb7172f9292abc98764fc51a1289e03a50a4"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/leviathan_axe.json"
-hash = "7b71b4005b083e77632fcfe5932f568f1b8095faa71124832478c868cfd6b6f5"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/lich_bane.json"
-hash = "a52799f7378de409fc3a21d63591cf1859a17bccb4cf9b2b63547a26f0be4ce5"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/moonlight_greatsword.json"
-hash = "00a9d5787e030658a79855dec428bde103aec19fde3a18f072bcc49b42025bfd"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/moonlight_shortsword.json"
-hash = "551640a9612f936285e2f9bdee8f12b99aa97412a7efc2b529149c30a5f63f64"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/nightfall.json"
-hash = "289e59a6735645ad879b317e8979dd88abac5464b45e6ce31aa41a3ae10eb0ac"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/pure_moonlight_greatsword.json"
-hash = "00a9d5787e030658a79855dec428bde103aec19fde3a18f072bcc49b42025bfd"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/rageblade.json"
-hash = "3485cd25cc2b0688e336c472b326f7dd83e72988519dfed8ce75712b7de360c9"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/translucent_double_greatsword.json"
-hash = "147566d867a4a4764743835e02dc64e9cc1c762d3f6e7b6264afe5a0f133da7d"
-
-[[files]]
-file = "kubejs/data/soulsweapons/weapon_attributes/whirligig_sawblade.json"
-hash = "674e45bd501d21c6508039f01551fbba79be7ab0f6a1957381f81d05f8488214"
-
-[[files]]
-file = "kubejs/data/stoneholm/loot_tables/crypt.json"
-hash = "b8b625717dd1d5590cae84a434b82b52530e8780818521c9f5dcec55f838d3a7"
 
 [[files]]
 file = "kubejs/data/tiered/item_attributes/trinkets/armor_1.json"
@@ -2413,18 +1953,6 @@ file = "kubejs/data/trinkets/slots/offhand/ring.json"
 hash = "1db0f6040980a490df2c73959450dca45fab24ebcf6d09bea3a79b429321e19d"
 
 [[files]]
-file = "kubejs/data/twilightforest/weapon_attributes/diamond_minotaur_axe.json"
-hash = "bec6fa93344d2acdbe5e2cff8eec496845ac4c115acae44d21867ea95cfe3885"
-
-[[files]]
-file = "kubejs/data/twilightforest/weapon_attributes/giant_sword.json"
-hash = "f27a0b1c3b2ff320ff51a27a89c3f6bd047803334cbf9d21c837856e6f4d51ec"
-
-[[files]]
-file = "kubejs/data/twilightforest/weapon_attributes/knightmetal_sword.json"
-hash = "b84e036b9ceabedf82281cfc6461d36370d5ec52c0a171bf0b8706f5b32ed3ef"
-
-[[files]]
 file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
@@ -2522,7 +2050,7 @@ hash = "2a20228e30934e7ea410cd1821d3e29417bce7483d936d4f1b86f7e1a18a7d16"
 
 [[files]]
 file = "mods/[IR3Only]InfinityCore-1.3.jar"
-hash = "5d88fb99d993667f5b6f82b4797eb9d2691b5993aa4908b016f9570dfdd9a247"
+hash = "b6ad2cd136b5f44762050cd9006402de0378fd37f671a675aa07b513d4e1701f"
 
 [[files]]
 file = "mods/[IR3Only]MineMenu-Refabricated-6.3.1-1.20.1.jar"
@@ -2804,11 +2332,6 @@ metafile = true
 [[files]]
 file = "mods/darkbosses.pw.toml"
 hash = "51cc547e006f342b91b7c4df3298f237f4ad52c533f117be8e0e3ef5d8a465b1"
-metafile = true
-
-[[files]]
-file = "mods/datapack-portals.pw.toml"
-hash = "0fee17fd9e5d172d9e2ba1fae779416c2ebd6d830a45773160eeb60738c9ad6f"
 metafile = true
 
 [[files]]
@@ -3320,6 +2843,11 @@ hash = "cb9ce1297e2392080f67e06a102ac58c4aa5c628279206891058e84c8e53282f"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "7536a88d4bc98d753d59b95bc097d2f0970fa0c0b0243ab83eaf426cb0abb471"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
@@ -3719,7 +3247,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "fdb0ee8c2039c87ff06268cf091ca0242f3af9404973891e82377c2b9bbd1dde"
-
-[[files]]
-file = "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"
-hash = "66162b3018654e91b0611e7d31eb0ccc7e8255f09004bcb4f6340ce75cdd4bec"

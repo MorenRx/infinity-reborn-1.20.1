@@ -3,10 +3,19 @@
     "infinity.gui.button.infinity_old": "无限一代",
     "infinity.gui.button.setting": "游戏设置",
 	"infinity.rebirth.rebirthable": "（可转生）",
+	"infinity.msg.structure.find.success": "附近最近的 %s 在 [%d, %d]",
+	"infinity.msg.structure.find.failure": "附近10000格内没有 %s",
 	"infinity.tiered.1": "§f§l✦·常见",
 	"infinity.tiered.2": "§9§l✦✦·精锻",
 	"infinity.tiered.3": "§a§l✦✦✦·极品",
 	"infinity.tiered.4": "§6§l✦✦✦✦·圣物",
 	"infinity.tiered.5": "§c§l✦✦✦✦✦·神器",
-	"infinity.tiered.hide": "§d§l隐藏武器"
+	"infinity.tiered.hide": "§d§l隐藏武器",
+	"structure.bosses_of_mass_destruction.lich_tower": "夜巫妖塔",
+	"structure.bosses_of_mass_destruction.gauntlet_arena": "下界铁掌竞技场",
+	"structure.bosses_of_mass_destruction.obsidilith_arena": "黑曜石之柱浮岛",
+	"structure.bosses_of_mass_destruction.void_blossom": "虚空之花洞穴",
+	"structure.soulsweapons.champions_graves": "远古英雄之墓",
+	"structure.soulsweapons.cathedral_of_resurrection": "复活大教堂",
+	"structure.soulsweapons.decaying_kingdom": "腐朽的王国"
 }

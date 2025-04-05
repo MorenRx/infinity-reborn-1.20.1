@@ -129,9 +129,11 @@
 	
     "item.kubejs.yan_qiu": "眼球召唤",
     "item.kubejs.yan_qiu.tooltip.1": "右键在末地召唤眼球",
+	"item.kubejs.yan_qiu.tip.dimension": "§c§l需要在末地使用",
 	
     "item.kubejs.hei_shi": "黑石傀儡召唤",
     "item.kubejs.hei_shi.tooltip.1": "右键在地狱召唤黑石傀儡",
+	"item.kubejs.hei_shi.tip.dimension": "§c§l需要在地狱使用",
 	
     "item.kubejs.xu_wu": "虚无之刺",
     "item.kubejs.xu_wu.tooltip.1": "主手持有时攻击地狱之手将其秒杀",
@@ -359,10 +361,12 @@
     "item.kubejs.lce_tang.tooltip.4": "§c控血：攻击造成5秒虚弱2缓慢2",
     "item.kubejs.lce_tang.tooltip.5": "§c血之恶魔：生命低于50%时获得迅捷3",
     "item.kubejs.lce_tang.tooltip.6": "--来自赞助者lce_Tang",
+    "item.kubejs.lce_tang.tip.health": "§c§l生命值不足",
 	
 	"item.kubejs.ailinghan": "§6护摩之杖",
     "item.kubejs.ailinghan.tooltip.1": "每一点血量上限增加0.1攻击力",
     "item.kubejs.ailinghan.tooltip.2": "右键扣除30%生命值获得力量10，持续9秒，CD16秒",
+	"item.kubejs.ailinghan.tip.health": "§c§l生命值不足",
 
     "item.kubejs.jian_li": "§klisj145246§3之剑",
     "item.kubejs.jian_li.tooltip.1": "§c✦✦✦✦✦✦·§klis",
