@@ -990,7 +990,7 @@ hash = "79ab966c20ed519462d89930f241e9ec0eab0dd5edf8f44d28a2adc7d3dcad53"
 
 [[files]]
 file = "kubejs/assets/infinity_reborn/lang/zh_cn.json"
-hash = "a7ee65ef570faafa53915f4e4277a687fab484fb9aecf05b8aee57807c33eb76"
+hash = "61427d6781cbd361d62fe0d84b6be4fa3d840dbc92f037acaee9c90544936ff6"
 
 [[files]]
 file = "kubejs/assets/infinity_reborn/models/item/crystal_bow.json"
@@ -1106,7 +1106,7 @@ hash = "d8fdee7eeec27f0c60ee61e04a0f1a514bd96fe6e3adfaa8513c9fadcd55c065"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/zh_cn.json"
-hash = "fafb620b4dbe89fb982eb6eced6e3e2b32aa8d556e934c05407299f0b6a612d6"
+hash = "e290ac3a99c4531eac49372e84477cfbc578e48eb8179288ab9a14c9d93e3cd6"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/special_obsidian.json"
@@ -1749,6 +1749,26 @@ file = "kubejs/config/probejs.json"
 hash = "eb0bfaed60482e4e159ff4e2452cc098de57689f7cc82b4c9d9f112548173da6"
 
 [[files]]
+file = "kubejs/data/minecraft/attributes/entity_types.json"
+hash = "bcde085ff0b73b258040e6f8261fec0032fe5b1804b04ffe7b3652e59d76641e"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/cartographer.json"
+hash = "5c36c73c4026c7401e5df51efcfda83589bd6c92f27e7c31f39f81deb42c2409"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/fletcher.json"
+hash = "ca4bbd8303a9f6c1654cfbb06e81acf611ebe10e68800a6b8925682864df8521"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/librarian.json"
+hash = "96b2975894ff94ff7f2d475c4e1bf9ea80f74275982d85c8dfb49bdc468718c2"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/weaponsmith.json"
+hash = "054e4275ff3fc52ae6c0fd2918be661007a305021d995ba1ae44325fbc88cf30"
+
+[[files]]
 file = "kubejs/data/tiered/item_attributes/trinkets/armor_1.json"
 hash = "c243ab8849ff168d2c6fa3b793ce2bef5b10597aedcb4b07f5a8709da28affc9"
 
@@ -1958,23 +1978,39 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/constdef.js"
-hash = "19fc086597a99a5542c2e40c5b3556ad3e6f292bd235c25b6ecabd9d49089279"
+hash = "e837aee44728e21c766373e6a362f992a45548e053f17ef927a53fb32f5438fe"
+
+[[files]]
+file = "kubejs/server_scripts/event/item_right.js"
+hash = "93d91263b2150d211b453cbf1753e4b1f32cd5137c6c2fa0d5848b455e7c0292"
+
+[[files]]
+file = "kubejs/server_scripts/event/player_login.js"
+hash = "142830a3c469da29d18712007a75b82cc222134ab603db1d5f9952fdb13e3ff4"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing_rebirth.js"
 hash = "d2c8c5fa021da85afbc1afbe02fd5869a2fba790d6545b20460a3e12721609e9"
 
 [[files]]
+file = "kubejs/server_scripts/tag/item.js"
+hash = "f54021b45e5481853ca9e90b4ef2e6f85b399438867c56a36f8f46ce926b88e9"
+
+[[files]]
 file = "kubejs/server_scripts/tag/rebirth.js"
 hash = "16d88d1f5ee65b2947fdb4d33489123c44fb2702a1c0c2c1056f80daa133da41"
 
 [[files]]
-file = "kubejs/server_scripts/tag/tags.js"
-hash = "f54021b45e5481853ca9e90b4ef2e6f85b399438867c56a36f8f46ce926b88e9"
+file = "kubejs/server_scripts/tag/structure.js"
+hash = "1659672f8eb3f8c6b5e4defdae32d75b40ee63b4f4e1dea75b3b37d1b3ec4c99"
 
 [[files]]
 file = "kubejs/server_scripts/tag/tiered.js"
 hash = "06a5256e2af226880b37f0aa945cce4496c9b577e4937a98b58d3c803b532ce9"
+
+[[files]]
+file = "kubejs/server_scripts/utils.js"
+hash = "4a92c85540e35ad219cd0586b1dd3520042a2a02ef3083e7e6c7da9a04086ef0"
 
 [[files]]
 file = "kubejs/startup_scripts/constdef.js"
@@ -2136,12 +2172,12 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "cc46b494fef0cbb9d23e9bf8877e9ae4fa16dc269c401712710db907afe44b72"
+hash = "5c53336a2e46a334336a2a40e3fe18af4656a76e66b83b306362962136c92d8c"
 metafile = true
 
 [[files]]
 file = "mods/asteorbar.pw.toml"
-hash = "efaefef76e04e060b375987a85f4500c0dde2c61fc189f5873fbcc3dcca67e79"
+hash = "0c89e851307171f58ce9351d17fd50eed6009f56070c0f1da96a690bca5bb479"
 metafile = true
 
 [[files]]
@@ -2186,7 +2222,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.pw.toml"
-hash = "2795ee8ccc3908a260c267951c0364edc331eb5d50af68d096381027e67695f2"
+hash = "f067ebe2caae1d95ddf147fa4e6f9ccf802da01f4d1f9686cf89621749049530"
 metafile = true
 
 [[files]]
@@ -2416,7 +2452,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5b37989d32ad1ff9f26c6983e0e834c6b1bc68456680ac0e63541579ac4914d7"
+hash = "2410440c7d3f9361bc19d7bd1a2630d3db36a645372848c847e53f2e7e5f7093"
 metafile = true
 
 [[files]]
@@ -2441,7 +2477,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "7888fafcdb02347e807cc5851cf5da6650ea7d60e6ef507c89a65810ffa1e774"
+hash = "868c6c00aa3bd5ead878f1f5e472f2e6258c316fe58690d6dc3918cd9c747e54"
 metafile = true
 
 [[files]]
@@ -2551,7 +2587,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "319739a78723501a1bdca07c12cd26075316d596a5503edb3140baaa66499d17"
+hash = "a758c673bb99d7d86bbe1c5aa14f2a38b3c90112938d29479135cb4b9d674aa6"
 metafile = true
 
 [[files]]
@@ -2819,7 +2855,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ab34cef75a406dfa31de7c074886a7a7f85e54d0d2fd4b6e54956bb633a857a0"
+hash = "7e88b9f4614a2837ff32ec8c4b12c02542872ed7f803fbea1aa435815a23845a"
 metafile = true
 
 [[files]]
@@ -2899,7 +2935,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "2a4029d68de71092a9b9c7d22539760d531f1f7ad1d14ebf96f49dedbd9a42e2"
+hash = "5318ebc357efce4f400426777a9699b1ae3cc9e136e06abe6f8729bba81a868b"
 metafile = true
 
 [[files]]
@@ -2949,12 +2985,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b844b9ee65afa7f4893161c3942288a6e0ead1ae5f24c8c101c62e99c8aaf8bf"
+hash = "23d29c3078351038a655c12b04271c56350aa48e178ecd8bb817da6eefdb8bf6"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "69c56828e8ca43bd3dc72f5a83d2067f713b302ccdff7ca542de46453e072000"
+hash = "133f220845364f8a2bb5eb01b59459861fcbc3bfed73226740b8a786aa95b91b"
 metafile = true
 
 [[files]]
@@ -2969,7 +3005,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "553d028f83c3e814df5220a8576628b6d80e1a2f1bfb18f939b3a5157b3d2746"
+hash = "db79b6400ab6b4e23f87b870f94a8540d72599d8e21ca946a2740a52d3a96867"
 metafile = true
 
 [[files]]
@@ -3186,7 +3222,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "dcc727178f3db05672e3e12dd74fed8b93b11086971c8cf982bf9caf3fca5497"
+hash = "be4668df1dc577efc7d697dc82901ba8ee0387a3e23f5b11a150c237e77cb354"
 metafile = true
 
 [[files]]
