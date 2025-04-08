@@ -19,4 +19,11 @@ ItemEvents.tooltip(event => {
 			text.add(1, item.hasTag('kubejs:rebirthable') ? (value.string + Text.translate('infinity.rebirth.rebirthable').string) : value)
 		})
 	})
+
+	event.addAdvanced('botania:crystal_bow', (item, advanced, text) => {
+		if (item.hasNBT() && item.nbt['CustomModelData'] == 1781) {
+			text.add(2, "古:你怎么知道我两发抽到了小豆泥隐藏")
+			text.add(3, "来自赞助者-xuexiye")
+		}
+	})
 })

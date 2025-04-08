@@ -14,7 +14,7 @@
 	*/
 	"upgradeArmorItem": "kubejs:strong_fossil",
 	// Upgrade level cost [default = 1]
-	"upgradeLevelCost": 20,
+	"upgradeLevelCost": 10,
 	// Critical Hit attribute config
 	"critConfig": {
 		// Chance for a weapon to have critical hit property [0 = never, 1 = always] [default = 0.1]

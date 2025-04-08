@@ -2,7 +2,7 @@ PlayerEvents.loggedIn(event => {
     let { player, server } = event
 
     server.scheduleInTicks(20, (callback) => {
-        if (player.persistentData.getInt('firstJoin') == 1) return
+        if (player.persistentData.getBoolean('firstJoin')) return
 		
         player.inventory.clear()
         player.give(Item.of('emerald_tools:copper_sword', '{Unbreakable:1b}'))
@@ -24,6 +24,13 @@ PlayerEvents.loggedIn(event => {
 				player.give(item)
 			})
 		}
-        player.persistentData.putInt('firstJoin', 1)
+        player.persistentData.putBoolean('firstJoin', true)
     })
+})
+
+PlayerEvents.loggedIn(event => {
+    let { player } = event
+	let difficulty = player.persistentData.getByte('difficulty')
+	if (difficulty < 0 || difficulty >= difficultyList.length)
+		player.persistentData.putByte('difficulty', 1)
 })

@@ -3,6 +3,7 @@
 	"item.kubejs.huan_lin_ying.tooltip.1": "诺华觉得，穿上这个帽子的人，跟大聪明没区别",
 	"item.kubejs.huan_lin_ying.tooltip.2": "无限重生三群管理员:宫上诺华留",
 	"item.kubejs.huan_lin_ying.tooltip.3": "--来自赞助者宫上诺华",
+	"item.kubejs.huan_lin_ying.tooltip.4": "§d§l你感受到了灵魂深处刺骨的寒意",
 	
 	"item.kubejs.baigei_boots": "§6白给靴",
 	"item.kubejs.baigei_boots.tooltip.1": "§7感知",
@@ -29,6 +30,9 @@
     "item.kubejs.paolude_jy": "§b跟着凑热闹的Jy",
     "item.kubejs.paolude_jy.tooltip.1": "§bJy.的头",
     "item.kubejs.paolude_jy.tooltip.2": "§a右键获得隐藏奖励",
+    "item.kubejs.paolude_jy.msg.joke": "§e点我领取丰厚奖励",
+    "item.kubejs.paolude_jy.tip.reward": "§a恭喜你发现了真隐藏彩蛋",
+    
 
     "item.kubejs.guguji": "§b咕咕稽",
     "item.kubejs.guguji.tooltip.1": "这是个鸽子",
@@ -101,6 +105,7 @@
 	
     "item.kubejs.jiushu_heart": "§4救赎之心",
     "item.kubejs.jiushu_heart.tooltip.1": "使用减少2点难度",
+    "item.kubejs.jiushu_heart.tip.failed": "%s模式无法降低到%d难度以下",
 	
 	"item.kubejs.disintegration_tablet": "§e崩解牌",
     "item.kubejs.disintegration_tablet.tooltip.1": "这并不是一次性用品",
@@ -111,14 +116,8 @@
     "item.kubejs.strong_fossil.tooltip.1": "仅对已有天赋的装备强化",
     "item.kubejs.strong_fossil.tooltip.2": "很大概率失败",
 	
-	"item.kubejs.bloody_tear": "§4血泪",
-    "item.kubejs.bloody_tear.tooltip.1": "§4右键召唤超级血夜",
-	
 	"item.kubejs.soul_bone": "灵魂之骨",
     "item.kubejs.soul_bone.tooltip.1": "鹿之精魂的力量来源",
-	
-	"item.kubejs.skill_bottle": "§9技能之瓶",
-    "item.kubejs.skill_bottle.tooltip.1": "右键使用来返还一点属性点",
 	
     "item.kubejs.shi_lian": "十连抽卡券",
     "item.kubejs.shi_lian.tooltip.1": "§e§l右键抽一次十连",
@@ -165,7 +164,7 @@
 	"item.kubejs.difficulty_changer.tooltip.23": "§7- 每次攻击boss会减少boss10%护甲值",
 	"item.kubejs.difficulty_changer.tooltip.24": "§7- 其余与大师难度一致,仅供挑战",
 	
-	"item.kubejs.yong_hen_star.name": "§b永恒之星",
+	"item.kubejs.yong_hen_star": "§b永恒之星",
 	"item.kubejs.yong_hen_star.tooltip.1": "右键切换永恒难度",
 	"item.kubejs.yong_hen_star.tooltip.2": "§4没脑子不要玩!",
 
@@ -181,6 +180,9 @@
 	"item.kubejs.sao_di": "§6清理扫帚",
 	"item.kubejs.sao_di.tooltip.1": "右键清理掉落物",
 	"item.kubejs.sao_di.tooltip.2": "§4需要作弊权限",
+	"item.kubejs.sao_di.msg.count": "%s 清除了 %d 堆掉落物",
+    "item.kubejs.sao_di.msg.failed.permissions": "没有权限使用此物品",
+    "item.kubejs.sao_di.msg.failed.none": "没有可以被清理的掉落物",
 
 	"item.kubejs.boss_compass1": "§6boss罗盘-夜巫妖",
 	"item.kubejs.boss_compass1.tooltip.1": "右键使用显示最近的boss建筑",
@@ -386,6 +388,29 @@
     "item.kubejs.snowstormcane.tooltip.3": "§5归乡",
     "item.kubejs.snowstormcane.tooltip.4": "-手持时获得速度3",
 	
+
+    "item.mythicmetals.aquarium_pearl.tooltip.1": "挖掘深海金属矿石概率掉落",
+
+    "item.mythicmetals.banglum_chunk.tooltip.1": "挖掘班古姆矿石概率掉落",
+
+    "item.mythicmetals.stormyx_shell.tooltip.1": "挖掘风暴矿石概率掉落",
+
+    "item.mythicmetals.raw_kyber.tooltip.1": "在紫水晶洞的方解石中概率生成",
+
+    "item.mcda.frost_crystal.tooltip.1": "挖掘蓝冰概率掉落",
+
+    "item.bosses_of_mass_destruction.brimstone_nectar.tooltip.1": "§6§l仅适用于:夜巫妖,虚空之花,地狱之手,黑曜石之柱",
+
+    "item.spectrum.crescent_clock.tip.moon": "今天的月相是%s",
+    "item.spectrum.crescent_clock.tip.moon.1": "满月",
+    "item.spectrum.crescent_clock.tip.moon.2": "亏凸月",
+    "item.spectrum.crescent_clock.tip.moon.3": "下弦月",
+    "item.spectrum.crescent_clock.tip.moon.4": "残月",
+    "item.spectrum.crescent_clock.tip.moon.5": "新月",
+    "item.spectrum.crescent_clock.tip.moon.6": "蛾眉月",
+    "item.spectrum.crescent_clock.tip.moon.7": "上弦月",
+    "item.spectrum.crescent_clock.tip.moon.8": "盈凸月",
+
 	
     "block.kubejs.adamantite_brick": "精金锻炉砖",
 	"block.kubejs.special_obsidian": "特殊处理的黑曜石",
@@ -397,6 +422,7 @@
 	"text.infinity.book.name": "§b无限之书",
 	"text.infinity.book.description": "这是 Infinity 模组包的指南书。",
 	"text.infinity.book.tooltip": "《无限》整合包的指南书",
+
 	"subtitles.kubejs.gu": "灵感菇:企鹅",
 	"subtitles.kubejs.v_gu": "灵感菇:村民",
 	"subtitles.kubejs.cat": "灵感菇:猫"

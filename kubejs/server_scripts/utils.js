@@ -1,6 +1,3 @@
-const $Registries = Java.loadClass('net.minecraft.core.registries.Registries')
-const $TagKey = Java.loadClass('net.minecraft.tags.TagKey')
-
 function addEffect(entity, effectID, duration, amplifier) {
     entity.potionEffects.add(effectID, duration * 20, amplifier - 1, true, false)
 }

@@ -217,6 +217,15 @@ const starterKit = [
 	"gobber2:gobber2_ring_miner"
 ]
 
+const difficultyList = [
+	{name: 'journey', color: 0xAAAAAA, minImd: 0},
+	{name: 'classic', color: 0xFFFFFF, minImd: 0},
+	{name: 'expert', color: 0xAC59FF, minImd: 0},
+	{name: 'master', color: 0xFF4040, minImd: 0},
+	{name: 'death', color: 0x990000, minImd: 0},
+	{name: 'eternity', color: 0x00BFFF, minImd: 50},
+]
+
 const questLootMiner = [
 	'mythicmetals:bronze_ingot',
 	'mythicmetals:durasteel_ingot',
